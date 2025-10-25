@@ -1,0 +1,13 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"Numbers
+TOPS",105,0.0,1.0,105,"{""86101"": 1, ""86254"": 1, ""86608"": 1, ""86607"": 1, ""86606"": 1}",5.0,5.0,0.0
+"Numbers
+TOPS.1",105,0.4,0.6,63,"{""86201"": 1, ""86423"": 1, ""86407"": 1, ""86408"": 1, ""86409"": 1}",5.0,5.0,0.4
+"Numbers
+Pre-TOPS",105,0.0,0.0,99,"{""E3136"": 2, ""E3129"": 2, ""E3179"": 2, ""E3192"": 2, ""E3144"": 2}",5.0,5.0,0.0
+Name(s),105,0.152381,0.0,89,"{""Sir William A Stanier FRS"": 1, ""Royal Anglian Regiment"": 1, ""Saint Mungo"": 1, ""Post Haste 150 Years of\nthe Travelling Post Office"": 1, ""The Kingsman"": 1}",25.315,20.0,0.152381
+Dates,105,0.152381,0.0,70,"{""1981–2003"": 4, ""1978–2002"": 4, ""1981–2002"": 3, ""2005-"": 2, ""1982–1986"": 2}",12.876,9.0,0.152381
+Final Livery,105,0.0,0.0,17,"{""Freightliner Green"": 25, ""Anglia Railways"": 19, ""Virgin Red/Black"": 16, ""InterCity"": 16, ""Rail Express Systems"": 9}",16.076,16.0,0.0
+Operator,105,0.0,0.0,14,"{""Freightliner"": 32, ""Virgin Cross-Country"": 18, ""EWS"": 13, ""'one'"": 13, ""FM Rail"": 7}",11.81,12.0,0.0
+Withdrawn,105,0.161905,0.0,40,"{""10/2002"": 11, ""10/2003"": 9, ""07/2002"": 6, ""10/2004"": 6, ""04/2004"": 4}",7.0,7.0,0.161905
+Status,105,0.0,0.0,69,"{""In service"": 16, ""Stored at Long Marston"": 6, ""Scrapped at Immingham RFT (11/2003)"": 4, ""Scrapped at Crewe LNWR (03/2013)"": 3, ""Scrapped at Sandbach Car & Commercial Dismantlers at Crewe LNWR (01/2010)"": 2}",36.733,35.0,0.0

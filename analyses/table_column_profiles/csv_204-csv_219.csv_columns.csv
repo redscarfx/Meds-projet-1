@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,13,0.0,0.0,13,"{""August 31"": 1, ""September 15"": 1, ""September 20"": 1, ""September 29"": 1, ""October 6"": 1}",10.538,10.0,0.0
+Time,13,0.0,0.0,8,"{""1:30 PM"": 6, ""6:00 PM"": 1, ""2:00 PM"": 1, ""7:00 PM"": 1, ""4:00 PM"": 1}",7.077,7.0,0.0
+Opponent#,13,0.0,0.0,13,"{""at #13 Michigan State*"": 1, ""Miami (OH)*"": 1, ""BYU*"": 1, ""at New Mexico"": 1, ""at Southern Miss*"": 1}",12.0,12.0,0.0
+Rank#,13,0.230769,0.0,6,"{""#22"": 4, ""#15"": 2, ""#25"": 1, ""#18"": 1, ""#14"": 1}",3.0,3.0,0.0
+Site,13,0.0,0.0,9,"{""Bronco Stadium • Boise, ID"": 5, ""Spartan Stadium • East Lansing, MI"": 1, ""University Stadium • Albuequerque, NM"": 1, ""M. M. Roberts Stadium • Hattiesburg, MS"": 1, ""Bronco Stadium • Boise, ID (Battle for the Milk Can)"": 1}",34.0,34.0,0.0
+TV,13,0.0,0.0,6,"{""NBCSN"": 5, ""ESPN"": 3, ""CBSSN"": 2, ""KTVB"": 1, ""FSN"": 1}",4.385,5.0,0.0
+Result,13,0.0,0.0,13,"{""L 13–17"": 1, ""W 39–12"": 1, ""W 7–6"": 1, ""W 32–29"": 1, ""W 40–14"": 1}",6.769,7.0,0.0
+Attendance,13,0.0,0.0,13,"{""78,709"": 1, ""34,178"": 1, ""36,864"": 1, ""28,270"": 1, ""25,337"": 1}",6.0,6.0,0.0

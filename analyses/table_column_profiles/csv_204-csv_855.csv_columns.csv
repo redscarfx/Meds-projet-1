@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,19,0.0,1.0,10,"{""1980"": 2, ""1981"": 2, ""1982"": 2, ""1983"": 2, ""1984"": 2}",4.0,4.0,0.0
+Date,19,0.0,0.0,17,"{""Oct 19"": 2, ""Nov 22"": 2, ""Nov 10"": 1, ""Sept 24"": 1, ""Dec 11"": 1}",6.053,6.0,0.0
+Winner,19,0.0,0.0,2,"{""Chicago Bears"": 13, ""Detroit Lions"": 6}",13.0,13.0,0.0
+Result,19,0.0,0.0,19,"{""24-7"": 1, ""24-3"": 1, ""47-27"": 1, ""13-12"": 1, ""24–7"": 1}",5.0,5.0,0.0
+Loser,19,0.0,0.0,2,"{""Detroit Lions"": 13, ""Chicago Bears"": 6}",13.0,13.0,0.0
+Attendance,19,0.052632,0.0,18,"{""58,508"": 1, ""75,397"": 1, ""71,418"": 1, ""55,010"": 1, ""64,526"": 1}",6.0,6.0,0.0
+Location,19,0.0,0.0,2,"{""Chicago, Illinois"": 10, ""Pontiac, Michigan"": 9}",17.0,17.0,0.0

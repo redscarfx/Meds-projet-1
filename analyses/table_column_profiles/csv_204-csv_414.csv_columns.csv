@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,13,0.0,0.0,13,"{""Nubarashen"": 1, ""Kosh"": 1, ""Sevan"": 1, ""Prison Hospital"": 1, ""Erebuni"": 1}",7.769,7.0,0.0
+Armenian,13,0.0,0.0,13,"{""«Նուբարաշեն»"": 1, ""«Կոշ»"": 1, ""«Սևան»"": 1, ""«Դատապարտյալների հիվանդանոց»"": 1, ""«Էրեբունի»"": 1}",10.154,9.0,0.0
+Location,13,0.0,0.0,9,"{""Nubarashen, Yerevan"": 3, ""Hrazdan, Kotayk"": 2, ""Kentron, Yerevan"": 2, ""Kosh, Aragatsotn"": 1, ""Harich, Shirak"": 1}",15.077,15.0,0.0
+# of prisoners designed for,13,0.0,0.923077,12,"{""215"": 2, ""840"": 1, ""640"": 1, ""548"": 1, ""464"": 1}",3.077,3.0,0.0
+Notes,13,0.846154,0.0,2,"{""For women and minors"": 1, ""For former policemen and military officers"": 1}",31.0,31.0,0.0

@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Pos.,25,0.0,1.0,12,"{""14"": 4, ""18"": 4, ""22"": 4, ""3"": 2, ""8"": 2}",1.64,2.0,0.0
+Time,25,0.0,0.0,24,"{""12.45 (+1.4)"": 2, ""12.21 (+0.7)"": 1, ""12.25 (+1.4)"": 1, ""12.45 (+1.3)"": 1, ""12.44 (+0.6)"": 1}",12.0,12.0,0.0
+Athlete,25,0.0,0.0,25,"{""Yordanka Donkova"": 1, ""Lucyna Kalek"": 1, ""Olena Krasovska"": 1, ""Brigitte Foster-Hylton"": 1, ""Cornelia Oschkenat"": 1}",14.64,14.0,0.0
+Country,25,0.0,0.0,11,"{""United States"": 10, ""East Germany"": 3, ""Bulgaria"": 2, ""Poland"": 2, ""Soviet Union"": 2}",10.56,12.0,0.0
+Venue,25,0.0,0.0,22,"{""Des Moines"": 2, ""Athens"": 2, ""Rome"": 2, ""Stara Zagora"": 1, ""Hannover"": 1}",7.36,6.0,0.0
+Date,25,0.0,0.0,23,"{""22 June 2013"": 2, ""24 August 2004"": 2, ""20 August 1988"": 1, ""19 August 1984"": 1, ""24 May 2003"": 1}",12.76,12.0,0.0

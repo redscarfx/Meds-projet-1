@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,45,0.022222,0.977778,44,"{""1"": 1, ""2"": 1, ""25"": 1, ""26"": 1, ""27"": 1}",1.795,2.0,0.022222
+President,45,0.0,0.0,44,"{""Grover Cleveland"": 2, ""William McKinley"": 1, ""Theodore Roosevelt"": 1, ""William Taft"": 1, ""Woodrow Wilson"": 1}",14.089,14.0,0.0
+President's Party,45,0.0,0.0,9,"{""Republican"": 18, ""Democratic"": 16, ""Democratic-Republican"": 3, ""Whig"": 3, ""Federalist-leaning"": 1}",10.844,10.0,0.0
+Senate with,45,0.0,0.977778,11,"{""4"": 13, ""0"": 8, ""8"": 7, ""2"": 6, ""6"": 5}",1.333,1.0,0.0
+Senate opposed,45,0.0,0.977778,9,"{""0"": 27, ""2"": 7, ""4"": 3, ""6"": 3, ""1"": 1}",1.378,1.0,0.0
+House with,45,0.0,0.977778,11,"{""2"": 14, ""0"": 8, ""6"": 6, ""4"": 6, ""8"": 5}",1.311,1.0,0.0
+House opposed,45,0.0,0.977778,8,"{""0"": 18, ""2"": 16, ""4"": 4, ""6"": 3, ""1"": 1}",1.267,1.0,0.0
+Years served,45,0.0,0.977778,11,"{""4"": 19, ""8"": 13, ""6"": 3, ""3"": 2, ""2"": 2}",1.356,1.0,0.0
+Elections won,45,0.0,0.977778,5,"{""1"": 23, ""2"": 15, ""0"": 5, ""4"": 1, ""Elections won"": 1}",1.267,1.0,0.0

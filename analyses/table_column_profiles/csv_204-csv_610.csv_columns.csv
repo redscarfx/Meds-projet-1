@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Unnamed: 0,15,0.0,1.0,15,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.4,1.0,0.0
+Brand,15,0.0,0.0,15,"{""Ebastel and others"": 1, ""Prevencor"": 1, ""Esertia"": 1, ""Plusvent"": 1, ""Almogran and others"": 1}",12.6,9.0,0.0
+Active ingredient,15,0.0,0.0,15,"{""Ebastine*"": 1, ""Atorvastatin"": 1, ""Escitalopram"": 1, ""Salmeterol+fluticasone"": 1, ""Almotriptan*"": 1}",15.467,12.0,0.0
+Therapeutic area,15,0.0,0.0,7,"{""Central nervous system"": 3, ""Gastrointestinal"": 3, ""Dermatology"": 3, ""Respiratory"": 2, ""Cardiovascular"": 2}",14.6,14.0,0.0
+Pathology,15,0.0,0.0,14,"{""Depression"": 2, ""Allergy"": 1, ""Cholesterol"": 1, ""Asthma & COPD"": 1, ""Migraine"": 1}",11.333,10.0,0.0

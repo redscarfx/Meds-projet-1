@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,138,0.0,1.0,40,"{""2005"": 10, ""2008"": 9, ""2013"": 7, ""2011"": 6, ""1995"": 6}",4.0,4.0,0.0
+Film,138,0.0,0.0,134,"{""The Punisher"": 2, ""Teenage Mutant Ninja Turtles"": 2, ""The Fantastic Four"": 2, ""Batman"": 2, ""Super"": 1}",16.362,13.0,0.0
+Publisher,138,0.0,0.0,19,"{""Marvel Comics"": 50, ""Original"": 31, ""DC Comics"": 25, ""Dark Horse Comics"": 8, ""Mirage Comics"": 4}",11.935,13.0,0.0
+Director,138,0.028986,0.0,100,"{""Bryan Singer"": 5, ""Sam Raimi"": 4, ""Lloyd Kaufman"": 4, ""Zack Snyder"": 3, ""Christopher Nolan"": 3}",13.127,13.0,0.0
+Distributor,138,0.0,0.0,41,"{""Warner Bros."": 20, ""20th Century Fox"": 19, ""Columbia Pictures"": 13, ""New Line Cinema"": 11, ""Universal Studios"": 9}",17.348,16.0,0.0
+Worldwide Gross,138,0.173913,0.0,106,"{""Television film"": 4, ""Direct-to-video"": 4, ""$287,434"": 3, ""$1,700,000 (est.\nUS/ Canada rentals)"": 1, ""$890,871,626"": 1}",11.702,12.0,0.0
+Notes,138,0.427536,0.0,75,"{""Reboot of The Punisher film franchise"": 2, ""Comedy film"": 2, ""Comedy, family film"": 2, ""Prequel to the X-Men film trilogy"": 2, ""Based on Adventures of Superman TV series"": 1}",35.519,32.0,0.0

@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,139,0.0,0.0,133,"{""Lucas"": 2, ""Rafael"": 2, ""Kléber"": 2, ""Alex"": 2, ""Adriano"": 2}",8.345,7.0,0.0
+Full name,139,0.0,0.0,139,"{""Marcos Evangelista de Moraes"": 1, ""Leandro Damião da Silva dos Santos"": 1, ""Wesley Lopes Beltrame"": 1, ""Philippe Coutinho Correia"": 1, ""Douglas dos Santos"": 1}",24.281,24.0,0.0
+Caps,139,0.0,1.0,48,"{""2"": 17, ""1"": 16, ""8"": 11, ""4"": 9, ""3"": 8}",1.46,1.0,0.0
+Goals,139,0.0,1.0,17,"{""0"": 83, ""1"": 19, ""6"": 6, ""5"": 5, ""2"": 5}",1.065,1.0,0.0
+First cap,139,0.0,0.0,76,"{""14 September 2011"": 7, ""10 August 2010"": 7, ""13 July 2003"": 6, ""10 November 2011"": 6, ""21 November 2012"": 6}",13.957,14.0,0.0
+Opponent,139,0.0,0.0,42,"{""Argentina"": 20, ""Mexico"": 9, ""United States"": 9, ""Bolivia"": 8, ""Gabon"": 6}",7.504,7.0,0.0
+Club,139,0.0,0.0,44,"{""São Paulo"": 19, ""Santos"": 11, ""Cruzeiro"": 9, ""Corinthians"": 8, ""Fluminense"": 7}",9.914,9.0,0.0

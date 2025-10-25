@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+No,21,0.0,1.0,21,"{""1"": 1, ""12"": 1, ""20"": 1, ""19"": 1, ""18"": 1}",1.571,2.0,0.0
+Date,21,0.0,0.0,21,"{""02-09-2008"": 1, ""07-26-2008"": 1, ""10-03-2008"": 1, ""09-28-2008"": 1, ""09-13-2008"": 1}",10.0,10.0,0.0
+Race,21,0.0,0.0,21,"{""Daytona ARCA 200"": 1, ""Berlin ARCA 200"": 1, ""Food World 250"": 1, ""Loud Energy Drink 150"": 1, ""Eddie Gilstrap Motors 200"": 1}",17.857,16.0,0.0
+Track,21,0.0,0.0,18,"{""Kentucky"": 2, ""Toledo"": 2, ""Pocono"": 2, ""Daytona"": 1, ""Nashville SS"": 1}",8.476,8.0,0.0
+Winner,21,0.0,0.0,10,"{""Justin Allgaier"": 6, ""Scott Speed"": 4, ""Frank Kimmel"": 3, ""Ricky Stenhouse, Jr."": 2, ""Michael Annett"": 1}",13.714,13.0,0.0
+Reports,21,0.0,0.0,1,"{""Report"": 21}",6.0,6.0,0.0

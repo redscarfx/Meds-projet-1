@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Ranking,66,0.0,1.0,65,"{""55"": 2, ""1"": 1, ""49"": 1, ""36"": 1, ""37"": 1}",1.864,2.0,0.0
+Company,66,0.0,0.0,66,"{""Wal-Mart Stores, Inc."": 1, ""Enel"": 1, ""GDF Suez"": 1, ""AT&T"": 1, ""Pemex"": 1}",11.485,8.0,0.0
+Industry,66,0.0,0.0,15,"{""Oil and gas"": 21, ""Automotive"": 9, ""Conglomerate"": 8, ""Retail"": 5, ""Commodities"": 3}",12.258,11.0,0.0
+Revenue (USD billions),66,0.0,0.0,52,"{""$110"": 4, ""$101"": 3, ""$102"": 3, ""$100"": 2, ""$139"": 2}",4.0,4.0,0.0
+FY,66,0.0,0.045455,18,"{""December 31, 2012"": 40, ""March 31, 2013"": 7, ""December 31, 2013"": 2, ""2012"": 2, ""September 30, 2013"": 2}",15.818,17.0,0.0
+Capitalization (USD billions),66,0.212121,0.0,47,"{""$39"": 3, ""$47"": 3, ""$16"": 2, ""$248"": 1, ""$42"": 1}",3.385,3.0,0.0
+Employees,66,0.0,0.0,66,"{""2,200,000"": 1, ""59,000"": 1, ""161,000"": 1, ""256,000"": 1, ""138,000"": 1}",6.712,7.0,0.0
+Listing,66,0.181818,0.0,53,"{""FWB: BMW"": 2, ""NYSE: WMT"": 1, ""BIT: F"": 1, ""NYSE: CVS"": 1, ""NYSE: MCK"": 1}",10.574,9.0,0.166667
+Headquarters,66,0.0,0.0,55,"{""Tokyo"": 4, ""Beijing"": 3, ""Munich"": 3, ""Moscow"": 3, ""Paris"": 2}",11.485,9.5,0.0
+CEO,66,0.015152,0.0,65,"{""Doug Mcmillon"": 1, ""Claude Dauphin"": 1, ""Gérard Mestrallet"": 1, ""Randall L. Stephenson"": 1, ""Juan José Suárez Coppel"": 1}",14.369,14.0,0.015152

@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+AIRLINE,9,0.0,0.0,9,"{""Air Uganda"": 1, ""Eagle Air (Uganda)"": 1, ""Fly540 Uganda"": 1, ""Pearl Air Services"": 1, ""Royal Daisy Airlines"": 1}",16.667,17.0,0.0
+ICAO,9,0.111111,0.0,8,"{""UGA"": 1, ""EGU"": 1, ""FUL"": 1, ""PBY"": 1, ""KDR"": 1}",3.0,3.0,0.0
+IATA,9,0.444444,0.0,5,"{""U7"": 1, ""H7"": 1, ""6D"": 1, ""UQ"": 1, ""AS"": 1}",2.0,2.0,0.0
+CALLSIGN,9,0.111111,0.0,8,"{""UGANDA"": 1, ""AFRICAN EAGLE"": 1, ""ORANGE CRANE"": 1, ""PEARL SERVICES"": 1, ""DARLINES"": 1}",9.25,10.0,0.0
+"COMMENCED
+OPERATIONS",9,0.222222,0.777778,6,"{""1994.0"": 2, ""2007.0"": 1, ""2008.0"": 1, ""2005.0"": 1, ""2003.0"": 1}",6.0,6.0,0.0

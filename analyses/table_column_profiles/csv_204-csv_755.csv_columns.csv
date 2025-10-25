@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,16,0.0,1.0,16,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.438,1.0,0.0
+Date,16,0.0,0.0,16,"{""September 3, 1978"": 1, ""September 11, 1978"": 1, ""September 17, 1978"": 1, ""September 25, 1978"": 1, ""October 1, 1978"": 1}",16.562,16.5,0.0
+Opponent,16,0.0,0.0,16,"{""at New Orleans Saints"": 1, ""Denver Broncos"": 1, ""Tampa Bay Buccaneers"": 1, ""at Chicago Bears"": 1, ""at Tampa Bay Buccaneers"": 1}",17.5,17.5,0.0
+Result,16,0.0,0.0,16,"{""L 31–24"": 1, ""W 12–9"": 1, ""L 16–10"": 1, ""W 24–20"": 1, ""W 24–7"": 1}",7.0,7.0,0.0
+Attendance,16,0.0,0.0,16,"{""54,187"": 1, ""46,508"": 1, ""46,152"": 1, ""53,551"": 1, ""65,972"": 1}",6.0,6.0,0.0

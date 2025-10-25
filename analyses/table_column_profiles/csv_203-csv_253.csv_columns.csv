@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Model,10,0.0,0.0,10,"{""Remington-Beals Army Model Revolver"": 1, ""Remington-Beals Navy Model Revolver"": 1, ""1861 Army Revolver (Old Model Army)"": 1, ""1861 Navy Revolver"": 1, ""New Model Army Revolver"": 1}",30.9,30.0,0.0
+Frame,10,0.0,0.0,2,"{""Large"": 5, ""Medium"": 5}",5.5,5.5,0.0
+Years Mfg'd,10,0.0,0.2,5,"{""1863-1875"": 3, ""1861-1862"": 2, ""1862"": 2, ""1865-1873"": 2, ""1863-1873"": 1}",8.0,9.0,0.0
+Caliber(s),10,0.0,0.6,5,"{"".44"": 3, "".36"": 3, "".36 percussion and .38 CF"": 2, "".36 percussion and .38 RF"": 1, "".31 percussion and .32 CF"": 1}",11.8,3.0,0.0
+Production,10,0.0,0.0,9,"{""25,000 (estimated)"": 2, ""1,900 (estimated)"": 1, ""14,500 (estimated)"": 1, ""6,000 (estimated)"": 1, ""7,000 (estimated)"": 1}",20.0,18.0,0.0
+Barrel,10,0.0,0.0,6,"{""8 inch octagon"": 3, ""7 3/8 inch octagon"": 2, ""6 1/2 inch octagon"": 2, ""7 1/2 inch octagon"": 1, ""3 1/2, 4 1/2, 5 1/2, 6 1/2 inch octagon"": 1}",18.9,18.0,0.0
+Notes,10,0.4,0.0,6,"{""Used for factory conversions in .46 RF & .44 Remington"": 1, ""Used for factory and U.S. Navy conversions to .38 RF & CF"": 1, ""Factory conversion production started in 1873"": 1, ""1863-1865 available with fluted cylinder, conversions had two-piece cylinder"": 1, ""Conversions all believed to be rimfire only"": 1}",53.333,49.5,0.0

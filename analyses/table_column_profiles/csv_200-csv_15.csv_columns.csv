@@ -1,0 +1,2 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"Year,""Title"",""Role"",""Notes""",54,0.0,0.0,53,"{""TV Movie\"""": 2, ""1978,\""Things We Did Last Summer\"",\""Paul Oberon\"",\""TV Movie\"""": 1, ""2005,\""Tripping the Rift\"",\""God"": 1, ""Episode: \\\""Chode's Near Death-Experience\\\""\"""": 1, ""2006,\""Campus Ladies\"",\""Drama instructor\"",\""Episode: \\\""Drama Class\\\""\"""": 1}",60.833,59.0,0.0

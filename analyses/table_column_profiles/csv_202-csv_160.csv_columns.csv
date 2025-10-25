@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Season,21,0.0,0.952381,21,"{""1993"": 1, ""2004"": 1, ""2012"": 1, ""2011"": 1, ""2010"": 1}",4.048,4.0,0.0
+Level,21,0.0,0.0,3,"{""Tier 2"": 14, ""Tier 3"": 5, ""Tier 1"": 2}",6.0,6.0,0.0
+Division,21,0.0,0.0,4,"{""Superettan"": 9, ""Division 2"": 5, ""Division 1"": 5, ""Allsvenskan"": 2}",10.095,10.0,0.0
+Section,21,0.52381,0.0,2,"{""Västra Götaland"": 5, ""Södra"": 5}",10.0,10.0,0.0
+Position,21,0.0,0.0,10,"{""6th"": 4, ""1st"": 3, ""2nd"": 3, ""5th"": 2, ""14th"": 2}",3.143,3.0,0.0
+Movements,21,0.52381,0.0,6,"{""Panos Ljungskile SK"": 3, ""Promoted"": 2, ""Panos Ljungskile SK - Relegated"": 2, ""Panos Ljungskile SK - Promotion Playoffs"": 1, ""Promotion Playoffs - Promoted"": 1}",23.5,24.0,0.0

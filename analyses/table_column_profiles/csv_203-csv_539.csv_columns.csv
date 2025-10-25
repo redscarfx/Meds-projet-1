@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,23,0.0,1.0,12,"{""2003"": 3, ""2002"": 2, ""2004"": 2, ""2005"": 2, ""2006"": 2}",4.0,4.0,0.0
+Competition,23,0.0,0.0,7,"{""World Indoor Championships"": 6, ""World Championships"": 5, ""Asian Championships"": 4, ""Asian Games"": 3, ""Olympic Games"": 3}",19.609,19.0,0.0
+Venue,23,0.0,0.0,21,"{""Doha, Qatar"": 2, ""Guangzhou, China"": 2, ""Bandar Seri Begawan, Brunei"": 1, ""Istanbul, Turkey"": 1, ""Daegu, South Korea"": 1}",16.478,16.0,0.0
+Position,23,0.0,0.0,13,"{""2nd"": 6, ""9th (sf)"": 3, ""8th (sf)"": 3, ""1st"": 2, ""4th"": 1}",5.652,8.0,0.0
+Event,23,0.0,0.0,3,"{""110 m hurdles"": 17, ""60 m hurdles"": 5, ""60m hurdles"": 1}",12.696,13.0,0.0
+Notes,23,0.0,1.0,21,"{""13.44"": 2, ""13.42"": 2, ""14.05"": 1, ""13.19"": 1, ""8.15"": 1}",4.696,5.0,0.0

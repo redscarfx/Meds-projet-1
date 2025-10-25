@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Title,18,0.0,0.0,18,"{""187 Ride or Die"": 1, ""50 Cent: Bulletproof"": 1, ""Saints Row 2"": 1, ""Saints Row"": 1, ""Mob Rule"": 1}",18.778,20.0,0.0
+Release date,18,0.0,0.0,18,"{""2005-08-23"": 1, ""2005-11-17"": 1, ""2008-10-14"": 1, ""2006-08-29"": 1, ""1999-9-30"": 1}",9.944,10.0,0.0
+Developer(s),18,0.0,0.0,15,"{""Hothouse Creations"": 2, ""EA Redwood Shores"": 2, ""Rockstar North"": 2, ""Ubisoft"": 1, ""Genuine Games"": 1}",17.278,16.0,0.0
+Publisher(s),18,0.0,0.0,11,"{""THQ"": 3, ""Eidos Interactive"": 3, ""Rockstar Games"": 3, ""Electronic Arts"": 2, ""Ubisoft"": 1}",14.167,15.0,0.0
+Genre(s),18,0.888889,0.0,2,"{""Driving"": 1, ""Building Simulation, RPG"": 1}",15.5,15.5,0.0

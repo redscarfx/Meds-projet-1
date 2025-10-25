@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Nationality,8,0.0,0.0,7,"{""Yugoslavia"": 2, ""Norway"": 1, ""China"": 1, ""Finland"": 1, ""Portugal"": 1}",7.5,7.0,0.0
+Name,8,0.0,0.0,8,"{""Frederik Beichmann"": 1, ""Wang Ch'ung-hui"": 1, ""Rafael Erich"": 1, ""Jose Caeiro da Matta"": 1, ""Demetre Negulesco"": 1}",16.0,16.5,0.0
+Term as a Deputy Judge,8,0.0,0.0,2,"{""30 January 1920 — 6 December 1930"": 4, ""15 January 1931 — 1 February 1936"": 4}",33.0,33.0,0.0
+Reason for termination,8,0.0,0.0,2,"{""Not re-elected"": 4, ""Post abolished"": 4}",14.0,14.0,0.0

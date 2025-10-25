@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,6,0.0,1.0,6,"{""1980"": 1, ""1985"": 1, ""1990"": 1, ""1995"": 1, ""2000"": 1}",4.0,4.0,0.0
+Gross Domestic Product,6,0.0,0.0,6,"{""7,764"": 1, ""6,450"": 1, ""5,328"": 1, ""8,114"": 1, ""11,570"": 1}",5.333,5.0,0.0
+US Dollar Exchange,6,0.0,0.0,3,"{""0.29 Kuwaiti Dinars"": 4, ""0.27 Kuwaiti Dinars"": 1, ""0.30 Kuwaiti Dinars"": 1}",19.0,19.0,0.0
+"Inflation Index
+(2000=100)",6,0.0,1.0,6,"{""55"": 1, ""68"": 1, ""80"": 1, ""92"": 1, ""100"": 1}",2.333,2.0,0.0
+"Per Capita Income
+(as % of USA)",6,0.0,1.0,6,"{""171.08"": 1, ""71.58"": 1, ""37.0"": 1, ""62.14"": 1, ""48.92"": 1}",5.0,5.0,0.0

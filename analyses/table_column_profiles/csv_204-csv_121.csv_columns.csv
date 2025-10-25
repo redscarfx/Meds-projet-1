@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,280,0.0,0.967857,38,"{""2003"": 30, ""2002"": 23, ""2005"": 21, ""2001"": 19, ""2004"": 16}",3.986,4.0,0.0
+Game,280,0.0,0.0,280,"{""Intopia"": 1, ""Zoo Empire"": 1, ""Harvest Moon DS Cute"": 1, ""Geniu$: The Tech Tycoon Game"": 1, ""Coffee Tycoon"": 1}",17.907,15.0,0.0
+Developer,280,0.017857,0.0,159,"{""Blue Fang"": 10, ""Marvelous"": 9, ""Cat Daddy"": 9, ""Enlight"": 8, ""Chris Sawyer"": 7}",9.935,9.0,0.0
+Setting,280,0.0,0.0,7,"{""Modern"": 191, ""Historical"": 42, ""Fantasy"": 25, ""Sci-fi"": 18, ""Web"": 2}",6.671,6.0,0.0
+Platform,280,0.0,0.0,76,"{""WIN"": 137, ""DOS"": 12, ""DS"": 9, ""ZX"": 6, ""OSX, WIN"": 6}",5.854,3.0,0.0
+Notes,280,0.571429,0.0,97,"{""First title in the series."": 17, ""Expansion to Zoo Tycoon 2."": 4, ""Expansion to RollerCoaster Tycoon 2."": 2, ""Expansion to Zoo Tycoon."": 2, ""Expansion to RollerCoaster Tycoon 3."": 2}",31.733,26.0,0.0

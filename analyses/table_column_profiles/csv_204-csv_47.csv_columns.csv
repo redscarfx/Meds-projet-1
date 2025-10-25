@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Outcome,17,0.0,0.0,2,"{""Runner–up"": 9, ""Winner"": 8}",7.588,9.0,0.0
+No.,17,0.0,1.0,9,"{""1.0"": 2, ""2.0"": 2, ""3.0"": 2, ""4.0"": 2, ""5.0"": 2}",3.0,3.0,0.0
+Date,17,0.0,0.0,17,"{""April 18, 2004"": 1, ""August 4, 2007"": 1, ""April 13, 2013"": 1, ""September 27, 2009"": 1, ""October 18, 2008"": 1}",14.765,14.0,0.0
+Tournament,17,0.0,0.0,16,"{""Pittsburgh, United States"": 2, ""Jackson, United States"": 1, ""Albuquerque, United States"": 1, ""Redding, United States"": 1, ""Raleigh, United States"": 1}",21.176,22.0,0.0
+Surface,17,0.0,0.0,3,"{""Hard"": 7, ""Clay"": 5, ""Hard (i)"": 5}",5.176,4.0,0.0
+Partner,17,0.0,0.0,12,"{""Alisa Kleybanova"": 4, ""Maria Fernanda Alves"": 2, ""Marie-Ève Pelletier"": 2, ""María Emilia Salerni"": 1, ""Yulia Beygelzimer"": 1}",16.118,16.0,0.0
+Opponents,17,0.0,0.0,17,"{""Cory Ann Avants\n Kristen Schlukebir"": 1, ""Soledad Esperón\n Agustina Lepore"": 1, ""María Fernanda Álvarez Terán\n Maria Fernanda Alves"": 1, ""Sofia Arvidsson\n Séverine Brémond Beltrame"": 1, ""Nikola Frankova\n Carmen Klaschka"": 1}",33.882,32.0,0.0
+Score,17,0.0,0.0,17,"{""6–2, 6–3"": 1, ""6–4, 6–4"": 1, ""2–6, 3–6"": 1, ""3–6, 1–6"": 1, ""6–4, 6–2"": 1}",10.941,8.0,0.0

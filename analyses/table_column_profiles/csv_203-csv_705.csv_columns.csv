@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Unnamed: 0,7,0.0,1.0,5,"{""14"": 3, ""11"": 1, ""12"": 1, ""13"": 1, ""15"": 1}",2.0,2.0,0.0
+Name,7,0.0,0.0,5,"{""Peter Little"": 3, ""William McCreery"": 1, ""Alexander McKim"": 1, ""William Pinkney"": 1, ""Benjamin C. Howard"": 1}",14.286,15.0,0.0
+Took office,7,0.0,0.0,7,"{""March 4, 1803"": 1, ""March 4, 1809"": 1, ""March 4, 1815"": 1, ""September 2, 1816"": 1, ""March 4, 1823"": 1}",13.571,13.0,0.0
+Left office,7,0.0,0.0,7,"{""March 3, 1809"": 1, ""March 3, 1815"": 1, ""April 18, 1816"": 1, ""March 3, 1823"": 1, ""March 3, 1825"": 1}",13.143,13.0,0.0
+Party,7,0.0,0.0,4,"{""Democratic Republican"": 4, ""Jacksonian DR"": 1, ""Adams"": 1, ""Jacksonian"": 1}",16.0,21.0,0.0
+Notes/Events,7,0.857143,0.0,1,"{""Resigned to accept position as Minister Plenipotentiary to Russia"": 1}",65.0,65.0,0.0

@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Season,10,0.0,0.0,10,"{""AF1"": 1, ""AF2"": 1, ""AF3"": 1, ""AF4"": 1, ""AF5"": 1}",3.1,3.0,0.0
+Premiere date,10,0.0,0.0,10,"{""June 21, 2004"": 1, ""July 18, 2005"": 1, ""July 3, 2006"": 1, ""June 18, 2007"": 1, ""May 12, 2008"": 1}",12.7,13.0,0.0
+The Winner,10,0.0,0.0,10,"{""Vit (V2)"": 1, ""Aof (V4)"": 1, ""Tui (V12)"": 1, ""Nat (V1)"": 1, ""Natthew (V13)"": 1}",9.4,8.5,0.0
+Runner-up,10,0.0,0.0,10,"{""Jeen (V1)"": 1, ""Pat (V6)"": 1, ""Ta (V1)"": 1, ""Tol (V9)"": 1, ""Ron (V12)"": 1}",8.7,9.0,0.0
+Finalists,10,0.0,0.0,10,"{""Aof (V6), Z-Nam (V9), Namtarn (V7), & K (V4)"": 1, ""Boy (V8), Pas (V9), & Preaw (V2)"": 1, ""Boy (V8), Mint (V5), & Zara (V4)"": 1, ""Papang (V3), Music (V8), Lookpong (V17), & Pong (V19)"": 1, ""Pump (V8), Good (V10), & Kee (V14)"": 1}",46.6,39.0,0.0
+Contestants in order of elimination,10,0.0,0.0,10,"{""Joomjim (V5), Por (V10), Nan (V3), Noon (V12), Mam (V11), & Top (V8)"": 1, ""Joe (V12), Loogtarn (V1), Kookkai (V7), Wan (V3), My (V11), Mew (V5), & Ao (V10)"": 1, ""Koh (V9), Dong (V7), Tune (V6), Apple & Cherry (V3), Bruna (V11), Pett (V2), & Louktarn (V10)"": 1, ""Cat (V11), Tee (V12), Eingeing (V6), Puifai (V18), Jack (V2), & Joe (V16)"": 1, ""Green (V16), Micky (V6), Beau (V5), Tab (V3), Prink (V1), Wahn (V15), & Nim (V9)"": 1}",85.8,80.0,0.0
+Number of Contestants,10,0.0,0.5,7,"{""12"": 3, ""12 (24)"": 2, ""13"": 1, ""12 (20)"": 1, ""12 (16)"": 1}",4.6,4.5,0.0
+Number of Concerts,10,0.0,1.0,5,"{""12"": 6, ""9"": 1, ""10"": 1, ""13"": 1, ""15"": 1}",1.9,2.0,0.0

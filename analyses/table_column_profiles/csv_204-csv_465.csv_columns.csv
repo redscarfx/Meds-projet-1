@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,31,0.0,1.0,31,"{""1"": 1, ""17"": 1, ""30"": 1, ""29"": 1, ""28"": 1}",1.71,2.0,0.0
+Temple name,31,0.0,0.0,31,"{""Onjo"": 1, ""Asin"": 1, ""Mu"": 1, ""Beop"": 1, ""Hye"": 1}",5.323,5.0,0.0
+Hangul,31,0.0,0.0,31,"{""온조왕"": 1, ""아신왕"": 1, ""무왕"": 1, ""법왕"": 1, ""혜왕"": 1}",2.935,3.0,0.0
+Hanja,31,0.0,0.0,31,"{""溫祚王"": 1, ""阿莘王"": 1, ""武王"": 1, ""法王"": 1, ""惠王"": 1}",2.935,3.0,0.0
+Period of reign,31,0.0,0.032258,31,"{""18 BCE – 28 CE"": 1, ""392–405"": 1, ""600–641"": 1, ""599–600"": 1, ""598–599"": 1}",7.0,7.0,0.0
+Personal name,31,0.645161,0.0,11,"{""Yeogu"": 1, ""Gyeongsa (경사, 慶司) or Gyeong (경, 慶)"": 1, ""Modo (모도, 牟都) or Do (도, 都)"": 1, ""Samgeun (삼근, 三斤), Imgeol (임걸, 壬乞) or Samgeol (삼걸, 三乞)"": 1, ""Modae (모대, 牟大) or Mamo (마모, 摩牟)"": 1}",26.636,30.0,0.0
+Relationship,31,0.0,0.0,31,"{""founder"": 1, ""nephew of Jinsa; first son of Chimnyu"": 1, ""youngest son of Wideok"": 1, ""first son of Hye"": 1, ""younger brother of Wideok"": 1}",18.0,18.0,0.0
+Note,31,0.387097,0.0,19,"{""son of Dongmyeongseong of Goguryeo"": 1, ""also Jikji (직지왕, 直支王) or Jinji (진지왕, 眞支王)"": 1, ""also Heon (헌왕, 獻王)"": 1, ""also Chang (창왕, 昌王)"": 1, ""also Myeong (명왕, 明王) or Seongmyeong (성명왕, 聖明王)"": 1}",28.053,23.0,0.0

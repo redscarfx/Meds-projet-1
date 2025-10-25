@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Month,30,0.0,0.0,3,"{""Jan."": 13, ""Feb."": 12, ""Mar."": 5}",4.0,4.0,0.0
+Day,30,0.0,1.0,12,"{""2"": 5, ""9"": 5, ""16"": 3, ""19"": 3, ""23"": 3}",1.533,2.0,0.0
+Visitor,30,0.0,0.0,6,"{""Shamrocks"": 6, ""Wanderers"": 5, ""Montreal"": 5, ""Quebec"": 5, ""Ottawa"": 5}",7.833,8.5,0.0
+Score,30,0.0,1.0,11,"{""5"": 9, ""6"": 4, ""2"": 3, ""8"": 3, ""12"": 3}",1.233,1.0,0.0
+Home,30,0.0,0.0,6,"{""Victorias"": 6, ""Ottawa"": 5, ""Montreal"": 5, ""Wanderers"": 5, ""Quebec"": 5}",7.833,8.5,0.0
+Score.1,30,0.0,0.933333,19,"{""6"": 5, ""3"": 5, ""16"": 3, ""13"": 2, ""5 (10' overtime)"": 1}",2.333,1.0,0.0

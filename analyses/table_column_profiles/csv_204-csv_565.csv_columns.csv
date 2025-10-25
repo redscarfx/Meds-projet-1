@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Game,46,0.0,1.0,46,"{""1"": 1, ""35"": 1, ""26"": 1, ""27"": 1, ""28"": 1}",1.804,2.0,0.0
+Date,46,0.0,0.0,46,"{""19 August 1978"": 1, ""28 March 1979"": 1, ""17 February 1979"": 1, ""24 February 1979"": 1, ""28 February 1979"": 1}",14.304,14.5,0.0
+Opponent,46,0.0,0.0,23,"{""Hereford United"": 2, ""Halifax Town"": 2, ""Bournemouth"": 2, ""Torquay United"": 2, ""Port Vale"": 2}",12.348,12.0,0.0
+Venue,46,0.0,0.0,2,"{""Away"": 23, ""Home"": 23}",4.0,4.0,0.0
+Result,46,0.0,0.0,17,"{""1–0"": 9, ""1–1"": 8, ""1–2"": 5, ""2–0"": 4, ""0–0"": 3}",3.0,3.0,0.0
+Attendance,46,0.0,0.0,46,"{""5,674"": 1, ""4,876"": 1, ""7,420"": 1, ""4,612"": 1, ""5,896"": 1}",5.022,5.0,0.0
+Goalscorers,46,0.152174,0.0,27,"{""Houghton"": 6, ""Purdie (pen.)"": 2, ""Moore"": 2, ""Wright"": 2, ""Purdie"": 2}",11.821,9.0,0.0

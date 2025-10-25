@@ -1,0 +1,14 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"Rank in
+2011",10,0.0,1.0,10,"{""1.0"": 1, ""2.0"": 1, ""3.0"": 1, ""4.0"": 1, ""5.0"": 1}",3.1,3.0,0.0
+"Name of
+concern",10,0.0,0.0,10,"{""PKN Orlen SA"": 1, ""Lotos Group SA"": 1, ""PGE SA"": 1, ""Jerónimo Martins"": 1, ""PGNiG SA"": 1}",14.1,14.5,0.0
+"Location of
+headquarters",10,0.0,0.0,7,"{""Warsaw"": 4, ""Płock"": 1, ""Gdańsk"": 1, ""Kostrzyn"": 1, ""Katowice"": 1}",6.9,6.0,0.0
+"Revenue
+(Thou.
+ PLN)",10,0.0,0.0,10,"{""79 037 121"": 1, ""29 258 539"": 1, ""28 111 354"": 1, ""25 285 407"": 1, ""23 003 534"": 1}",10.0,10.0,0.0
+"Profit
+(Thou.
+ PLN)",10,0.2,0.0,8,"{""2 396 447"": 1, ""584 878"": 1, ""6 165 394"": 1, ""1 711 787"": 1, ""1 565 936"": 1}",8.5,9.0,0.0
+Employees,10,0.0,0.0,10,"{""4,445"": 1, ""5,168"": 1, ""44,317"": 1, ""36,419"": 1, ""33,071"": 1}",5.7,6.0,0.0

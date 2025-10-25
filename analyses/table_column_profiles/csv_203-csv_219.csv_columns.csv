@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+№,12,0.0,1.0,12,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""6"": 1}",1.333,1.0,0.0
+Name,12,0.0,0.0,12,"{""Oliveira Walewska"": 1, ""Carolina Albuquerque"": 1, ""Marianne Steinbrecher"": 1, ""Paula Pequeno"": 1, ""Thaisa Menezes"": 1}",16.167,15.5,0.0
+Date of birth,12,0.0,0.0,12,"{""1 October 1979"": 1, ""25 July 1977"": 1, ""23 August 1983"": 1, ""22 January 1982"": 1, ""15 May 1987"": 1}",13.583,14.0,0.0
+Height,12,0.0,0.0,12,"{""1.90 m (6 ft 3 in)"": 1, ""1.82 m (6 ft 0 in)"": 1, ""1.88 m (6 ft 2 in)"": 1, ""1.84 m (6 ft 0 in)"": 1, ""1.96 m (6 ft 5 in)"": 1}",18.167,18.0,0.0
+Weight,12,0.0,0.0,9,"{""76 kg (168 lb)"": 3, ""70 kg (150 lb)"": 2, ""73 kg (161 lb)"": 1, ""74 kg (163 lb)"": 1, ""79 kg (174 lb)"": 1}",14.0,14.0,0.0
+Spike,12,0.0,0.0,8,"{""302 cm (119 in)"": 4, ""310 cm (120 in)"": 2, ""289 cm (114 in)"": 1, ""316 cm (124 in)"": 1, ""283 cm (111 in)"": 1}",15.0,15.0,0.0
+Block,12,0.0,0.0,10,"{""290 cm (110 in)"": 3, ""279 cm (110 in)"": 1, ""285 cm (112 in)"": 1, ""301 cm (119 in)"": 1, ""264 cm (104 in)"": 1}",15.0,15.0,0.0
+2008 club,12,0.0,0.0,5,"{""Rexona Ades"": 4, ""CAV Murcia"": 3, ""Finasa"": 2, ""Scavolini Pesaro"": 2, ""Asystel Novara"": 1}",11.0,11.0,0.0

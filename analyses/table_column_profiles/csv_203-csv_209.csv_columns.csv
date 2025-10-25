@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,53,0.0,1.0,53,"{""1959"": 1, ""1986"": 1, ""1988"": 1, ""1989"": 1, ""1990"": 1}",4.0,4.0,0.0
+Site,53,0.0,0.0,2,"{""Columbia"": 27, ""Ames"": 26}",6.038,8.0,0.0
+Winning team,53,0.0,0.0,7,"{""Missouri"": 29, ""Iowa State"": 19, ""#21 Missouri"": 1, ""#22 Iowa State"": 1, ""#13 Missouri"": 1}",9.132,8.0,0.0
+Winning team.1,53,0.0,1.0,25,"{""45"": 5, ""14"": 4, ""34"": 4, ""21"": 4, ""42"": 4}",1.943,2.0,0.0
+Losing team,53,0.0,0.0,2,"{""Iowa State"": 33, ""Missouri"": 20}",9.245,10.0,0.0
+Losing team.1,53,0.0,1.0,24,"{""7"": 7, ""14"": 6, ""0"": 5, ""17"": 5, ""13"": 3}",1.679,2.0,0.0
+Series,53,0.0,0.0,53,"{""Missouri 30–16–6"": 1, ""Missouri 47–23–9"": 1, ""Missouri 48–24–9"": 1, ""Missouri 48–25–9"": 1, ""Missouri 48–26–9"": 1}",16.0,16.0,0.0

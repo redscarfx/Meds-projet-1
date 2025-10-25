@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,18,0.0,1.0,18,"{""1"": 1, ""2"": 1, ""17"": 1, ""16"": 1, ""15"": 1}",1.5,1.5,0.0
+Cyclist,18,0.0,0.0,18,"{""Iryna Shpylova"": 1, ""Jessie Daams"": 1, ""Fatehah Mustapa"": 1, ""Rosy Mccall"": 1, ""Skye Lee Armstrong"": 1}",15.5,14.5,0.0
+Team,18,0.0,0.0,18,"{""Ukraine"": 1, ""Belgium"": 1, ""Malaysia"": 1, ""GIS"": 1, ""Rodin"": 1}",8.611,7.0,0.0
+"Laps
+down",18,0.111111,0.888889,1,"{""-1.0"": 16}",4.0,4.0,0.0
+Notes,18,0.333333,0.0,1,"{""Q"": 12}",1.0,1.0,0.0

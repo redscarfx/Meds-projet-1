@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Make/Model,22,0.0,0.0,2,"{""New Flyer"": 21, ""MCI"": 1}",8.727,9.0,0.0
+Series,22,0.0,0.0,22,"{""101-135"": 1, ""140-169"": 1, ""971-990"": 1, ""930-949"": 1, ""911-925"": 1}",7.0,7.0,0.0
+Model,22,0.0,0.0,7,"{""D40LF"": 8, ""D40LFR"": 6, ""D40"": 3, ""D30LF"": 2, ""Classic"": 1}",5.364,5.0,0.0
+Year,22,0.0,1.0,17,"{""1994"": 3, ""2004"": 2, ""2011"": 2, ""2003"": 2, ""2010"": 1}",4.0,4.0,0.0
+Notes,22,0.272727,0.0,15,"{""all have been rebuilt"": 2, ""140-143 145-153 155-169 wrap for RT\n144 and 154 lost there rt wraps"": 1, ""204 Retired Due to Fire"": 1, ""all retired"": 1, ""365 remains, used only during rush hour"": 1}",39.125,34.5,0.0

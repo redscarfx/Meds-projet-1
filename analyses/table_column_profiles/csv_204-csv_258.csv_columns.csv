@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Location,19,0.0,0.0,17,"{""Williston"": 2, ""Grand Forks"": 2, ""Hettinger"": 1, ""Wahpeton"": 1, ""Tioga"": 1}",8.789,9.0,0.0
+Frequency,19,0.0,1.0,13,"{""91.9"": 7, ""90.5"": 1, ""91.7"": 1, ""89.9"": 1, ""89.3"": 1}",4.0,4.0,0.0
+Call sign,19,0.0,0.0,19,"{""K220FI (KDPR)"": 1, ""K220FG (KDPR)"": 1, ""KPPR"": 1, ""K234BX (KDSU)"": 1, ""K220FH (KPPW)"": 1}",8.579,7.0,0.0
+Network,19,0.0,0.0,3,"{""News and Classical"": 14, ""Mixed News and Classical & Roots, Rock, and Jazz"": 3, ""Roots, Rock, and Jazz"": 2}",23.053,18.0,0.0
+Call sign meaning,19,0.473684,0.0,10,"{""Capital of North Dakota"": 1, ""Prairie Public Radio Devils Lake"": 1, ""Dickinson Public Radio"": 1, ""North Dakota State University"": 1, ""University of North Dakota"": 1}",23.5,22.5,0.0

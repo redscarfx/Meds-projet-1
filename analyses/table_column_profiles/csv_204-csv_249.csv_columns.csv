@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+km,7,0.0,1.0,7,"{""0"": 1, ""3"": 1, ""5"": 1, ""10"": 1, ""14"": 1}",1.571,2.0,0.0
+Municipality,7,0.0,0.0,2,"{""R.M. of Rhineland"": 6, ""Canada-United States border"": 1}",18.429,17.0,0.0
+Location,7,0.428571,0.0,4,"{""Canada-United States border"": 1, ""Gretna"": 1, ""Altona"": 1, ""Rosenfeld"": 1}",12.0,7.5,0.0
+Interescting highway,7,0.0,0.0,7,"{""ND 18 – Cavalier, Larimore"": 1, ""PR 243 east – Emerson"": 1, ""PR 243 west – Blumenfeld"": 1, ""PR 421 east – Sommerfeld"": 1, ""PR 201 west – Brown, Windygates, Snowflake"": 1}",39.714,26.0,0.0
+Notes,7,0.142857,0.0,6,"{""PTH 30 begins"": 1, ""begin PR 243 west concurrence"": 1, ""end PR 243 west concurrence"": 1, ""begin PR 201 east concurrence"": 1, ""end PR 201 east concurrence"": 1}",27.333,28.0,0.0

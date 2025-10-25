@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,78,0.0,0.884615,74,"{""1961 (tie)"": 2, ""1974 (tie)"": 2, ""1984 (tie)"": 2, ""1987 (tie)"": 2, ""1939"": 1}",4.692,4.0,0.0
+Player,78,0.0,0.0,78,"{""George Crowe"": 1, ""Mark Jewell"": 1, ""Charles Macon"": 1, ""Glenn Robinson"": 1, ""Damon Bailey"": 1}",11.846,12.0,0.0
+High School,78,0.012821,0.0,47,"{""Anderson"": 4, ""Marion"": 4, ""Washington"": 4, ""Indianapolis North Central"": 3, ""Lafayette Jefferson"": 3}",13.195,13.0,0.0
+College,78,0.038462,0.0,35,"{""Indiana"": 22, ""Purdue"": 8, ""Kentucky"": 4, ""North Carolina"": 3, ""Cincinnati"": 3}",11.907,8.0,0.0
+NBA/ABA draft,78,0.666667,0.0,26,"{""1960 NBA Draft: 1st Rnd, 1st overall by the Cincinnati Royals"": 1, ""1963 NBA Draft: 3rd Rnd, 22nd overall by the Cincinnati Royals"": 1, ""2013 NBA Draft: 2nd Rnd, 58th overall by the San Antonio Spurs"": 1, ""2012 NBA Draft: 1st Rnd, 17th overall by the Dallas Mavericks"": 1, ""2008 NBA Draft: 1st Rnd, 7th overall by the Los Angeles Clippers"": 1}",61.462,61.0,0.0

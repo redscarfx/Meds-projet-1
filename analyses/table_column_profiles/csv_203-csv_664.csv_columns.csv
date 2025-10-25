@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Club,12,0.0,0.0,12,"{""Churchill United"": 1, ""East Gippsland United¹"": 1, ""Falcons 2000"": 1, ""Fortuna 60"": 1, ""Moe United"": 1}",13.25,13.0,0.0
+Town,12,0.0,0.0,8,"{""Morwell"": 3, ""Newborough"": 2, ""Traralgon"": 2, ""Churchill"": 1, ""Bairnsdale"": 1}",7.5,8.0,0.0
+Founded,12,0.083333,0.916667,11,"{""1969.0"": 1, ""2009.0"": 1, ""1961.0"": 1, ""1960.0"": 1, ""1952.0"": 1}",6.0,6.0,0.0
+Nickname,12,0.166667,0.0,10,"{""Rams"": 1, ""Falcons"": 1, ""Lions"": 1, ""Red Devils"": 1, ""Wolves"": 1}",7.9,7.5,0.0
+Colours,12,0.0,0.0,12,"{""Silver & Red"": 1, ""Navy Blue & Gold"": 1, ""Blue & Black"": 1, ""Orange & Black"": 1, ""Red, Black & White"": 1}",13.333,12.5,0.0
+Home Ground,12,0.0,0.0,11,"{""Harold Preston Reserve"": 2, ""Hazelwood South Reserve"": 1, ""Howitt Park Sports Complex"": 1, ""Latrobe City Soccer Stadium"": 1, ""Crinigan Road South Reserve"": 1}",20.75,22.5,0.0
+Titles,12,0.0,0.916667,9,"{""0"": 4, ""4"": 1, ""2"": 1, ""9"": 1, ""7"": 1}",1.083,1.0,0.0
+Website,12,0.0,0.0,12,"{""[2]"": 1, ""[3]"": 1, ""[4]"": 1, ""[5]"": 1, ""[6]"": 1}",3.333,3.0,0.0

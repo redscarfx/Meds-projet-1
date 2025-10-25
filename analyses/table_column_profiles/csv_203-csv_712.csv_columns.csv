@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Color & Icon,12,0.0,0.0,6,"{""blue"": 4, ""pink"": 3, ""purple"": 2, ""yellow"": 1, ""purple & white"": 1}",5.25,4.0,0.0
+Name,12,0.0,0.0,7,"{""Via trackage rights"": 5, ""Line 2"": 2, ""Line 1"": 1, ""Line 4"": 1, ""Line 3"": 1}",11.417,6.0,0.0
+Name.1,12,0.0,0.0,10,"{""Meijō Line"": 2, ""Meitetsu Komaki Line"": 2, ""Higashiyama Line"": 1, ""Meikō Line"": 1, ""Meitetsu Inuyama Line"": 1}",15.75,16.0,0.0
+Mark,12,0.416667,0.0,6,"{""M"": 2, ""H"": 1, ""E"": 1, ""T"": 1, ""S"": 1}",1.0,1.0,0.416667
+"First section
+opened",12,0.083333,0.916667,9,"{""2003.0"": 3, ""1957.0"": 1, ""1965.0"": 1, ""1974.0"": 1, ""1971.0"": 1}",6.0,6.0,0.0
+"Last ex-
+tension",12,0.583333,0.416667,5,"{""1982"": 1, ""1971"": 1, ""2004"": 1, ""1993"": 1, ""2011"": 1}",4.0,4.0,0.583333
+Length,12,0.0,0.0,12,"{""20.6 km (12.8 mi)"": 1, ""8.9 km (5.5 mi)"": 1, ""17.5 km (10.9 mi)"": 1, ""6.0 km (3.7 mi)"": 1, ""21.4 km (13.3 mi)"": 1}",16.25,16.5,0.0
+Stations,12,0.0,1.0,9,"{""2"": 3, ""13"": 2, ""22"": 1, ""12"": 1, ""17"": 1}",1.583,2.0,0.0

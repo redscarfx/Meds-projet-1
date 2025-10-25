@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,11,0.0,1.0,11,"{""2003"": 1, ""2004"": 1, ""2005"": 1, ""2006"": 1, ""2007"": 1}",4.0,4.0,0.0
+Location,11,0.0,0.0,5,"{""London"": 3, ""Toronto"": 3, ""Kingston"": 2, ""Montreal"": 2, ""London Ontario"": 1}",7.727,7.0,0.0
+Men's winner,11,0.0,0.0,4,"{""Western"": 5, ""Toronto"": 3, ""McGill"": 2, ""Queen's"": 1}",6.818,7.0,0.0
+Men's runner-up,11,0.0,0.0,4,"{""McGill"": 5, ""Queen's"": 3, ""Western"": 2, ""Toronto"": 1}",6.545,7.0,0.0
+Score,11,0.0,0.0,7,"{""2-1"": 4, ""1-0"": 2, ""3-0"": 1, ""2-0"": 1, ""P-P*"": 1}",4.727,3.0,0.0
+Women's winner,11,0.0,0.0,3,"{""McGill"": 8, ""Toronto"": 2, ""Western"": 1}",6.273,6.0,0.0
+Women's runner-up,11,0.0,0.0,4,"{""McGill"": 3, ""Western"": 3, ""Queen's"": 3, ""Toronto"": 2}",6.727,7.0,0.0
+Score.1,11,0.0,0.0,8,"{""1-0"": 3, ""2-1"": 2, ""4-3"": 1, ""6-2"": 1, ""3-1"": 1}",3.909,3.0,0.0

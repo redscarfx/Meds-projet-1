@@ -1,0 +1,14 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,18,0.0,0.944444,18,"{""1997"": 1, ""1998"": 1, ""2013"": 1, ""2012"": 1, ""2011*"": 1}",4.056,4.0,0.0
+Date,18,0.0,0.0,17,"{""May 2"": 2, ""June 22"": 1, ""February 25"": 1, ""March 24"": 1, ""March 25"": 1}",8.389,8.0,0.0
+Driver,18,0.0,0.0,12,"{""Jeff Gordon"": 3, ""Matt Kenseth"": 3, ""Jimmie Johnson"": 2, ""Kyle Busch"": 2, ""Mark Martin"": 1}",11.889,12.0,0.0
+Team,18,0.0,0.0,7,"{""Hendrick Motorsports"": 5, ""Roush Racing"": 4, ""Roush Fenway Racing"": 3, ""Penske Racing"": 2, ""Joe Gibbs Racing"": 2}",17.0,19.0,0.0
+Manufacturer,18,0.0,0.0,3,"{""Ford"": 9, ""Chevrolet"": 7, ""Toyota"": 2}",6.167,5.0,0.0
+"Race Distance
+Laps",18,0.0,0.833333,5,"{""250"": 13, ""200"": 2, ""251*"": 1, ""129*"": 1, ""206*"": 1}",3.167,3.0,0.0
+"Race Distance
+Miles (km)",18,0.0,0.0,5,"{""500 (804.672)"": 13, ""400 (643.737)"": 2, ""502 (807.89)"": 1, ""258 (415.21)"": 1, ""412 (663.05)"": 1}",12.833,13.0,0.0
+Race Time,18,0.0,0.0,18,"{""3:13:32"": 1, ""3:33:57"": 1, ""2:57:19"": 1, ""1:36:39"": 1, ""2:39:06"": 1}",7.0,7.0,0.0
+"Average Speed
+(mph)",18,0.0,1.0,18,"{""155.012"": 1, ""140.22"": 1, ""135.351"": 1, ""160.166"": 1, ""150.849"": 1}",6.944,7.0,0.0
+Report,18,0.0,0.0,1,"{""Report"": 18}",6.0,6.0,0.0

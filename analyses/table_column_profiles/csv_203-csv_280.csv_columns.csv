@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,17,0.0,1.0,17,"{""1"": 1, ""10"": 1, ""16"": 1, ""15"": 1, ""14"": 1}",1.471,1.0,0.0
+Date,17,0.0,0.0,17,"{""September 1, 1996"": 1, ""November 3, 1996"": 1, ""December 15, 1996"": 1, ""December 5, 1996"": 1, ""December 1, 1996"": 1}",15.824,17.0,0.0
+Opponent,17,0.0,0.0,17,"{""Arizona Cardinals"": 1, ""San Diego Chargers"": 1, ""at Kansas City Chiefs"": 1, ""Philadelphia Eagles"": 1, ""Buffalo Bills"": 1}",16.824,17.0,0.0
+Result,17,0.0,0.0,17,"{""W 20–13"": 1, ""L 19–26"": 1, ""W 24–19"": 1, ""W 37–10"": 1, ""W 13–10"": 1}",6.588,7.0,0.0
+Record,17,0.0,0.0,17,"{""1–0"": 1, ""5–4"": 1, ""9–6"": 1, ""8–6"": 1, ""7–6"": 1}",3.0,3.0,0.0
+Game Site,17,0.0,0.0,10,"{""RCA Dome"": 8, ""The Meadowlands"": 1, ""Texas Stadium"": 1, ""Bye"": 1, ""Rich Stadium"": 1}",10.647,8.0,0.0
+TV Time,17,0.0,0.0,7,"{""NBC 1:00 pm"": 7, ""NBC 4:15 pm"": 5, ""FOX 1:00 pm"": 1, ""ABC 9:00 pm"": 1, ""Bye"": 1}",10.588,11.0,0.0
+Attendance,17,0.0,0.0,17,"{""48,133"": 1, ""58,484"": 1, ""71,136"": 1, ""52,689"": 1, ""53,804"": 1}",5.824,6.0,0.0

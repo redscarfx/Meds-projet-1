@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,380,0.0,0.0,380,"{""Eccard Freiherr von Gablenz"": 1, ""Hartmann Grasser+"": 1, ""August Grauting"": 1, ""Ulrich Grauert"": 1, ""Reinhard Graubner"": 1}",15.071,14.0,0.0
+Service,380,0.0,0.0,4,"{""Heer"": 238, ""Luftwaffe"": 98, ""Waffen-SS"": 32, ""Kriegsmarine"": 12}",5.963,4.0,0.0
+Rank,380,0.0,0.0,60,"{""Hauptmann"": 47, ""Oberleutnant"": 46, ""Major"": 33, ""Oberfeldwebel"": 33, ""Leutnant"": 23}",14.279,12.0,0.0
+Role and unit,380,0.0,0.0,378,"{""Pilot in the 9./Jagdgeschwader 52"": 2, ""Commander of Sturmgeschütz-Abteilung 244"": 2, ""Gruppenkommandeur of the II./Kampfgeschwader 4 \\General Wever\\\""\"""": 1, ""Pilot in the 8./Jagdgeschwader 52"": 1, ""Pilot in the 2./Jagdgeschwader 52"": 1}",47.766,45.0,0.0
+Date of award,380,0.0,0.0,276,"{""30 September 1944"": 5, ""14 May 1944"": 4, ""9 May 1945"": 4, ""28 March 1945"": 4, ""9 June 1944"": 4}",14.082,15.0,0.0
+Notes,380,0.792105,0.0,79,"{""Killed in action 29 September 1943"": 1, ""Awarded 344th Oak Leaves 5 December 1943"": 1, ""Awarded 840th Oak Leaves 17 April 1945"": 1, ""Awarded 572nd Oak Leaves 5 September 1944"": 1, ""Awarded 216th Oak Leaves 2 April 1943\n92nd Swords 28 August 1944"": 1}",40.797,37.0,0.792105
+Image,380,1.0,0.0,0,{},0.0,0.0,0.931579

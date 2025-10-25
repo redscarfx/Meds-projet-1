@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,9,0.0,1.0,9,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.0,1.0,0.0
+Date,9,0.0,0.0,9,"{""September 12, 1982"": 1, ""September 19, 1982"": 1, ""November 21, 1982"": 1, ""November 29, 1982"": 1, ""December 5, 1982"": 1}",16.889,17.0,0.0
+Opponent,9,0.0,0.0,9,"{""at New York Jets"": 1, ""Baltimore Colts"": 1, ""at Buffalo Bills"": 1, ""at Tampa Bay Buccaneers"": 1, ""Minnesota Vikings"": 1}",17.111,16.0,0.0
+Result,9,0.0,0.0,9,"{""W 45–28"": 1, ""W 24–20"": 1, ""W 9–7"": 1, ""L 17–23"": 1, ""W 22–14"": 1}",6.444,7.0,0.0
+Attendance,9,0.0,0.0,9,"{""53,360"": 1, ""51,999"": 1, ""52,945"": 1, ""65,854"": 1, ""45,721"": 1}",6.0,6.0,0.0

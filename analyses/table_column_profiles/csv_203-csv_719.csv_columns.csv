@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,126,0.0,1.0,126,"{""1889"": 1, ""1968"": 1, ""1981"": 1, ""1980"": 1, ""1979"": 1}",4.0,4.0,0.0
+Australian Open,126,0.0,0.0,90,"{""tournament not created"": 32, ""no competition"": 6, ""Kathy Jordan (4/5)\n Anne Smith (4/5) ††"": 1, ""Jana Novotná (2/12)\n Helena Suková (4/9)"": 1, ""Martina Navratilova (29/31)\n Pam Shriver (20/21)"": 1}",39.389,43.0,0.0
+French Open,126,0.007937,0.0,86,"{""tournament not created"": 35, ""no competition"": 6, ""Gigi Fernández (4/17)\n Natasha Zvereva (4/18)"": 1, ""Jana Novotná (3/12)\n Helena Suková (5/9)"": 1, ""Larisa Savchenko Neiland (1/2)\n Natasha Zvereva (1/18)"": 1}",37.744,41.0,0.0
+Wimbledon,126,0.007937,0.0,94,"{""tournament not created"": 23, ""no competition"": 10, ""Billie Jean King (15/16)\n Martina Navratilova (5/31)"": 1, ""Steffi Graf\n Gabriela Sabatini"": 1, ""Claudia Kohde-Kilsch (2/2)\n Helena Suková (2/9)"": 1}",37.144,42.0,0.0
+US Open,126,0.007937,0.0,125,"{""Bertha Townsend\n Margarette Ballard"": 1, ""Maria Bueno (11/11)\n Margaret Court (10/19)"": 1, ""Kathy Jordan (3/5)\n Anne Smith (3/5)"": 1, ""Billie Jean King (16/16)\n Martina Navratilova (6/31)"": 1, ""Betty Stöve (6/6)\n Wendy Turnbull (3/4)"": 1}",45.504,46.0,0.0

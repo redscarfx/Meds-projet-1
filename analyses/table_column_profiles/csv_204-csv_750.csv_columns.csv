@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Team,22,0.0,0.0,22,"{""Merthyr Town"": 1, ""Paulton Rovers"": 1, ""Shortwood United"": 1, ""Sholing"": 1, ""Bishop's Cleeve"": 1}",13.591,14.0,0.0
+Stadium,22,0.0,0.0,22,"{""Penydarren Park"": 1, ""Athletic Field"": 1, ""The Meadowbank Ground"": 1, ""VT Group Sports Ground"": 1, ""Kayte Lane"": 1}",15.227,14.5,0.0
+Capacity,22,0.0,0.0,12,"{""2,500"": 4, ""2,000"": 4, ""3,500"": 3, ""3,000"": 2, ""TBC"": 2}",4.864,5.0,0.0
+Seated,22,0.227273,0.772727,14,"{""300"": 3, ""150"": 2, ""253"": 1, ""180"": 1, ""250"": 1}",2.941,3.0,0.045455

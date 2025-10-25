@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Round,12,0.0,1.0,6,"{""1"": 2, ""2"": 2, ""3"": 2, ""4"": 2, ""5"": 2}",1.0,1.0,0.0
+Round.1,12,0.0,0.0,12,"{""R1"": 1, ""R2"": 1, ""R3"": 1, ""R4"": 1, ""R5"": 1}",2.25,2.0,0.0
+Circuit,12,0.0,0.0,5,"{""Mantorp Park"": 4, ""Karlskoga-Gelleråsen"": 2, ""Anderstorp"": 2, ""Falkenberg"": 2, ""Ring Knutstorp"": 2}",13.0,12.0,0.0
+Date,12,0.0,0.0,6,"{""10 May"": 2, ""31 May"": 2, ""28 June"": 2, ""9 July"": 2, ""6 September"": 2}",8.0,6.5,0.0
+Pole Position,12,0.5,0.0,5,"{""Mattias Ekström"": 2, ""Jan Nilsson"": 1, ""Jens Edman"": 1, ""Fredrik Ekblom"": 1, ""Tommy Kristoffersson"": 1}",14.167,14.5,0.0
+Fastest Lap,12,0.0,0.0,6,"{""Fredrik Ekblom"": 5, ""Peggen Andersson"": 3, ""Jan Nilsson"": 1, ""Jens Edman"": 1, ""Mattias Ekström"": 1}",13.75,14.0,0.0
+Winning Driver,12,0.0,0.0,5,"{""Jan Nilsson"": 5, ""Fredrik Ekblom"": 3, ""Peggen Andersson"": 2, ""Mats Lindén"": 1, ""Jens Edman"": 1}",12.5,11.0,0.0
+Winning Team,12,0.0,0.0,3,"{""Flash Engineering"": 6, ""BMW Dealer Team"": 5, ""Kristoffersson Motorsport"": 1}",16.833,17.0,0.0
+Winning Privateer,12,0.0,0.0,3,"{""Pontus Mörth"": 9, ""Georg Bakajev"": 2, ""Richard Göransson"": 1}",12.583,12.0,0.0

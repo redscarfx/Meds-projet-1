@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,16,0.0,1.0,16,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.438,1.0,0.0
+Heat,16,0.0,1.0,2,"{""1"": 8, ""2"": 8}",1.0,1.0,0.0
+Athlete,16,0.0,0.0,16,"{""Natalya Ivanova"": 1, ""Elodie Ouédraogo"": 1, ""Yelena Yakovleva"": 1, ""Monika Bejnar"": 1, ""Nataliya Pyhyda"": 1}",15.25,15.0,0.0
+Nationality,16,0.0,0.0,14,"{""Russia"": 2, ""Poland"": 2, ""Belgium"": 1, ""Ukraine"": 1, ""United States Virgin Islands"": 1}",8.25,6.5,0.0
+Time,16,0.0,1.0,16,"{""23.11"": 1, ""23.23"": 1, ""23.37"": 1, ""23.39"": 1, ""23.4"": 1}",4.875,5.0,0.0
+Notes,16,0.5,0.0,2,"{""Q"": 6, ""Q, SB"": 2}",2.0,1.0,0.0

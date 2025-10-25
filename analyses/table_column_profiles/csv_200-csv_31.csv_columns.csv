@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Result,10,0.0,0.0,2,"{""Win"": 9, ""Loss"": 1}",3.1,3.0,0.0
+Record,10,0.8,0.0,2,"{""14–1"": 1, ""0–1"": 1}",3.5,3.5,0.0
+Opponent,10,0.0,0.0,8,"{""Peter Read"": 2, ""Myron Greenberg"": 2, ""Ted LaScalza"": 1, ""Nick Welling"": 1, ""Earl Garrett"": 1}",12.6,12.0,0.0
+Method,10,0.0,0.0,2,"{""KO"": 9, ""TKO"": 1}",2.1,2.0,0.0
+Date,10,0.0,0.6,7,"{""1950"": 3, ""1948"": 2, ""1958"": 1, ""July 20, 1953"": 1, ""February 17, 1950"": 1}",8.4,4.0,0.0
+Round,10,0.0,1.0,3,"{""1"": 6, ""2"": 3, ""3"": 1}",1.0,1.0,0.0
+Time,10,0.8,0.0,2,"{""0:33"": 1, ""0:16"": 1}",4.0,4.0,0.0
+Event,10,0.5,0.0,1,"{""Golden Gloves"": 5}",13.0,13.0,0.0
+Location,10,0.2,0.0,2,"{""New Jersey"": 7, ""Orange, New Jersey"": 1}",11.0,10.0,0.0
+Notes,10,0.8,0.0,2,"{""Scheider suffers nose injury; drops out of tournament."": 1, ""Scheider's nose is broken."": 1}",40.0,40.0,0.0

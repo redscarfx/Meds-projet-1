@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Season,10,0.0,0.0,10,"{""2003–04"": 1, ""2004–05"": 1, ""2005–06"": 1, ""2006–07"": 1, ""2007–08"": 1}",7.0,7.0,0.0
+Club,10,0.0,0.0,5,"{""NK Zagreb"": 4, ""Hajduk Split"": 3, ""Podgrmeč"": 1, ""Lokomotiv"": 1, ""Gaziantepspor"": 1}",10.2,9.0,0.0
+League,10,0.0,0.0,4,"{""Prva HNL"": 7, ""FBiH First League"": 1, ""RFPL"": 1, ""Süper Lig"": 1}",8.6,8.0,0.0
+Apps,10,0.0,1.0,9,"{""17"": 2, ""23"": 1, ""26"": 1, ""25"": 1, ""31"": 1}",1.9,2.0,0.0
+Goals,10,0.0,1.0,7,"{""3"": 2, ""4"": 2, ""12"": 2, ""16"": 1, ""17"": 1}",1.4,1.0,0.0

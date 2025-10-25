@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,16,0.0,1.0,11,"{""2014"": 2, ""2011"": 2, ""2010"": 2, ""2009"": 2, ""2008"": 2}",4.0,4.0,0.0
+FBS Opponent,16,0.0,0.0,13,"{""South Florida Bulls"": 3, ""Hawaii Warriors"": 2, ""Alabama Crimson Tide"": 1, ""Georgia Bulldogs"": 1, ""Vanderbilt Commodores"": 1}",17.562,17.5,0.0
+Result,16,0.0,0.0,14,"{""TBD"": 3, ""L, 43-10"": 1, ""L, 44-0"": 1, ""L, 62-0"": 1, ""L, 62-10"": 1}",6.562,7.0,0.0
+Opponent's Conference,16,0.0,0.0,8,"{""SEC"": 5, ""Big East"": 3, ""ACC"": 2, ""WAC"": 2, ""Pac-12"": 1}",4.5,3.0,0.0
+Opponent's Head Coach,16,0.0,0.0,14,"{""Jim Leavitt"": 3, ""Nick Saban"": 1, ""Mark Richt"": 1, ""Derek Mason"": 1, ""Mike MacIntyre"": 1}",11.812,11.0,0.0
+Charleston Southern's Head Coach,16,0.0,0.0,3,"{""Jay Mills"": 11, ""Jamey Chadwell"": 4, ""David Dowd"": 1}",10.312,9.0,0.0

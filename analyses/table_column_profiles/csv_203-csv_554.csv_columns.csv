@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,13,0.0,1.0,13,"{""1970"": 1, ""1974"": 1, ""1978"": 1, ""1982"": 1, ""1986"": 1}",4.0,4.0,0.0
+Place,13,0.0,0.0,13,"{""Phoenix"": 1, ""Thun"": 1, ""Seoul"": 1, ""Caracas"": 1, ""Suhl"": 1}",6.077,6.0,0.0
+Gold,13,0.0,0.0,12,"{""TBD"": 2, ""United States of America\nSally Carroll\nLucile Chambliss\nBarbara Hile"": 1, ""Soviet Union\nGalina Zarikova\nZinaida Simonian\nNina Stoliarova"": 1, ""Denmark\nKirsten Broge\nBonnie Bruun\nAase Havsteen"": 1, ""Soviet Union\nMarina Dobrantcheva\nInna Rose\nAuksne Treinite"": 1}",49.615,58.0,0.0
+Silver,13,0.0,0.0,12,"{""TBD"": 2, ""Soviet Union\nNadezda Ibragimova\nNina Rasskazova\nNina Stoliarova"": 1, ""Czechoslovakia\nTereza Bohinska\nBedriska Hykova\nKatarina Pastorova"": 1, ""Australia\nJulie Aitken\nPatricia Dench\nLynne Uden"": 1, ""Hungary\nPalma Balogh\nMarta Kotroczo\nGabriella Kanyai"": 1}",46.308,52.0,0.0
+Bronze,13,0.0,0.0,12,"{""TBD"": 2, ""Federal Republic of Germany\nOrtrud Feickert\nKarin Fitzner\nRuth Kasten"": 1, ""Australia\nJudith Harrison\nEnid Newton\nGloria Vause"": 1, ""United States of America\nSally Carroll\nKimberly Dyer\nRuby Fox"": 1, ""People's Republic of China\nJianmin Gao\nZhifang Wen\nCui Qing Yang"": 1}",52.154,61.0,0.0

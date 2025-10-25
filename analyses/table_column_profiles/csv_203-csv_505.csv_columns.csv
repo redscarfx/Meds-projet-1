@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Number,159,0.0,1.0,159,"{""1"": 1, ""111"": 1, ""104"": 1, ""105"": 1, ""106"": 1}",2.327,2.0,0.0
+Event,159,0.0,0.0,156,"{""The Lord's Prayer"": 2, ""The Birds of Heaven"": 2, ""The Little Children"": 2, ""Pre-existence of Christ"": 1, ""Jesus and the woman taken in adultery"": 1}",20.642,20.0,0.0
+Type,159,0.0,0.0,9,"{""ministry"": 39, ""miracle"": 37, ""parable"": 36, ""nativity"": 13, ""sermon"": 9}",8.453,7.0,0.0
+Matthew,159,0.352201,0.0,102,"{""Matthew 18:01–06"": 2, ""Matthew 01:01–17"": 1, ""Matthew 17:24–27"": 1, ""Matthew 21:12–13"": 1, ""Matthew 21:01–11"": 1}",15.942,16.0,0.0
+Mark,159,0.553459,0.0,70,"{""Mark 09:33–37"": 2, ""Mark 01:01–08"": 1, ""Mark 10:46–52"": 1, ""Mark 12:13–17"": 1, ""Mark 12:01–09"": 1}",13.0,13.0,0.0
+Luke,159,0.339623,0.0,102,"{""Luke 11:02–04"": 2, ""Luke 09:46–48"": 2, ""Luke 12:22–34"": 2, ""Luke 03:23–38"": 1, ""Luke 17:11–19"": 1}",12.933,13.0,0.0
+John,159,0.786164,0.0,34,"{""John 01:01–18"": 1, ""John 19:16–17"": 1, ""John 12:24–26"": 1, ""John 13:01–31"": 1, ""John 16:05–15"": 1}",13.0,13.0,0.0

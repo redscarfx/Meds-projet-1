@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,66,0.0,1.0,66,"{""1902"": 1, ""1952"": 1, ""1938"": 1, ""1939"": 1, ""1940"": 1}",4.0,4.0,0.0
+Site,66,0.0,0.0,2,"{""Lawrence"": 34, ""Manhattan"": 32}",8.485,8.0,0.0
+Winning team,66,0.0,0.0,37,"{""Kansas 34"": 5, ""Kansas State 6"": 4, ""Kansas 19"": 4, ""Kansas 20"": 3, ""Kansas State 13"": 3}",10.455,9.0,0.0
+Losing team,66,0.0,0.0,18,"{""Kansas State 0"": 23, ""Kansas 0"": 10, ""Kansas State 7"": 8, ""Kansas State 6"": 3, ""Kansas State 3"": 3}",12.606,14.0,0.0
+Series,66,0.0,0.0,66,"{""KU 1–0"": 1, ""KU 33–14–3"": 1, ""KU 22–11–3"": 1, ""KU 22–12–3"": 1, ""KU 22–13–3"": 1}",8.955,9.5,0.0

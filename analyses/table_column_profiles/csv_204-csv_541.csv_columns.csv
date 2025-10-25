@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,7,0.0,0.0,7,"{""Ratan Planet"": 1, ""The Landmark Hotel"": 1, ""Ratan Orbit"": 1, ""BSNL Tower"": 1, ""Som Business Square (EL Mart)"": 1}",15.857,13.0,0.0
+Area,7,0.0,0.0,7,"{""Opp. ALIMCO, Naramau, G.T Road, Kalianpur"": 1, ""Near Navin Market, Mall Road, Downtown"": 1, ""Mukherjee Vihar, Kalianpur"": 1, ""Opp. Resrve Bank of India, Mall Road, Downtown"": 1, ""Mega Mall Crossing, The Mall, Downtown"": 1}",37.857,38.0,0.0
+Height,7,0.0,0.0,6,"{""80 metres (262 ft)"": 2, ""90 metres (295 ft)"": 1, ""70 metres (230 ft)"": 1, ""65 metres (213 ft)"": 1, ""60 metres (197 ft)"": 1}",18.0,18.0,0.0
+Floors,7,0.0,1.0,4,"{""15"": 3, ""14"": 2, ""16"": 1, ""10"": 1}",2.0,2.0,0.0
+Year,7,0.0,1.0,7,"{""2013"": 1, ""2000"": 1, ""2011"": 1, ""2001"": 1, ""2005"": 1}",4.0,4.0,0.0

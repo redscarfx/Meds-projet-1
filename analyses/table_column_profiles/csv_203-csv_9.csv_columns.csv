@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+State,52,0.0,0.0,52,"{""United States Federal Government"": 1, ""United States military"": 1, ""Nebraska"": 1, ""Nevada"": 1, ""New Hampshire"": 1}",9.154,8.0,0.0
+Last execution date,52,0.0,0.0,49,"{""never used"": 3, ""26 February 2014"": 2, ""18 March 2003"": 1, ""14 February 1845"": 1, ""22 January 1963"": 1}",13.827,15.0,0.0
+Name,52,0.057692,0.0,49,"{""Louis Jones, Jr."": 1, ""Robert E. Williams"": 1, ""Howard Long"": 1, ""Ralph Hudson"": 1, ""Terry D. Clark"": 1}",17.571,18.0,0.0
+Crime,52,0.057692,0.0,3,"{""aggravated murder"": 36, ""murder"": 12, ""rape and attempted murder"": 1}",14.469,17.0,0.0
+Method,52,0.057692,0.0,4,"{""lethal injection"": 32, ""hanging"": 9, ""electric chair"": 7, ""firing squad"": 1}",13.98,16.0,0.0

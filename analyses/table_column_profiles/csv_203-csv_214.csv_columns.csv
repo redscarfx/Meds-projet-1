@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Member,124,0.0,0.0,124,"{""Charles Adermann"": 1, ""William Lawrence"": 1, ""John McLeay"": 1, ""Rt Hon John McEwen"": 1, ""Malcolm McColm"": 1}",13.863,13.0,0.0
+Party,124,0.0,0.0,4,"{""ALP"": 51, ""Liberal"": 49, ""Country"": 17, ""ALP/ALP (A-C)"": 7}",5.694,7.0,0.0
+Electorate,124,0.0,0.0,123,"{""Cook"": 2, ""Fisher"": 1, ""Wimmera"": 1, ""Murray"": 1, ""Bowman"": 1}",7.629,7.0,0.0
+State,124,0.0,0.0,10,"{""NSW"": 48, ""Vic"": 31, ""Qld"": 18, ""SA"": 10, ""WA"": 7}",2.887,3.0,0.0
+First elected,124,0.0,0.919355,28,"{""1949"": 53, ""1946"": 11, ""1951"": 10, ""1943"": 8, ""1954"": 5}",4.823,4.0,0.0

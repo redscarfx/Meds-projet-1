@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+TOPS design code,14,0.0,0.0,13,"{""08-0BX"": 2, ""08-0AV"": 1, ""08-0CA"": 1, ""08-0DV"": 1, ""08-0FA"": 1}",6.0,6.0,0.0
+Electrical system,14,0.0,0.0,2,"{""90 V"": 8, ""110 V"": 6}",4.429,4.0,0.0
+Max speed,14,0.0,0.0,2,"{""15 mph (24 km/h)"": 11, ""20 mph (32 km/h)"": 3}",16.0,16.0,0.0
+Weight,14,0.0,0.0,5,"{""49.8 te (496 kN)"": 4, ""50.4 te (502 kN)"": 4, ""51 te (508 kN)"": 3, ""49.6 te (494 kN)"": 2, ""49 te (488 kN)"": 1}",15.429,16.0,0.0
+Brakes,14,0.0,0.0,3,"{""air"": 8, ""dual"": 4, ""vacuum"": 2}",3.714,3.0,0.0
+Route availability,14,0.0,1.0,2,"{""5"": 10, ""6"": 4}",1.0,1.0,0.0
+Notes,14,0.642857,0.0,2,"{""fitted with Buckeye couplings"": 4, ""Scharfenberg adapter fitted"": 1}",28.6,29.0,0.0

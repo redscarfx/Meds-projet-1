@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,25,0.0,0.0,25,"{""Erich Burgener"": 1, ""Alfred Scheiwiler"": 1, ""Raimondo Ponte"": 1, ""Beat Sutter"": 1, ""Claudio Sulser"": 1}",13.64,13.0,0.0
+Position,25,0.0,0.0,4,"{""MF"": 10, ""DF"": 7, ""ST"": 6, ""GK"": 2}",2.0,2.0,0.0
+Birth Date/Age at start of campaign,25,0.0,0.0,24,"{""October 8, 1958 (age 23)"": 2, ""February 15, 1951 (age 31)"": 1, ""February 4, 1956 (age 26)"": 1, ""December 12, 1962 (age 19)"": 1, ""October 8, 1955 (age 26)"": 1}",23.88,24.0,0.0
+Games in campaign,25,0.0,0.72,11,"{""4"": 5, ""1"": 4, ""3"": 3, ""6"": 3, ""2"": 2}",4.24,1.0,0.0
+Club,25,0.04,0.0,11,"{""Grasshoppers"": 10, ""Servette"": 4, ""FC St. Gallen"": 2, ""FC Zürich"": 1, ""1. FC Nuremberg\n FC Basel"": 1}",12.625,12.0,0.0

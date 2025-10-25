@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,49,0.0,0.0,49,"{""Ara Abramyan"": 1, ""Omer Zülfü Livaneli"": 1, ""Jean Malaurie"": 1, ""Keith Chatsauka-Coetzee"": 1, ""Grand Duchess María Teresa of Luxembourg"": 1}",17.592,16.0,0.0
+Country,49,0.0,0.0,32,"{""France"": 6, ""Brazil"": 4, ""Italy"": 3, ""United States"": 3, ""India"": 2}",7.286,6.0,0.0
+Ambassador since,49,0.061224,0.183673,42,"{""27 May 2011"": 3, ""1992"": 2, ""1998"": 2, ""15 July 2003"": 1, ""20 September 1996"": 1}",11.674,13.0,0.0
+Projects and activities they support,49,0.163265,0.0,41,"{""Dialogue among Civilizations"": 1, ""Protection of childhood and women's rights"": 1, ""Empowerment of Minority Children and the Preservation of their Intangible Cultural Heritage"": 1, ""In charge of arctic polar issues, promoting environmental issues and safeguarding the culture and knowledge of the peoples of the Arctic"": 1, ""Education, Women's rights, microfinance and campaign against poverty"": 1}",70.951,68.0,0.0
+Link,49,0.0,0.0,49,"{""[1]"": 1, ""[26]"": 1, ""[28]"": 1, ""[29]"": 1, ""[30]"": 1}",3.816,4.0,0.0

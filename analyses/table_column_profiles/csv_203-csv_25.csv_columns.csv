@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Stage,23,0.0,0.956522,23,"{""P"": 1, ""12"": 1, ""21"": 1, ""20"": 1, ""19"": 1}",1.565,2.0,0.0
+Date,23,0.0,0.0,23,"{""1 July"": 1, ""13 July"": 1, ""23 July"": 1, ""22 July"": 1, ""21 July"": 1}",6.609,7.0,0.0
+Route,23,0.0,0.0,23,"{""Fontenay-sous-Bois"": 1, ""Fleurance – Roquefort-sur-Soulzon"": 1, ""Dijon"": 1, ""Morzine – Dijon"": 1, ""Morzine – Avoriaz"": 1}",22.87,22.0,0.0
+Terrain,23,0.0,0.0,5,"{""Plain stage"": 10, ""Individual time trial"": 5, ""Hilly stage"": 4, ""Stage with mountain(s)"": 3, ""Team time trial"": 1}",14.783,11.0,0.0
+Length,23,0.0,0.0,23,"{""6 km (3.7 mi)"": 1, ""261 km (162 mi)"": 1, ""50 km (31 mi)"": 1, ""291 km (181 mi)"": 1, ""15 km (9.3 mi)"": 1}",14.478,15.0,0.0
+Winner,23,0.0,0.0,22,"{""Bert Oosterbosch (NED)"": 2, ""Eric Vanderaerden (BEL)"": 1, ""Henk Lubberding (NED)"": 1, ""Laurent Fignon (FRA)"": 1, ""Philippe Leleu (FRA)"": 1}",19.739,20.0,0.0

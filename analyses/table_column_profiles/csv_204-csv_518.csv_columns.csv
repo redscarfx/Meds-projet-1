@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+World Record,8,0.0,0.0,3,"{""Asian Record"": 3, ""Games Record"": 3, ""World Record"": 2}",12.0,12.0,0.0
+Snatch,8,0.0,0.0,3,"{""Clean & Jerk"": 3, ""Total"": 3, ""Snatch"": 2}",7.875,6.0,0.0
+Akakios Kakiasvilis (GRE),8,0.0,0.0,5,"{""Kourosh Bagheri (IRI)"": 2, ""Ilya Ilyin (KAZ)"": 2, ""Bakhyt Akhmetov (KAZ)"": 2, ""Szymon Kołecki (POL)"": 1, ""Akakios Kakiasvilis (GRE)"": 1}",20.125,21.0,0.0
+188 kg,8,0.0,0.0,7,"{""226 kg"": 2, ""232 kg"": 1, ""412 kg"": 1, ""187 kg"": 1, ""407 kg"": 1}",6.0,6.0,0.0
+"Athens, Greece",8,0.0,0.0,6,"{""Doha, Qatar"": 2, ""Busan, South Korea"": 2, ""Sofia, Bulgaria"": 1, ""Athens, Greece"": 1, ""Sydney, Australia"": 1}",14.875,15.0,0.0
+27 November 1999,8,0.0,0.0,6,"{""5 December 2006"": 2, ""8 October 2002"": 2, ""29 April 2000"": 1, ""27 November 1999"": 1, ""24 September 2000"": 1}",14.875,15.0,0.0

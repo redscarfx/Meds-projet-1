@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Season,16,0.0,0.0,16,"{""1995–96"": 1, ""1996–97"": 1, ""1997–98"": 1, ""1998–99"": 1, ""2000–01"": 1}",7.0,7.0,0.0
+Skip,16,0.0,0.0,6,"{""David Nedohin (fourth)"": 11, ""Arnold Asham"": 1, ""Dale Duguid"": 1, ""Randy Ferbey"": 1, ""David Nedohin"": 1}",18.875,22.0,0.0
+Third,16,0.0,0.0,4,"{""Randy Ferbey (skip)"": 11, ""David Nedohin"": 3, ""James Kirkness"": 1, ""Colin Hodgson"": 1}",17.188,19.0,0.0
+Second,16,0.0,0.0,8,"{""Scott Pfeifer"": 9, ""Sean Nedohin"": 1, ""David Nedohin"": 1, ""Carter Rycroft"": 1, ""Blayne Iskiw"": 1}",12.812,13.0,0.0
+Lead,16,0.0,0.0,9,"{""Marcel Rocque"": 8, ""Don Rudd"": 1, ""Doug Armstrong"": 1, ""Pat McCallum"": 1, ""Carter Rycroft"": 1}",12.438,13.0,0.0
+Events,16,0.375,0.0,10,"{""2001 Alta., Brier, WCC"": 1, ""2002 Alta., Brier, WCC"": 1, ""2003 Alta., Brier, WCC"": 1, ""2004 Alta., Brier"": 1, ""2005 Alta., Brier, WCC"": 1}",17.7,21.0,0.0

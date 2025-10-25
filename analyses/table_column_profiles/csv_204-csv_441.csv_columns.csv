@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,46,0.0,0.0,46,"{""8 August 1998"": 1, ""6 March 1999"": 1, ""28 December 1998"": 1, ""9 January 1999"": 1, ""16 January 1999"": 1}",14.457,15.0,0.0
+Opponent,46,0.0,0.0,23,"{""Bristol City"": 2, ""Tranmere Rovers"": 2, ""Bradford City"": 2, ""Norwich City"": 2, ""Port Vale"": 2}",13.348,13.0,0.0
+Venue,46,0.0,0.0,2,"{""A"": 23, ""H"": 23}",1.0,1.0,0.0
+Result,46,0.0,0.0,19,"{""0-2"": 7, ""0-1"": 7, ""0-0"": 6, ""2-2"": 4, ""1-1"": 3}",3.0,3.0,0.0
+Attendance,46,0.0,0.0,45,"{""6,626"": 2, ""13,729"": 1, ""6,034"": 1, ""12,604"": 1, ""9,434"": 1}",5.326,5.0,0.0
+Scorers,46,0.456522,0.0,19,"{""Windass"": 6, ""Thomson"": 2, ""Murphy, Windass"": 1, ""Banger (2)"": 1, ""Wilsterman, Francis"": 1}",15.56,15.0,0.0

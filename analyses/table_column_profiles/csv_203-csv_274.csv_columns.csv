@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Church name,21,0.0,0.0,21,"{""Blessed Sacrament"": 1, ""St. Brendan"": 1, ""St. Peter (Italian)[56]"": 1, ""St. Mary Magdalen[54]"": 1, ""St. Kevin[53]"": 1}",20.905,19.0,0.0
+Address,21,0.0,0.0,21,"{""6657 W. Sunset Blvd.34°05′53″N 118°20′06″W﻿ / ﻿34.09806°N 118.33500°W"": 1, ""310 S. Van Ness Ave.34°04′07″N 118°18′53″W﻿ / ﻿34.06861°N 118.31472°W"": 1, ""1039 N. Broadway34°04′04″N 118°14′06″W﻿ / ﻿34.06778°N 118.23500°W"": 1, ""1241 Corning St.34°03′16″N 118°22′39″W﻿ / ﻿34.05444°N 118.37750°W"": 1, ""4072 Beverly Blvd.34°04′34″N 118°17′53″W﻿ / ﻿34.07611°N 118.29806°W"": 1}",68.048,69.0,0.0
+Community,21,0.0,0.0,15,"{""Los Angeles (Hollywood)"": 2, ""Los Angeles (Mid-City)"": 2, ""Los Angeles (East Hollywood)"": 2, ""Los Angeles (Los Feliz)"": 2, ""Los Angeles (Koreatown)"": 2}",24.619,23.0,0.0
+School,21,0.047619,0.0,12,"{""No"": 9, ""K-8[33]"": 1, ""K-8[36]"": 1, ""K-8[39]\n9-12[40]"": 1, ""K-8[42]"": 1}",5.2,7.0,0.0

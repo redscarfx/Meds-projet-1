@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,16,0.0,0.0,16,"{""Serbian Progressive Party\nСрпска напредна странка / Srpska napredna stranka"": 1, ""Socialist Party of Serbia\nСоцијалистичка партија Србије / Socjalistička patrija Srbje"": 1, ""Democratic Party\nДемократска странка / Demokratska stranka"": 1, ""Party of United Pensioners of Serbia\nПартија уједињених пензионера Србије/ Partija ujedinjenih penzionera Srbije"": 1, ""New Democratic Party\nНова демократска странка / Nova demokratska stranka"": 1}",75.438,73.5,0.0
+Abbr.,16,0.0,0.0,16,"{""SNS"": 1, ""SPS"": 1, ""DS"": 1, ""PUPS"": 1, ""NDS"": 1}",2.938,3.0,0.0
+Leader,16,0.0,0.0,16,"{""Aleksandar Vučić"": 1, ""Ivica Dačić"": 1, ""Dragan Đilas"": 1, ""Jovan Krkobabić"": 1, ""Boris Tadić"": 1}",13.375,13.5,0.0
+Ideology,16,0.0,0.0,14,"{""Social democracy"": 2, ""Populism"": 2, ""Conservatism"": 1, ""Socialism"": 1, ""Social democracy, Third Way"": 1}",20.5,23.0,0.0
+Political position,16,0.0,0.0,9,"{""Centre-left"": 4, ""Centre-right"": 3, ""Minority politics"": 3, ""Centre-left to Left-wing"": 1, ""Centre-left to Centre"": 1}",13.875,12.0,0.0
+MPs,16,0.0,0.0,10,"{""6 / 250"": 3, ""2 / 250"": 3, ""10 / 250"": 2, ""3 / 250"": 2, ""134 / 250"": 1}",7.438,7.0,0.0

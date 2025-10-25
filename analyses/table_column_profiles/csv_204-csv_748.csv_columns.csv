@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Composer,72,0.0,0.0,72,"{""Roy Agnew"": 1, ""Theodore Akimenko (ru)"": 1, ""Florent Schmitt"": 1, ""Ahmed Adnan Saygun"": 1, ""Erik Satie"": 1}",15.889,15.0,0.0
+Born,72,0.013889,0.972222,46,"{""1887"": 4, ""1866"": 3, ""1875"": 3, ""1882"": 3, ""1899"": 3}",4.592,4.0,0.0
+Died,72,0.027778,0.972222,47,"{""1951.0"": 4, ""1937.0"": 3, ""1953.0"": 3, ""1938.0"": 3, ""1944.0"": 2}",6.0,6.0,0.0
+Nationality,72,0.027778,0.0,34,"{""French"": 9, ""Russian"": 9, ""English"": 6, ""American"": 5, ""Finnish"": 3}",9.643,7.0,0.0
+Notable works for piano,72,0.722222,0.0,20,"{""IMSLP"": 1, ""Sonata for Piano (1942)\nVariations on a Ukrainian Folk Song, Op. 9"": 1, ""Piano Sonata in F-sharp minor\nQuatre études, Op. 7\nPiano-Rag-Music\nTrois mouvements de Petrouchka"": 1, ""Opus clavicembalisticum\nÉtudes transcendantes (100)\nSequentia cyclica super \\Dies irae\\\"" ex Missa pro defunctis"": 1, ""Sonata in F major, Op. 12\nThree Sonatinas, Op. 67"": 1}",83.85,82.0,0.0
+Remarks,72,0.555556,0.0,27,"{""Romantic"": 3, ""Ragtime"": 3, ""Jazz"": 2, ""Folksong-influenced, Centric, Modal, Polymodal/Polytonal"": 1, ""Impressionist; Minimalist (precursor)"": 1}",35.906,25.5,0.0

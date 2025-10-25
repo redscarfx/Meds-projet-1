@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Kilometers,17,0.0,1.0,17,"{""0.0"": 1, ""7.3"": 1, ""14.5"": 1, ""13.2"": 1, ""12.0"": 1}",3.412,3.0,0.0
+Name,17,0.0,0.0,17,"{""Netanya mall"": 1, ""Begin Boulevard"": 1, ""Nitzanei Oz interchange"": 1, ""Nitzanei Oz junction"": 1, ""Be'erotayim junction"": 1}",16.059,14.0,0.0
+Location,17,0.0,0.0,10,"{""Netanya"": 5, ""Ganot Hadar"": 2, ""Kfar Yona"": 2, ""Nitzanei Oz"": 2, ""Beit Yitzhak"": 1}",9.059,7.0,0.0
+Intersecting routes,17,0.0,0.0,16,"{""Entrance to Kfar Yona"": 2, ""Petah Tikva Street, Raziel Road, Herzl Road"": 1, ""Highway 2"": 1, ""Entrance to Netanya Railway Station"": 1, ""Pinkas Street"": 1}",26.471,21.0,0.0

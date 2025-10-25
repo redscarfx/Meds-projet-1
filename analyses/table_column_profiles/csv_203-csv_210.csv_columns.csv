@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Margin,6,0.0,0.0,6,"{""192 runs"": 1, ""72 runs"": 1, ""57 runs"": 1, ""36 runs"": 1, ""24 runs"": 1}",7.167,7.0,0.0
+Teams,6,0.0,0.0,6,"{""Kent (205 & 512–9 d) beat Essex (370 & 155)"": 1, ""Kent (117 & 332) beat Surrey (301–8 d & 76)"": 1, ""Kent (151 & 348) beat Middlesex (305–5 d & 137)"": 1, ""Kent (127 & 198) beat Australia (229 & 60)"": 1, ""Kent (115 & 389) beat Gloucestershire (351 & 129)"": 1}",45.167,45.0,0.0
+Venue,6,0.0,0.0,5,"{""Mote Park, Maidstone"": 2, ""County Ground, Chelmsford"": 1, ""Woodbridge Road, Guildford"": 1, ""Hesketh Park, Dartford"": 1, ""St Lawrence Ground, Canterbury"": 1}",23.833,23.5,0.0
+Season,6,0.0,1.0,6,"{""2009"": 1, ""1992"": 1, ""1976"": 1, ""1893"": 1, ""1925"": 1}",4.0,4.0,0.0

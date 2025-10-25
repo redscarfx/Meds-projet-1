@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Model,19,0.0,0.0,19,"{""Vought F-8 Crusader"": 1, ""de Havilland Canada DHC-2 Beaver"": 1, ""Bell 212"": 1, ""Sikorsky H-19"": 1, ""Sikorsky H-34"": 1}",20.789,22.0,0.0
+Origin,19,0.0,0.0,5,"{""United States"": 15, ""Canada"": 1, ""Japan"": 1, ""United States\n\n Japan"": 1, ""France"": 1}",12.263,13.0,0.0
+Type,19,0.052632,0.0,13,"{""Trainer aircraft"": 3, ""Military transport aircraft"": 3, ""Fighter/Bomber"": 2, ""Air superiority fighter/Interceptor aircraft"": 1, ""Fighter"": 1}",23.667,17.0,0.0
+Versions,19,0.526316,0.0,9,"{""F-8P"": 1, ""F-5A\nF-5B"": 1, ""F-86F\nF-86D"": 1, ""P-51D"": 1, ""T-28A\nT-28D"": 1}",8.556,9.0,0.0
+In Service,19,0.315789,0.473684,13,"{""35"": 1, ""37"": 1, ""50\n20"": 1, ""103"": 1, ""20\n24"": 1}",2.615,2.0,0.315789
+Notes,19,0.473684,0.0,9,"{""Replaced by the C-130"": 2, ""Placed in open storage 1988-01-23 at Basa Air Base. They suffered irreparable damage from Mt. Pinatubo's eruption on 1991-06-15."": 1, ""Retired. The 10 remaining F-5s, out of a total of 37 acquired by the Philippine government from 1967 to 1998, were decommissioned in a ceremony in September 2005"": 1, ""Replaced by the Northrop F-5A"": 1, ""PAF's 1950s Fighter, replaced by F-86 Sabre"": 1}",52.7,26.5,0.0

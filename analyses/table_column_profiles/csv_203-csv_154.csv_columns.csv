@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Type,7,0.0,0.0,7,"{""RHN"": 1, ""RTS"": 1, ""THN"": 1, ""NKF"": 1, ""ASR\n(Class 158 Express Sprinter)"": 1}",8.286,3.0,0.0
+Manufacturer,7,0.0,0.0,6,"{""Daewoo Heavy Industries"": 2, ""Hitachi"": 1, ""Tokyu"": 1, ""Tokyu, Hitachi and Nippon Sharyo"": 1, ""Nippon Sharyo, Hitachi, Fuji Heavy Industries,Kawasaki Heavy Industries, Niigata Tekkousho, and Kinki Sharyo"": 1}",30.714,23.0,0.0
+Numbers,7,0.0,0.0,7,"{""1011-1048 (power cars)\n11-48\n(trailer cars)"": 1, ""D9-D16\n(power cars)\nTS4-TS7\n(center/trailer cars)"": 1, ""1101–1140"": 1, ""1201–1264, (center) 2101-2112"": 1, ""2501–2512, (center) 2113-2120"": 1}",28.0,29.0,0.0
+Year built,7,0.0,1.0,7,"{""1967"": 1, ""1971"": 1, ""1983"": 1, ""1985"": 1, ""1991"": 1}",4.0,4.0,0.0
+Quantity built,7,0.0,0.142857,7,"{""38+38"": 1, ""8+4"": 1, ""40"": 1, ""64+12"": 1, ""12+8"": 1}",4.0,4.0,0.0
+Power (horsepower),7,0.0,1.0,4,"{""220"": 2, ""235"": 2, ""298"": 2, ""285"": 1}",3.0,3.0,0.0
+Max Speed (km/h),7,0.0,1.0,4,"{""120"": 3, ""105"": 2, ""90"": 1, ""70"": 1}",2.714,3.0,0.0
+Note,7,0.0,0.0,7,"{""Now use as a Northeastern line commuter train."": 1, ""Ex-Mahachai railways, to be refurbished. Similar bodyshell of THN and NKF but with different formation (power car-2 trailer cars)."": 1, ""Similar to NKF."": 1, ""Similar to THN, but with plastic chairs."": 1, ""Metre gauge version of British Rail Class 158, with different gangways and couplers, and with inward-opening slam doors instead of plug doors. 3-car set until 2011, when all were refurbished with new seats, vinyl floors, an extra coach and new livery."": 1}",75.857,40.0,0.0

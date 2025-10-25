@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,43,0.0,0.0,43,"{""May 19"": 1, ""August 17"": 1, ""July 27"": 1, ""July 29"": 1, ""July 31"": 1}",12.302,7.0,0.0
+Opponent,43,0.0,0.0,24,"{""@ Detroit"": 4, ""San Antonio"": 3, ""@ San Antonio"": 3, ""@ Seattle"": 3, ""Detroit"": 3}",9.698,9.0,0.0
+Score,43,0.0,0.0,42,"{""77-87"": 2, ""81-72"": 1, ""101-91"": 1, ""80-75"": 1, ""76-74"": 1}",5.581,5.0,0.0
+Result,43,0.0,0.0,2,"{""Win"": 30, ""Loss"": 13}",3.302,3.0,0.0
+Record,43,0.0,0.0,41,"{""1-0"": 2, ""4-1"": 2, ""21-11"": 1, ""14-10"": 1, ""15-10"": 1}",3.721,3.0,0.0

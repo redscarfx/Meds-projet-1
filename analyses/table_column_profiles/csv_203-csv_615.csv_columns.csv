@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+District,34,0.0,0.0,34,"{""Pennsylvania 1"": 1, ""Pennsylvania 26"": 1, ""Pennsylvania 20"": 1, ""Pennsylvania 21"": 1, ""Pennsylvania 22"": 1}",14.735,15.0,0.0
+Incumbent,34,0.0,0.0,34,"{""Harry C. Ransley"": 1, ""J. Howard Swick"": 1, ""Thomas Cunningham Cochran"": 1, ""Francis E. Walter"": 1, ""Harry L. Haines"": 1}",17.029,17.0,0.0
+Party,34,0.0,0.0,2,"{""Republican"": 22, ""Democratic"": 12}",10.0,10.0,0.0
+"First
+elected",34,0.0,1.0,12,"{""1932"": 14, ""1930"": 4, ""1926"": 3, ""1920"": 2, ""1914"": 2}",4.0,4.0,0.0
+Result,34,0.0,0.0,7,"{""Re-elected"": 21, ""Lost re-election\nDemocratic gain"": 8, ""Resigned\nRepublican hold"": 1, ""Retired\nRepublican hold"": 1, ""Retired to run for Governor\nDemocratic gain"": 1}",17.912,10.0,0.0
+Candidates,34,0.0,0.0,34,"{""Harry C. Ransley (R) 52.1%\nJoseph Marinelli (D) 47.2%\nGamshei Kutlikoff (S) 0.4%\nMorris H. Wickman (C) 0.3%"": 1, ""Charles R. Eckert (D) 59.1%\nJ. Howard Swick (R) 40.0%\nCharles Baldwin (S) 0.9%"": 1, ""Denis J. Driscoll (D) 52.7%\nLeon H. Gavin (R) 43.7%\nRobert G. Burnham (Proh) 2.8%\nRobert S. Stewart (S) 0.8%"": 1, ""Francis E. Walter (D) 58.7%\nT. Fred Woodley (R) 40.0%\nSimon R. Hartzell (S) 1.3%"": 1, ""Harry L. Haines (D) 54.6%\nEmanuel C. Beck (R) 43.7%\nWilliam P. Gemmil (Proh) 1.0%\nHarry Boeckel (S) 0.8%"": 1}",110.206,108.0,0.0

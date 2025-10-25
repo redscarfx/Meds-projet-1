@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Edition,27,0.0,0.0,27,"{""1st"": 1, ""15th"": 1, ""26th"": 1, ""25th"": 1, ""24th"": 1}",3.667,4.0,0.0
+Year,27,0.0,0.925926,27,"{""1983"": 1, ""1999"": 1, ""2011"": 1, ""2010"": 1, ""2009"": 1}",4.444,4.0,0.0
+Men's winner,27,0.0,0.0,25,"{""Savio d'Souza (IND)"": 2, ""Shivkumar Yadav (IND)"": 2, ""Tommy Persson (SWE)"": 1, ""Ambrose Makau (KEN)"": 1, ""Teferi Regasa (ETH)"": 1}",21.444,20.0,0.0
+Time (h:m:s),27,0.0,0.0,27,"{""2:24:15"": 1, ""2:22:54"": 1, ""2:16:57"": 1, ""2:13:20"": 1, ""2:13:05"": 1}",7.0,7.0,0.0
+Women's winner,27,0.074074,0.0,24,"{""Nanda Jadhav (IND)"": 2, ""Asha Agarwal (IND)"": 1, ""Natalya Volgina (RUS)"": 1, ""Pauline Mutwa Thitu (KEN)"": 1, ""Birzaf Gebre Tekele (ETH)"": 1}",20.96,20.0,0.074074
+Time (h:m:s).1,27,0.111111,0.0,24,"{""1:24:10"": 1, ""1:17:09"": 1, ""1:12:29"": 1, ""2:38:41"": 1, ""1:10:30"": 1}",7.083,7.0,0.111111

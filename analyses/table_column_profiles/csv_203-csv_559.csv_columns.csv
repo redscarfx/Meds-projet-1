@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+No.,22,0.0,1.0,21,"{""3"": 2, ""1"": 1, ""12"": 1, ""20"": 1, ""19"": 1}",1.545,2.0,0.0
+Name,22,0.0,0.0,21,"{""Walter Gilbert Campbell"": 2, ""Harvey Washington Wiley, M.D."": 1, ""Donald Kennedy, Ph.D."": 1, ""Andrew C. von Eschenbach, M.D."": 1, ""Lester Mills Crawford, D.V.M., Ph.D."": 1}",25.318,24.5,0.0
+Took Office,22,0.0,0.0,22,"{""January 1, 1907"": 1, ""December 16, 1912"": 1, ""12/13/2006"": 1, ""7/18/2005"": 1, ""11/14/2002"": 1}",9.455,9.0,0.0
+Left Office,22,0.0,0.0,22,"{""March 15, 1912"": 1, ""July 15, 1921"": 1, ""1/20/2009"": 1, ""9/23/2005"": 1, ""3/26/2004"": 1}",9.455,9.0,0.0
+President served under,22,0.0,0.0,18,"{""George W. Bush"": 3, ""Ronald Reagan"": 2, ""Jimmy Carter"": 2, ""Theodore Roosevelt, William Howard Taft"": 1, ""William Howard Taft, Woodrow Wilson, Warren G. Harding"": 1}",25.955,16.5,0.0
+Notable for,22,0.863636,0.0,3,"{""Chemist; advocacy of the passage of the Pure Food and Drug Act in 1906; subsequent work at Good Housekeeping Institute laboratories"": 1, ""Charged with conflict of interest and lying about stock he and his wife owned in companies regulated by FDA."": 1, ""Member of the board of directors of BioTime (NYSE MKT: BTX), a biotechnology and regenerative medicine company."": 1}",116.667,111.0,0.0

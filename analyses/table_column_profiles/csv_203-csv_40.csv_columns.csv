@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+P.S. #,67,0.0,1.0,67,"{""1"": 1, ""78"": 1, ""52"": 1, ""55"": 1, ""56"": 1}",2.015,2.0,0.0
+School Name,67,0.0,0.0,67,"{""School 1"": 1, ""Montessori E.C.C. 78"": 1, ""School 52"": 1, ""School 55"": 1, ""School 56"": 1}",14.537,9.0,0.0
+Neighborhood,67,0.0,0.0,40,"{""Downtown"": 5, ""Babcock"": 4, ""Schiller Park"": 4, ""Black Rock"": 4, ""Broadway-Fillmore"": 4}",10.015,10.0,0.0
+Low Grade,67,0.0,0.119403,5,"{""K"": 43, ""PreK"": 15, ""9"": 5, ""5"": 3, ""Special"": 1}",1.761,1.0,0.0
+High Grade,67,0.0,0.985075,5,"{""8"": 45, ""4"": 11, ""12"": 8, ""6"": 2, ""Education"": 1}",1.239,1.0,0.0
+Year Closed,67,0.0,0.985075,24,"{""1976"": 9, ""1980"": 9, ""2002"": 5, ""2003"": 5, ""2007"": 4}",4.015,4.0,0.0
+Building Status,67,0.0,0.0,28,"{""Demolished"": 24, ""Vacant"": 16, ""Private Apartments"": 2, ""Houses Anderson Gallery for University at Buffalo"": 1, ""Houses Math, Science & Technology Preparatory School"": 1}",17.821,10.0,0.0

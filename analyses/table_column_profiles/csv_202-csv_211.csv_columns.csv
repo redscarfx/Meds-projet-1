@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,17,0.0,1.0,17,"{""1995"": 1, ""2004"": 1, ""2010"": 1, ""2009"": 1, ""2008"": 1}",4.0,4.0,0.0
+Venue,17,0.0,0.0,11,"{""Stuttgart"": 3, ""Kishinev"": 3, ""Berlin"": 2, ""Brunswick"": 2, ""Berlin TC"": 1}",9.529,9.0,0.0
+Standard Result,17,0.0,0.0,14,"{""Braunschweiger TSC, Germany, DSC Kodryanka Kishinev, Moldova"": 3, ""DSC Kodryanka Kishinev, Moldova, Braunschweiger TSC, Germany"": 2, ""Braunschweiger TSC, TC Ludwigsburg"": 1, ""TC Ludwigsburg, Germany, Braunschweiger TSC"": 1, ""DSC Kodryanka Kishinev, Moldova, Ludwigsburg, Germany"": 1}",51.588,53.0,0.0
+Venue.1,17,0.0,0.0,13,"{""Vilnius"": 3, ""Munich"": 2, ""Bremerhaven"": 2, ""Berlin"": 1, ""Gothenburg"": 1}",10.0,7.0,0.0
+Latin Result,17,0.0,0.0,16,"{""TSG Bremerhaven, Germany, Klaipėda University Žuvėdra team, Lithuania"": 2, ""TSG Bremerhaven, Germany, TSC Schwarz-Gelb Aachen, Germany"": 1, ""TSC Schwarz-Gelb Aachen, Germany, Klaipėda University Žuvėdra team, Lithuania"": 1, ""TSC Schwarz-Gelb Aachen, Germany TSG Bremerhaven, Germany Deutschland Germany"": 1, ""TSC Schwarz-Gelb Aachen, Germany,TD TSC Düsseldorf Rot-Weiß, Germany"": 1}",73.353,70.0,0.0

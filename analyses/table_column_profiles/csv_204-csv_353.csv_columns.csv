@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+No.,12,0.0,0.75,10,"{""u/c"": 3, ""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1}",1.5,1.0,0.0
+Date/time,12,0.0,0.0,12,"{""14 June 1917"": 1, ""25 October 1917 @ 0800 hours"": 1, ""7 November 1917 circa 1615 hours"": 1, ""7 December 1917 @ 1130 hours"": 1, ""13 December 1917 ca. 1130 hours"": 1}",25.833,28.0,0.0
+Aircraft,12,0.75,0.0,2,"{""Nieuport 27"": 2, ""Nieuport 17"": 1}",11.0,11.0,0.0
+Foe,12,0.0,0.0,4,"{""Enemy aircraft"": 7, ""Enemy two-seater"": 2, ""Enemy fighter"": 2, ""Black enemy fighter craft"": 1}",15.083,14.0,0.0
+Result,12,0.75,0.0,1,"{""Forced to land"": 3}",14.0,14.0,0.0
+Location,12,0.0,0.0,10,"{""Marcesina"": 2, ""Montello"": 2, ""Mount Verena"": 1, ""Fonsazo"": 1, ""Val d'Assa"": 1}",10.167,9.0,0.0
+Notes,12,0.416667,0.0,5,"{""Awarded Silver Medal for Military Valor"": 2, ""Austro-Hungarians reported no matching loss"": 2, ""Victory originally confirmed, but disallowed postwar"": 1, ""Claim shared with Antonio Reali"": 1, ""Shared with Marziale Cerutti"": 1}",39.286,39.0,0.0

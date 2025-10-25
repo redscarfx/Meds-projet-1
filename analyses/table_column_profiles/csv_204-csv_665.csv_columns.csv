@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,10,0.0,1.0,10,"{""10"": 1, ""9"": 1, ""8"": 1, ""7"": 1, ""6"": 1}",1.1,1.0,0.0
+Name,10,0.0,0.0,10,"{""Wayne Gretzky"": 1, ""Alexander Graham Bell"": 1, ""Sir John A. Macdonald"": 1, ""Don Cherry"": 1, ""Lester B. Pearson"": 1}",15.1,13.5,0.0
+Notability,10,0.0,0.0,10,"{""Hockey player, holder of numerous NHL records"": 1, ""Scientist, inventor,\nfounder of the Bell Telephone Company"": 1, ""First Prime Minister of Canada"": 1, ""Hockey coach and commentator"": 1, ""Fourteenth Prime Minister of Canada,\nUnited Nations General Assembly President,\nNobel Peace Prize Laureate"": 1}",48.7,38.5,0.0
+Birthplace,10,0.0,0.0,10,"{""Brantford, Ontario"": 1, ""Edinburgh, Scotland"": 1, ""Glasgow, Scotland"": 1, ""Kingston, Ontario"": 1, ""Toronto, Ontario"": 1}",18.2,17.0,0.0
+Advocate,10,0.0,0.0,10,"{""Deborah Grey"": 1, ""Evan Solomon"": 1, ""Charlotte Gray"": 1, ""Bret Hart"": 1, ""Paul Gross"": 1}",13.3,12.0,0.0

@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,17,0.0,1.0,17,"{""1"": 1, ""10"": 1, ""16"": 1, ""15"": 1, ""14"": 1}",1.471,1.0,0.0
+Date,17,0.0,0.0,17,"{""September 9, 1990"": 1, ""November 11, 1990"": 1, ""December 23, 1990"": 1, ""December 16, 1990"": 1, ""December 9, 1990"": 1}",15.941,17.0,0.0
+Opponent,17,0.0,0.0,17,"{""at New England Patriots"": 1, ""at New York Jets"": 1, ""at Buffalo Bills"": 1, ""Seattle Seahawks"": 1, ""Philadelphia Eagles"": 1}",17.353,18.0,0.0
+Result,17,0.0,0.0,17,"{""W 27–24"": 1, ""W 17–3"": 1, ""L 24–14"": 1, ""W 24–17"": 1, ""W 23–20"": 1}",6.412,7.0,0.0
+Attendance,17,0.0,0.0,17,"{""45,305"": 1, ""68,362"": 1, ""80,235"": 1, ""57,851"": 1, ""67,034"": 1}",5.824,6.0,0.0

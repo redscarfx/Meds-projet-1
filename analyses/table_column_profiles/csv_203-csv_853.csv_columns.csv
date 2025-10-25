@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,14,0.0,0.0,14,"{""June 2"": 1, ""June 7"": 1, ""June 15"": 1, ""June 21"": 1, ""June 22"": 1}",7.0,7.0,0.0
+Opponent,14,0.0,0.0,5,"{""Lizards"": 4, ""Cannons"": 4, ""Pride"": 2, ""Bayhawks"": 2, ""Rattlers"": 2}",7.0,7.0,0.0
+Home/Away,14,0.0,0.0,2,"{""Away"": 7, ""Home"": 7}",4.0,4.0,0.0
+Field,14,0.0,0.0,7,"{""The Ballpark at Harbor Yard"": 6, ""Hofstra Stadium"": 2, ""Cawley Memorial Stadium"": 2, ""Commerce Bank Ballpark"": 1, ""Dunning Field"": 1}",21.5,23.0,0.0
+Result,14,0.0,0.0,14,"{""L 8-21"": 1, ""L 7-12"": 1, ""L 18-19 OT"": 1, ""L 7-15"": 1, ""W 15-12"": 1}",7.357,7.0,0.0

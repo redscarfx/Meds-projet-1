@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,11,0.0,1.0,11,"{""13"": 1, ""14"": 1, ""15"": 1, ""16"": 1, ""17"": 1}",2.0,2.0,0.0
+Title,11,0.0,0.0,11,"{""Sacré Bleu Cross"": 1, ""Le Quiet Squad"": 1, ""Bomb Voyage"": 1, ""Le Pig-Al Patrol"": 1, ""Le Bowser Bagger"": 1}",15.909,16.0,0.0
+Date,11,0.0,0.0,11,"{""February 1, 1967"": 1, ""May 17, 1967"": 1, ""May 22, 1967"": 1, ""May 24, 1967"": 1, ""May 30, 1967"": 1}",14.091,13.0,0.0
+Director,11,0.0,0.0,3,"{""Gerry Chiniquy"": 8, ""Robert McKimson"": 2, ""George Singer"": 1}",14.091,14.0,0.0
+Story,11,0.0,0.0,3,"{""Jim Ryan"": 6, ""John W. Dunn"": 4, ""Tony Benedict"": 1}",9.909,8.0,0.0
+Synopsis,11,0.0,0.0,11,"{""When they go after Hassan the Assassin, Deux-Deux gives the Inspector an unlucky rabbit's foot."": 1, ""The Commissioner is overworked and needs absolute quiet or he goes into uncontrolled fits of temper. The Inspector is assigned to look after him, but has trouble with a noisy cat."": 1, ""The Commissioner is kidnapped by aliens, and the Inspector goes to rescue him."": 1, ""The Inspector is sent after biker Pig Al and his biker gang."": 1, ""The Inspector is given Private Bowser, a very energetic dog, in his efforts to track down a thief."": 1}",122.818,119.0,0.0
+Notes,11,0.0,0.0,4,"{""Sgt. Deux-Deux does not appear."": 5, ""Sgt. Deux-Deux and the Commissioner do not appear."": 4, ""The Commissioner does not appear."": 1, ""Music score is set to Ottorino Respighi's Pines of Rome."": 1}",40.364,33.0,0.0

@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,52,0.0,1.0,52,"{""1965"": 1, ""1966"": 1, ""1993"": 1, ""1994"": 1, ""1995"": 1}",4.0,4.0,0.0
+Location(s),52,0.0,0.0,42,"{""Mohed"": 3, ""Borås"": 3, ""Kristianstad"": 3, ""Göteborg"": 2, ""Sälen"": 2}",8.077,7.0,0.0
+Number of contestants,52,0.057692,0.076923,49,"{""156"": 1, ""20 172"": 1, ""17 806"": 1, ""15 006"": 1, ""14 414"": 1}",5.673,6.0,0.0
+Ladies winner,52,0.057692,0.0,27,"{""Sweden Ulla Lindkvist"": 8, ""Sweden Annichen Kringstad"": 5, ""Switzerland Simone Niggli-Luder"": 4, ""Finland Liisa Veijalainen"": 3, ""Sweden Katarina Borg"": 3}",23.367,23.0,0.0
+Men's winner,52,0.057692,0.0,39,"{""Sweden Lars Lönnkvist"": 4, ""Sweden Jörgen Mårtensson"": 3, ""Norway Petter Thoresen"": 2, ""Sweden Johan Ivarsson"": 2, ""Sweden Håkan Eriksson"": 2}",20.959,21.0,0.0

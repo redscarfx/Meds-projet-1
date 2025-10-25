@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Club,60,0.0,0.0,49,"{""Darlington"": 3, ""Portsmouth"": 3, ""Port Vale"": 2, ""Bradford City"": 2, ""Halifax Town"": 2}",12.25,12.0,0.0
+"Entered
+administration",60,0.0,0.033333,53,"{""1992[citation needed]"": 4, ""1994[citation needed]"": 3, ""1997[citation needed]"": 2, ""1998[citation needed]"": 2, ""February 1984"": 1}",14.683,15.0,0.0
+"Exited
+administration",60,0.233333,0.05,45,"{""10 March 2010\nDissolved"": 2, ""22 July 2005"": 1, ""20 May 2008"": 1, ""11 July 2007"": 1, ""28 July 2008"": 1}",13.957,13.0,0.2
+League(s),60,0.183333,0.0,16,"{""Conference National"": 7, ""Second Division"": 6, ""Third Division"": 6, ""League Two"": 6, ""First Division"": 5}",15.531,14.0,0.183333
+Deduction(s),60,0.6,0.0,8,"{""−10 pts"": 16, ""−10 pts\n−17 pts"": 2, ""−6 pts"": 1, ""−10 pts\n−15 pts"": 1, ""−10 pts\n−20 pts"": 1}",8.417,7.0,0.0

@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,32,0.0,0.78125,28,"{""30="": 3, ""25="": 2, ""21="": 2, ""2"": 1, ""29"": 1}",1.938,2.0,0.0
+Name,32,0.0,0.0,32,"{""Key Tower"": 1, ""Terminal Tower"": 1, ""Ohio Savings Plaza"": 1, ""Penton Media Building"": 1, ""Landmark Office Towers"": 1}",17.969,17.0,0.0
+Image,32,1.0,0.0,0,{},0.0,0.0,0.125
+"Height
+ft (m)",32,0.0,0.0,27,"{""253 (77)"": 3, ""265 (81)"": 2, ""266 (81)"": 2, ""282 (86)"": 2, ""330 (101)"": 1}",8.469,8.0,0.0
+Floors,32,0.0,1.0,17,"{""21"": 7, ""22"": 3, ""23"": 3, ""28"": 3, ""20"": 2}",2.0,2.0,0.0
+Year,32,0.0,1.0,23,"{""1983"": 3, ""1930"": 3, ""1991"": 2, ""1971"": 2, ""1922"": 2}",4.0,4.0,0.0
+Notes,32,0.46875,0.0,17,"{""104th-tallest building in the world\n20th-tallest building in the United States\nHas been the tallest building in the city and state since 1991\nStood as the tallest building in the United States between New York City and Chicago from its completion until 2007, when Comcast Center in Philadelphia was completed\nTallest building constructed in Cleveland in the 1990s"": 1, ""Originally known as the University Tower"": 1, ""Tallest all-residential building in the city\nAlso known as the Reserve Square Apartments"": 1, ""Also known as the East Ohio Building"": 1, ""Tallest building constructed in the city the 1950s\nOriginally known as the Illuminating Building"": 1}",104.471,83.0,0.0

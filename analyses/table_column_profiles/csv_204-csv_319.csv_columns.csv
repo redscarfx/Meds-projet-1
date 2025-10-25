@@ -1,0 +1,14 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"MLB
+season",47,0.0,1.0,46,"{""1981"": 2, ""1969"": 1, ""1995"": 1, ""1996"": 1, ""1997"": 1}",4.0,4.0,0.0
+"Team
+season",47,0.0,1.0,46,"{""1981"": 2, ""1969"": 1, ""1995"": 1, ""1996"": 1, ""1997"": 1}",4.0,4.0,0.0
+League,47,0.0,0.0,3,"{""AL"": 29, ""NL"": 17, ""AL‡"": 1}",2.021,2.0,0.0
+Division,47,0.0,0.0,5,"{""East"": 20, ""Central"": 20, ""West"": 3, ""East*"": 3, ""Central*"": 1}",5.426,5.0,0.0
+Finish,47,0.0,0.0,8,"{""3rd"": 13, ""6th"": 11, ""4th"": 7, ""5th"": 7, ""2nd"": 3}",3.021,3.0,0.0
+Wins,47,0.0,1.0,28,"{""74"": 5, ""83"": 3, ""68"": 3, ""65"": 3, ""67"": 3}",1.979,2.0,0.0
+Losses,47,0.0,1.0,31,"{""94"": 5, ""79"": 4, ""88"": 4, ""81"": 2, ""75"": 2}",2.0,2.0,0.0
+Win %,47,0.0,1.0,37,"{""0.457"": 4, ""0.512"": 3, ""0.42"": 2, ""0.537"": 2, ""0.451"": 2}",4.809,5.0,0.0
+GB,47,0.06383,0.787234,30,"{""8"": 4, ""33"": 3, ""28"": 3, ""14"": 3, ""15"": 2}",1.864,2.0,0.06383
+Postseason,47,0.893617,0.0,4,"{""Lost ALDS vs. New York Yankees, 3–2"": 2, ""Won ALCS vs. California Angels, 3–2\nLost World Series vs. St. Louis Cardinals, 4–3"": 1, ""Lost NLDS vs. Philadelphia Phillies, 3–1"": 1, ""Won NLDS vs. Arizona Diamondbacks, 3–2\nLost NLCS vs. St. Louis Cardinals, 4-2"": 1}",53.8,40.0,0.893617
+Awards,47,0.829787,0.0,7,"{""Rollie Fingers (MVP, CYA)"": 2, ""Robin Yount (MVP)\nPete Vuckovich (CYA)"": 1, ""Cecil Cooper (RCA)"": 1, ""Robin Yount (MVP)"": 1, ""Pat Listach (ROY)"": 1}",26.375,25.0,0.787234

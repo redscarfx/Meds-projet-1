@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,18,0.0,1.0,9,"{""2007"": 4, ""2005"": 3, ""2010"": 3, ""2004"": 2, ""2011"": 2}",4.0,4.0,0.0
+Competition,18,0.0,0.0,9,"{""Universiade"": 4, ""Asian Championships"": 3, ""Asian Junior Championships"": 2, ""Asian Indoor Games"": 2, ""Asian Games"": 2}",18.556,19.0,0.0
+Venue,18,0.0,0.0,15,"{""Bangkok, Thailand"": 3, ""Doha, Qatar"": 2, ""Ipoh, Malaysia"": 1, ""Grosseto, Italy"": 1, ""Izmir, Turkey"": 1}",13.944,14.5,0.0
+Position,18,0.0,0.0,9,"{""3rd"": 6, ""2nd"": 3, ""7th"": 2, ""20th (q)"": 2, ""1st"": 1}",3.889,3.0,0.0
+Notes,18,0.0,0.0,9,"{""1.84 m"": 6, ""1.80 m"": 2, ""1.91 m"": 2, ""1.90 m"": 2, ""1.88 m"": 2}",6.0,6.0,0.0

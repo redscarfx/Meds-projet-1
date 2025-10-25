@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Courthouse,19,0.0,0.0,16,"{""U.S. Post Office & Court House"": 2, ""Federal Building"": 2, ""U.S. Court House & Post Office"": 2, ""U.S. Post Office and Court House†"": 1, ""Thomas G. Abernethy Federal Building"": 1}",30.684,30.0,0.0
+City,19,0.0,0.0,11,"{""Aberdeen"": 2, ""Biloxi"": 2, ""Clarksdale"": 2, ""Hattiesburg"": 2, ""Jackson"": 2}",8.158,8.0,0.0
+Street address,19,0.368421,0.0,12,"{""201 W. Commerce St."": 1, ""301 West Commerce Street"": 1, ""140 Lameuse Street"": 1, ""305 Main Street"": 1, ""2012 15th Street"": 1}",17.833,18.0,0.368421
+Jurisdiction,19,0.0,0.0,3,"{""S.D. Miss."": 11, ""N.D. Miss."": 7, ""S.D. Miss.\n5th Cir."": 1}",10.474,10.0,0.0
+Dates of use,19,0.0,0.0,17,"{""?-present"": 3, ""1888–1974\nNow the Monroe County Chancery Court."": 1, ""1885-1933"": 1, ""1892-1937\nNow in use by the Mississippi River Commission."": 1, ""1887-ca. 1974\nNow Oxford City Hall."": 1}",27.263,26.0,0.0
+Named for,19,0.789474,0.0,4,"{""U.S. Rep. Thomas Abernethy"": 1, ""District Court judge Dan Monroe Russell, Jr."": 1, ""U.S. Rep. William M. Colmer"": 1, ""U.S. Sen. James Eastland (1984)"": 1}",32.0,29.0,0.0

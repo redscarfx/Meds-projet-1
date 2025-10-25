@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"Parish
+(Sokn)",6,0.0,0.0,1,"{""Gildeskål"": 6}",9.0,9.0,0.0
+Church Name,6,0.0,0.0,6,"{""Gildeskål Church"": 1, ""Old Gildeskål Church"": 1, ""Saura Church"": 1, ""Mevik Chapel"": 1, ""Nordstranda Chapel"": 1}",15.833,16.5,0.0
+"Location
+of the Church",6,0.0,0.0,5,"{""Inndyr"": 2, ""Saura"": 1, ""Mevik"": 1, ""Lekanger"": 1, ""Sørfinnset"": 1}",6.667,6.0,0.0
+Year Built,6,0.0,0.833333,6,"{""1881"": 1, ""1100s"": 1, ""1884"": 1, ""1910"": 1, ""1963"": 1}",4.167,4.0,0.0

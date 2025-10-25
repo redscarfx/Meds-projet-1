@@ -1,0 +1,17 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rebounds,27,0.0,1.0,7,"{""30"": 8, ""32"": 6, ""31"": 5, ""34"": 3, ""33"": 3}",2.0,2.0,0.0
+Off,27,0.0,1.0,15,"{""8"": 4, ""11"": 4, ""7"": 3, ""16"": 2, ""12"": 2}",1.556,2.0,0.0
+Def,27,0.0,1.0,13,"{""19"": 5, ""20"": 4, ""25"": 3, ""23"": 3, ""18"": 2}",2.0,2.0,0.0
+Player,27,0.0,0.0,27,"{""Moses Malone*"": 1, ""Larry Smith"": 1, ""Dennis Rodman* (5)"": 1, ""Michael Cage"": 1, ""Swen Nater (3)"": 1}",14.481,14.0,0.0
+Team,27,0.0,0.0,17,"{""Houston Rockets"": 3, ""Detroit Pistons"": 3, ""Golden State Warriors"": 3, ""Los Angeles Lakers"": 3, ""Atlanta Hawks"": 2}",16.481,15.0,0.0
+Date,27,0.0,0.0,27,"{""February 9, 1979"": 1, ""March 28, 1981"": 1, ""February 21, 1995"": 1, ""April 24, 1988"": 1, ""March 4, 1978"": 1}",15.296,16.0,0.0
+Opponent,27,0.0,0.0,17,"{""New Orleans Jazz"": 2, ""New York Knicks"": 2, ""New Jersey Nets"": 2, ""Los Angeles Lakers"": 2, ""Dallas Mavericks"": 2}",15.926,16.0,0.0
+Score,27,0.0,0.0,27,"{""106–99"": 1, ""139–142"": 1, ""98–97"": 1, ""100–109"": 1, ""111–107"": 1}",6.519,7.0,0.0
+Minutes played,27,0.0,0.925926,14,"{""48"": 5, ""44"": 4, ""45"": 4, ""40"": 3, ""41"": 2}",2.222,2.0,0.0
+Points,27,0.0,1.0,20,"{""16"": 3, ""8"": 2, ""27"": 2, ""12"": 2, ""30"": 2}",1.852,2.0,0.0
+Assists,27,0.0,1.0,9,"{""5"": 7, ""3"": 6, ""2"": 5, ""0"": 4, ""6"": 1}",1.0,1.0,0.0
+Steals,27,0.37037,0.62963,4,"{""1.0"": 7, ""0.0"": 6, ""2.0"": 2, ""3.0"": 2}",3.0,3.0,0.0
+Blocks,27,0.296296,0.703704,6,"{""1.0"": 7, ""0.0"": 5, ""2.0"": 3, ""3.0"": 2, ""4.0"": 1}",3.0,3.0,0.0
+20-20,27,0.0,0.0,2,"{""Yes"": 15, ""No"": 12}",2.556,3.0,0.0
+Led the league in rebounding,27,0.0,0.0,2,"{""No"": 14, ""Yes"": 13}",2.481,2.0,0.0
+Notes,27,0.222222,0.0,20,"{""Overtime."": 2, ""14 rebounds in the first quarter."": 1, ""Second to last game of season, in a season rebounding title battle, which he lost by a .03 margin to Michael Cage."": 1, ""Last game of season; won season rebounding title over Charles Oakley by a .03 margin."": 1, ""Last game of season; won season rebounding title over Dave Cowens by a .01 margin. 14 rebounds in the first half, 16 rebounds in the second half."": 1}",70.619,46.0,0.0

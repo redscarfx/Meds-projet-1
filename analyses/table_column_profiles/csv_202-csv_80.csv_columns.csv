@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,22,0.0,0.0,22,"{""Marmolada"": 1, ""Antelao"": 1, ""Tre Cime di Lavaredo (Drei Zinnen)"": 1, ""Kesselkogel (Rosengarten)"": 1, ""Sass Rigais (Geislerspitzen)"": 1}",16.636,15.0,0.0
+metres,22,0.0,0.0,22,"{""3,343"": 1, ""3,264"": 1, ""2,999"": 1, ""3,004"": 1, ""3,025"": 1}",5.0,5.0,0.0
+feet,22,0.0,0.0,22,"{""10,968"": 1, ""10,706"": 1, ""9,839"": 1, ""9,856"": 1, ""9,925"": 1}",5.818,6.0,0.0
+Name.1,22,0.0,0.0,22,"{""Pala di San Martino"": 1, ""Rosengartenspitze / Catinaccio"": 1, ""Cima di Posta"": 1, ""Monte Pavione"": 1, ""Cima delle Dodici"": 1}",15.636,13.0,0.0
+metres.1,22,0.0,0.0,22,"{""2,982"": 1, ""2,981"": 1, ""2,235"": 1, ""2,336"": 1, ""2,338"": 1}",5.0,5.0,0.0
+feet.1,22,0.0,0.0,22,"{""9,831"": 1, ""9,781"": 1, ""7,333"": 1, ""7,664"": 1, ""7,671"": 1}",5.0,5.0,0.0

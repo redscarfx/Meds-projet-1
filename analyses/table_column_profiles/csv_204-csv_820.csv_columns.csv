@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,195,0.0,0.0,170,"{""28 June 1793"": 4, ""15 February 1794"": 3, ""22 December 1790"": 3, ""17 June 1791"": 3, ""11 February 1795"": 2}",13.887,14.0,0.0
+Constituency,195,0.0,0.0,146,"{""Heytesbury"": 4, ""Queenborough"": 3, ""Banbury"": 3, ""Malton"": 3, ""Great Bedwyn"": 3}",10.179,9.0,0.0
+c/u,195,0.0,0.0,5,"{""u"": 87, ""u*"": 86, ""c"": 11, ""c*"": 10, ""c(*)"": 1}",1.508,1.0,0.0
+Former Incumbent,195,0.0,0.0,184,"{""Lord North"": 3, ""Viscount Valletort"": 2, ""Viscount Duncannon"": 2, ""Viscount Parker"": 2, ""Henry Dundas"": 2}",16.559,16.0,0.0
+Winner,195,0.0,0.0,190,"{""Henry Dundas"": 2, ""Sir Watkin Williams Wynn"": 2, ""Viscount Stopford"": 2, ""John Smyth"": 2, ""Marquess of Titchfield"": 2}",16.682,16.0,0.0
+Cause,195,0.0,0.0,62,"{""Death"": 64, ""Resignation"": 38, ""Succeeded to a peerage"": 15, ""Elevated to the peerage"": 7, ""Became a British Peer"": 4}",18.097,11.0,0.0

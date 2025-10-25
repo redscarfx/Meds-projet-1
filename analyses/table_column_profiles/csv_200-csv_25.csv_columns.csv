@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Service,17,0.0,0.0,17,"{""BBC Radio 1"": 1, ""BBC Asian Network"": 1, ""BBC Radio Ulster and BBC Radio Foyle"": 1, ""BBC Radio Cymru"": 1, ""BBC Radio Wales"": 1}",16.529,15.0,0.0
+"2012/13 Total Cost
+(£million)",17,0.0,1.0,17,"{""54.2"": 1, ""13.0"": 1, ""23.8"": 1, ""17.6"": 1, ""18.8"": 1}",4.0,4.0,0.0
+"Comparison with
+2011/12 (£million)",17,0.0,0.117647,15,"{""+ 0.3"": 2, ""0"": 2, ""+ 3.6"": 1, ""+ 0.7"": 1, ""+ 1.6"": 1}",4.353,5.0,0.0

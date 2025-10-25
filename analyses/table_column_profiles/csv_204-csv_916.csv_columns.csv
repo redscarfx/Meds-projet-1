@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+CCC,10,0.0,0.0,10,"{""EC"": 1, ""ISCA"": 1, ""LCTES"": 1, ""METRICS"": 1, ""PLDI"": 1}",4.3,4.0,0.0
+IEEE Conference on Computational Complexity,10,0.0,0.0,10,"{""ACM Conference on Electronic Commerce"": 1, ""ACM/IEEE International Symposium on Computer Architecture"": 1, ""ACM SIGPLAN/SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems"": 1, ""ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems"": 1, ""ACM SIGPLAN Conference on Programming Language Design and Implementation"": 1}",59.7,58.5,0.0
+1993,10,0.6,0.4,1,"{""1993"": 4}",4.0,4.0,0.6
+1996,10,0.4,0.6,1,"{""1996"": 6}",4.0,4.0,0.4
+1999,10,0.3,0.7,1,"{""1999"": 7}",4.0,4.0,0.3
+-,10,0.1,0.9,1,"{""2003"": 9}",4.0,4.0,0.1
+2007,10,0.3,0.7,1,"{""2007"": 7}",4.0,4.0,0.3
+2011,10,0.4,0.6,1,"{""2011"": 6}",4.0,4.0,0.4
+2015,10,0.4,0.6,1,"{""2015"": 6}",4.0,4.0,0.4

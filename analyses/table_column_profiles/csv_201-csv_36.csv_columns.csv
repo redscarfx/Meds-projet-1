@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,77,0.0,1.0,26,"{""2004"": 7, ""1999"": 6, ""2001"": 5, ""1997"": 4, ""2005"": 4}",4.0,4.0,0.0
+Title,77,0.0,0.0,77,"{""No Small Affair"": 1, ""The Haunted Mansion"": 1, ""Saint Ralph"": 1, ""El Padrino"": 1, ""Home on the Range"": 1}",13.974,14.0,0.0
+Role,77,0.025974,0.0,72,"{""Herself"": 3, ""Amy"": 2, ""Mona"": 1, ""Louella Parsons"": 1, ""Elyse Steinberg"": 1}",10.08,10.0,0.0
+Notes,77,0.896104,0.0,5,"{""Voice only"": 4, ""Film debut"": 1, ""Uncredited"": 1, ""Voice only\nDirect-to-video"": 1, ""Cameo, Direct-to-video"": 1}",13.5,10.0,0.0

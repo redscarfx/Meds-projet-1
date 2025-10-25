@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Unnamed: 0,7,0.0,0.0,7,"{""6 March"": 1, ""13 May"": 1, ""13 June"": 1, ""31 August"": 1, ""23 October"": 1}",8.429,9.0,0.0
+Country,7,0.0,0.0,4,"{""Germany"": 2, ""United Kingdom"": 2, ""Norway"": 2, ""United States"": 1}",9.571,7.0,0.0
+Builder,7,0.0,0.0,5,"{""Royal Dockyard"": 2, ""Karljohansverns Verft"": 2, ""John Roach and Son"": 1, ""Kaiserliche Werft Wilhelmshaven"": 1, ""A. G. Vulcan"": 1}",18.714,18.0,0.0
+Location,7,0.0,0.0,6,"{""Horten"": 2, ""Chester, Pennsylvania"": 1, ""Wilhelmshaven"": 1, ""Devonport, Devon"": 1, ""Sheerness"": 1}",11.143,9.0,0.0
+Ship,7,0.0,0.0,7,"{""City of Rio de Janeiro"": 1, ""Bayern"": 1, ""Pegasus"": 1, ""Gannet"": 1, ""Nor"": 1}",8.571,6.0,0.0
+Class / type,7,0.0,0.0,4,"{""Sachsen-class ironclad"": 2, ""Doterel-class sloop"": 2, ""Vale-class gunboat"": 2, ""Passenger ship"": 1}",18.857,19.0,0.0

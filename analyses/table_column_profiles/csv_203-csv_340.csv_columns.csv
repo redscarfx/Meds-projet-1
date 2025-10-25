@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,10,0.0,1.0,10,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.1,1.0,0.0
+Airport,10,0.0,0.0,10,"{""Netherlands - Amsterdam"": 1, ""United Kingdom - Belfast-International"": 1, ""Portugal - Faro"": 1, ""Spain - Barcelona"": 1, ""Spain - Alicante"": 1}",19.8,16.5,0.0
+Passengers handled,10,0.0,0.0,10,"{""105,349"": 1, ""92,502"": 1, ""71,676"": 1, ""66,565"": 1, ""64,090"": 1}",6.1,6.0,0.0
+% Change 2011 / 12,10,0.8,0.2,2,"{""1128"": 1, ""25"": 1}",3.0,3.0,0.8

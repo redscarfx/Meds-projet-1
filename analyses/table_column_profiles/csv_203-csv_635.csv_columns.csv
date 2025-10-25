@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Number/name,20,0.0,0.05,20,"{""1\nSan Francisco"": 1, ""2\nSan Jose"": 1, ""19\nRaven"": 1, ""18\nPeeler"": 1, ""17\nMohave"": 1}",10.5,10.0,0.0
+Wheel arrangement,20,0.5,0.0,2,"{""4-4-0"": 9, ""0-4-0"": 1}",5.0,5.0,0.0
+Builder,20,0.05,0.0,9,"{""Norris Locomotive Works"": 5, ""Cooke Locomotive and Machine Works"": 4, ""H.J. Booth at Union Iron Works"": 2, ""McK/A"": 2, ""Schenectady Locomotive Works"": 2}",25.263,28.0,0.0
+Year,20,0.15,0.15,13,"{""1862"": 2, ""6/1867"": 2, ""7/1868"": 2, ""11/1868"": 2, ""11/1863"": 1}",6.118,6.0,0.0
+"Disposition and
+Location",20,0.0,0.0,20,"{""To Southern Pacific #2, #1109. Unknown."": 1, ""To SF&NP as Little Josie. To Northwestern Pacific Railroad #1. Retired in 1921."": 1, ""To Southern Pacific #19. Unknown."": 1, ""To Southern Pacific #18. Unknown."": 1, ""To Southern Pacific #17. Unknown."": 1}",38.35,33.0,0.0

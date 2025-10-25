@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Number,175,0.0,0.0,169,"{""U.S. Route 20 Business"": 2, ""Oregon Route 222"": 2, ""U.S. Route 30 Business"": 2, ""U.S. Route 97 Business"": 2, ""Oregon Route 225"": 2}",15.914,16.0,0.0
+South/west end,175,0.011429,0.0,156,"{""US 101 in Newport"": 2, ""I-5 in Woodburn"": 2, ""US 26 east of Government Camp"": 2, ""OR 201 north of Ontario"": 2, ""US 26 near Bear Springs"": 2}",21.295,21.0,0.0
+North/east end,175,0.011429,0.0,160,"{""US 26 in Prineville"": 3, ""US 97 in Klamath Falls"": 3, ""US 20/US 26 towards Boise, ID"": 2, ""OR 58 at Crescent Lake Junction"": 2, ""US 26 in Portland"": 2}",20.665,21.0,0.0
+Formed,175,0.068571,0.891429,22,"{""1935"": 36, ""1932"": 35, ""2002"": 30, ""2003"": 24, ""1926"": 8}",4.043,4.0,0.0
+Eliminated,175,0.834286,0.102857,15,"{""1950s"": 6, ""1972"": 4, ""1952"": 4, ""2007"": 2, ""1940"": 2}",4.897,4.0,0.0

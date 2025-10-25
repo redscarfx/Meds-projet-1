@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,9,0.0,1.0,6,"{""2008"": 3, ""2005"": 2, ""2004"": 1, ""2006"": 1, ""2009"": 1}",4.0,4.0,0.0
+Film,9,0.0,0.0,9,"{""7G Rainbow Colony"": 1, ""Sukran"": 1, ""Ponniyin Selvan"": 1, ""Kedi"": 1, ""Brahmanandam Drama Company"": 1}",15.111,15.0,0.0
+Role,9,0.0,0.0,9,"{""Kadhir"": 1, ""Ravi Shankar"": 1, ""Venu"": 1, ""Raghu"": 1, ""Ravi"": 1}",6.111,5.0,0.0
+Language,9,0.0,0.0,2,"{""Tamil"": 7, ""Telugu"": 2}",5.222,5.0,0.0

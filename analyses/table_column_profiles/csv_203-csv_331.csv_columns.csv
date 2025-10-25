@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,7,0.0,0.0,7,"{""16 October 2004"": 1, ""15 February 2005"": 1, ""19 February 2005"": 1, ""26 February 2005"": 1, ""12 March 2005"": 1}",14.286,15.0,0.0
+Competition,7,0.0,0.0,2,"{""National Division One"": 6, ""Powergen Cup"": 1}",19.714,21.0,0.0
+Home team,7,0.0,0.0,3,"{""Bedford"": 5, ""Sedgley Park"": 1, ""Birmingham Solihull"": 1}",9.429,7.0,0.0
+Score,7,0.142857,0.857143,6,"{""26.0"": 1, ""16.0"": 1, ""12.0"": 1, ""23.0"": 1, ""39.0"": 1}",4.0,4.0,0.0
+Away team,7,0.0,0.0,6,"{""Bedford"": 2, ""Tabard"": 1, ""Otley"": 1, ""London Welsh"": 1, ""Cornish Pirates"": 1}",9.571,7.0,0.0
+Score.1,7,0.142857,0.857143,6,"{""13.0"": 1, ""17.0"": 1, ""23.0"": 1, ""28.0"": 1, ""21.0"": 1}",4.0,4.0,0.0

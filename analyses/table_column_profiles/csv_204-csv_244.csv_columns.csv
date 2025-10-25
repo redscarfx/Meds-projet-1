@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,6,0.0,1.0,5,"{""1998"": 2, ""1990"": 1, ""1992"": 1, ""1995"": 1, ""1999"": 1}",4.0,4.0,0.0
+Album,6,0.0,0.0,6,"{""Go West Young Man\n\nReleased: October 1, 1990\nLabel: Reunion\nFormat: CD"": 1, ""Change Your World\n\nReleased: September 1, 1992\nLabel: Reunion\nFormat: CD"": 1, ""I'll Lead You Home\n\nReleased: August 29, 1995\nLabel: Reunion\nFormat: CD"": 1, ""Live the Life\n\nReleased: April 28, 1998\nLabel: Reunion\nFormat: CD"": 1, ""Christmastime\n\nReleased: October 13, 1998\nLabel: Reunion\nFormat: CD"": 1}",69.5,70.5,0.0
+"Peak
+US",6,0.0,1.0,6,"{""74"": 1, ""86"": 1, ""16"": 1, ""23"": 1, ""90"": 1}",2.0,2.0,0.0
+"Peak
+US
+Holiday",6,0.833333,0.166667,1,"{""4"": 1}",1.0,1.0,0.833333
+"Certifications
+(sales threshold)",6,0.0,0.0,3,"{""RIAA: Gold"": 3, ""RIAA: Platinum"": 2, ""RIAA: Platinum\nMC: Gold"": 1}",13.5,12.0,0.0

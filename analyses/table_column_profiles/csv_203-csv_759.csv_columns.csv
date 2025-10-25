@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,11,0.0,1.0,10,"{""1989"": 2, ""1955"": 1, ""1968"": 1, ""1971"": 1, ""1983"": 1}",4.0,4.0,0.0
+Company,11,0.0,0.0,6,"{""AT&T"": 4, ""Bell System"": 2, ""Verizon"": 2, ""Southern Bell Telephone Co."": 1, ""NYNEX"": 1}",8.273,7.0,0.0
+Number of Members Affected,11,0.0,0.0,9,"{""175,000"": 3, ""50,000"": 1, ""200,000"": 1, ""400,000"": 1, ""600,000"": 1}",6.545,7.0,0.0
+Duration of Strike,11,0.090909,0.0,10,"{""72 days"": 1, ""18 days"": 1, ""1 week"": 1, ""22 days"": 1, ""25 days"": 1}",6.8,7.0,0.0
+Notes,11,0.0,0.0,11,"{""Strike was in answer to management's effort to prohibit workers from striking."": 1, ""Wage increases to compensate for cost of living, and medical benefits won"": 1, ""Cost of Living Allowance (COLA) won for workers"": 1, ""Last contract with the Bell System before its breakup. Bell System sought givebacks. The contract resulted in Wage increases, employment security, pension, and health improvements."": 1, ""COLA clause suspended in contract - former Bell System contracts vary substantially from the AT&T contract."": 1}",97.818,82.0,0.0

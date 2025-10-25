@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,16,0.0,1.0,16,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.438,1.0,0.0
+Date,16,0.0,0.0,16,"{""Thursday, Aug 11"": 1, ""Monday, Aug 15"": 1, ""Saturday, Aug 20"": 1, ""Monday, Aug 22"": 1, ""Monday, Aug 29"": 1}",15.438,16.0,0.0
+Opponent,16,0.0,0.0,8,"{""vs. Winnipeg Blue Bombers"": 2, ""at Edmonton Eskimos"": 2, ""vs. Saskatchewan Roughriders"": 2, ""at Calgary Stampeders"": 2, ""vs. Edmonton Eskimos"": 2}",23.25,23.0,0.0
+Score,16,0.0,0.0,16,"{""35–21"": 1, ""33–14"": 1, ""27–12"": 1, ""26–19"": 1, ""26–0"": 1}",4.875,5.0,0.0
+Result,16,0.0,0.0,3,"{""Loss"": 9, ""Win"": 5, ""Tie"": 2}",3.562,4.0,0.0
+Attendance,16,0.125,0.0,14,"{""31,837"": 1, ""17,500"": 1, ""29,532"": 1, ""28,420"": 1, ""18,297"": 1}",5.929,6.0,0.0
+Record,16,0.0,0.0,16,"{""0–1"": 1, ""0–2"": 1, ""1–2"": 1, ""2–2"": 1, ""2–3"": 1}",4.125,5.0,0.0

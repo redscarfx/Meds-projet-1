@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+No.,13,0.0,1.0,13,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.308,1.0,0.0
+Title,13,0.0,0.0,13,"{""\\Reunion\\\""\"""": 1, ""\\Antarctica\\\""\"""": 1, ""\\Skulls\\\""\"""": 1, ""\\Heist\\\""\"""": 1, ""\\The Wheel Of Dharma\\\""\"""": 1}",14.462,14.0,0.0
+Directed by,13,0.0,0.0,11,"{""Perry Lang"": 2, ""Tom Wright"": 2, ""Bryan Spicer"": 1, ""Adam Nimoy"": 1, ""Rick Kolbe"": 1}",11.077,10.0,0.0
+Written by,13,0.0,0.0,9,"{""Patrick Massett & John Zinman"": 4, ""Gabrielle Stanton & Harry Werksman, Jr."": 2, ""Rick Kellard"": 1, ""Stephanie Bloch-Chambers & Julie Bean"": 1, ""Rick Kellard & Thania St. John"": 1}",26.308,29.0,0.0
+Original Air date,13,0.0,0.0,5,"{""Unaired in U.S"": 9, ""January 27, 2003"": 1, ""February 3, 2003"": 1, ""February 10, 2003"": 1, ""March 10, 2003"": 1}",14.538,14.0,0.0

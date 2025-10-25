@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Outcome,18,0.0,0.0,2,"{""Winner"": 10, ""Runner-up"": 8}",7.333,6.0,0.0
+No.,18,0.0,1.0,10,"{""1.0"": 2, ""2.0"": 2, ""3.0"": 2, ""4.0"": 2, ""5.0"": 2}",3.056,3.0,0.0
+Date,18,0.0,0.0,18,"{""9 May 2010"": 1, ""25 July 2010"": 1, ""11 November 2013"": 1, ""13 October 2013"": 1, ""22 September 2013"": 1}",13.333,12.0,0.0
+Tournament,18,0.0,0.0,14,"{""Estoril Open, Estoril, Portugal"": 3, ""International German Open, Hamburg, Germany"": 2, ""ATP Vegeta Croatia Open Umag, Umag, Croatia"": 2, ""Open de Nice Côte d’Azur, Nice, France"": 1, ""BRD Năstase Țiriac Trophy, Bucharest, Romania"": 1}",38.056,40.0,0.0
+Surface,18,0.0,0.0,3,"{""Clay"": 13, ""Hard (i)"": 4, ""Hard"": 1}",4.889,4.0,0.0
+Partner,18,0.0,0.0,8,"{""Fernando Verdasco"": 8, ""Marc López"": 3, ""Julian Knowle"": 2, ""Santiago Gonzalez"": 1, ""Carlos Berlocq"": 1}",14.444,15.5,0.0
+Opponents in the final,18,0.0,0.0,16,"{""Eric Butorac\n Jean-Julien Rojer"": 2, ""Marcel Granollers\n Marc López"": 2, ""Pablo Cuevas\n Marcel Granollers"": 1, ""Jérémy Chardy\n Paul-Henri Mathieu"": 1, ""Daniele Bracciali\n Potito Starace"": 1}",30.778,30.5,0.0
+Score in the final,18,0.0,0.0,17,"{""3–6, 4–6"": 2, ""6–7(1–7), 6–4, [10–4]"": 1, ""6–4, 6–3"": 1, ""7-5, 6-7(3-7), [10-7]"": 1, ""6–7(2–7), 7–6(8–6), [2–10]"": 1}",12.333,8.0,0.0

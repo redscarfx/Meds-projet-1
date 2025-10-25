@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Part,12,0.0,0.0,12,"{""Part 1"": 1, ""Part 2"": 1, ""Part 3"": 1, ""Part 4"": 1, ""Part 5"": 1}",6.25,6.0,0.0
+Number,12,0.0,0.0,12,"{""ISO/IEC 15938-1"": 1, ""ISO/IEC 15938-2"": 1, ""ISO/IEC 15938-3"": 1, ""ISO/IEC 15938-4"": 1, ""ISO/IEC 15938-5"": 1}",15.75,15.0,0.0
+First public release date (First edition),12,0.0,1.0,4,"{""2002"": 5, ""2003"": 3, ""2005"": 3, ""2008"": 1}",4.0,4.0,0.0
+Latest public release date (edition),12,0.0,1.0,4,"{""2002"": 5, ""2003"": 3, ""2005"": 3, ""2008"": 1}",4.0,4.0,0.0
+Latest amendment,12,0.25,0.416667,5,"{""2006"": 2, ""2010"": 2, ""2010 (2011)"": 2, ""(2011)"": 2, ""2008"": 1}",6.0,4.0,0.0
+Title,12,0.0,0.0,12,"{""Systems"": 1, ""Description definition language"": 1, ""Visual"": 1, ""Audio"": 1, ""Multimedia description schemes"": 1}",18.917,18.5,0.0
+Description,12,0.916667,0.0,1,"{""the architectural framework of MPEG-7, the carriage of MPEG-7 content - TeM (Textual format for MPEG-7) and the binary format for MPEG-7 descriptions (BiM)"": 1}",155.0,155.0,0.0

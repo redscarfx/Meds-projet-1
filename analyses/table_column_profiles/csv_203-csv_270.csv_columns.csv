@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,23,0.0,1.0,15,"{""1998"": 3, ""1999"": 3, ""2002"": 3, ""2004"": 2, ""2007"": 2}",4.0,4.0,0.0
+Competition,23,0.0,0.0,11,"{""Summer Olympics"": 4, ""European Championships"": 3, ""World Championships"": 3, ""JoongAng Seoul Marathon"": 3, ""World Half Marathon Championships"": 2}",20.304,19.0,0.0
+Venue,23,0.0,0.0,17,"{""Seoul, South Korea"": 3, ""Helsinki, Finland"": 2, ""Paris, France"": 2, ""Frankfurt, Germany"": 2, ""Athens, Greece"": 2}",16.0,17.0,0.0
+Position,23,0.043478,0.0,15,"{""1st"": 5, ""48th"": 2, ""2nd"": 2, ""4th"": 2, ""49th"": 1}",3.545,4.0,0.043478
+Event,23,0.0,0.0,3,"{""Marathon"": 20, ""Half marathon"": 2, ""Long race"": 1}",8.478,8.0,0.0
+Notes,23,0.043478,0.0,22,"{""2:22:49"": 1, ""2:33:42"": 1, ""2:14:49"": 1, ""DNF"": 1, ""2:11:25"": 1}",6.818,7.0,0.0

@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,9,0.0,1.0,5,"{""2008"": 3, ""2010"": 2, ""2013"": 2, ""2006"": 1, ""2007"": 1}",4.0,4.0,0.0
+Competition,9,0.0,0.0,6,"{""IAAF World Athletics Final"": 2, ""World Championships"": 2, ""World Indoor Championships"": 2, ""Olympic Games"": 1, ""2010 Diamond League"": 1}",21.444,19.0,0.0
+Venue,9,0.0,0.0,7,"{""Stuttgart, Germany"": 2, ""Multiple Locations"": 2, ""Osaka, Japan"": 1, ""Valencia, Spain"": 1, ""Beijing, China"": 1}",15.333,15.0,0.0
+Position,9,0.0,0.0,4,"{""1st"": 4, ""4th (semis)"": 2, ""3rd"": 2, ""5th"": 1}",4.778,3.0,0.0
+Notes,9,0.0,0.0,2,"{""110 m hurdles"": 7, ""60 m hurdles"": 2}",12.778,13.0,0.0

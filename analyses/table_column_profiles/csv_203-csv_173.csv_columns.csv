@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year(s),10,0.0,0.5,10,"{""2005–2009"": 1, ""2010"": 1, ""2009–2010"": 1, ""2009"": 1, ""2007"": 1}",7.2,6.5,0.0
+Serial Name,10,0.0,0.0,10,"{""Saat Phere"": 1, ""Sarvggun Sampanna"": 1, ""Bairi Piya"": 1, ""Pati Patni Aur Woh"": 1, ""Sa Re Ga Ma Pa Challenge 2007"": 1}",17.1,17.5,0.0
+Role,10,0.0,0.0,8,"{""Himself"": 3, ""Nahar Singh(Male Lead)"": 1, ""Abhay(Cameo)"": 1, ""Thakur Digvijay Singh Bhadoria /Ranveer(Male Lead)"": 1, ""Rudra Raizada(Male Lead)"": 1}",16.1,9.5,0.0
+Co-Star,10,0.3,0.0,6,"{""Keerti Gaekwad Kelkar"": 2, ""Rajshree Thakur"": 1, ""Supriya Kumari"": 1, ""Mauli Dave"": 1, ""Tina Dutta,Nandish Sandhu"": 1}",17.0,15.0,0.2
+Note(s),10,0.7,0.0,2,"{""He was the host of the show."": 2, ""He replaced Mohnish Bahl."": 1}",27.0,28.0,0.0
+Channel,10,0.0,0.0,6,"{""Zee TV"": 3, ""Imagine TV"": 2, ""Colors TV"": 2, ""Colors (TV channel)"": 1, ""Star One"": 1}",11.8,9.0,0.0

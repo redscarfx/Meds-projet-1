@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+School Name,13,0.0,0.0,13,"{""Aliamanu Intermediate School"": 1, ""Anuenue School"": 1, ""Central Middle School"": 1, ""Dole Middle School"": 1, ""Halau Ku Mana NCPCS"": 1}",21.692,22.0,0.0
+City,13,0.0,0.0,1,"{""Honolulu"": 13}",8.0,8.0,0.0
+Grades,13,0.0,0.0,4,"{""6-8"": 9, ""7-8"": 2, ""K-12"": 1, ""6-12"": 1}",3.154,3.0,0.0
+Establishment,13,0.0,1.0,10,"{""1955"": 3, ""1958"": 2, ""1926"": 1, ""2000"": 1, ""1939"": 1}",4.0,4.0,0.0
+Charter,13,0.846154,0.0,2,"{""Charter"": 1, ""charter"": 1}",7.0,7.0,0.0

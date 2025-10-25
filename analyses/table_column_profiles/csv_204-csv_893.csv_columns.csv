@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,14,0.285714,0.714286,10,"{""5.0"": 1, ""6.0"": 1, ""7.0"": 1, ""8.0"": 1, ""9.0"": 1}",3.5,3.5,0.0
+Name,14,0.0,0.0,14,"{""Alberto García"": 1, ""Antonio David Jiménez"": 1, ""Jesus España"": 1, ""John Mayock"": 1, ""Michael Buchleitner"": 1}",15.786,16.5,0.0
+Nationality,14,0.0,0.0,10,"{""Spain"": 3, ""Austria"": 3, ""Great Britain"": 1, ""Belgium"": 1, ""Russia"": 1}",6.786,6.5,0.0
+Time,14,0.0,0.0,13,"{""7:48.08"": 2, ""7:43.89"": 1, ""7:46.49"": 1, ""7:54.39"": 1, ""7:59.79"": 1}",7.0,7.0,0.0
+Notes,14,0.642857,0.0,3,"{""PB"": 3, ""CR"": 1, ""SB"": 1}",2.0,2.0,0.0

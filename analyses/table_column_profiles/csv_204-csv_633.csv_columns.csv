@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Launch date,25,0.0,0.0,24,"{""Mid-2020s\n(proposed)"": 2, ""June 14, 1969"": 1, ""July 13, 1969"": 1, ""By 2030"": 1, ""2020/2021\n(planned)"": 1}",16.68,16.0,0.0
+Operator,25,0.96,0.0,1,"{""(private)"": 1}",9.0,9.0,0.0
+Name,25,0.0,0.0,25,"{""Luna E-8-5 No.402"": 1, ""Genesis"": 1, ""Chinese Mars sample return mission"": 1, ""Mars-Grunt"": 1, ""MEJI\nMSR"": 1}",11.16,10.0,0.0
+Sample origin,25,0.0,0.0,9,"{""The Moon"": 14, ""Mars"": 4, ""81P/Wild\n(Comet coma)"": 1, ""Solar wind"": 1, ""25143 Itokawa\n(Asteroid surface)"": 1}",13.88,8.0,0.0
+Samples returned,25,0.76,0.0,6,"{""101 grams (3.6 oz)\nof lunar rock"": 1, ""55 grams (1.9 oz)\nof lunar rock"": 1, ""170 grams (6.0 oz)\nof lunar rock"": 1, ""Over 1 million\ncomet particles"": 1, ""Solar wind particles"": 1}",29.833,31.5,0.4
+Recovery date,25,0.4,0.0,11,"{""To be determined"": 5, ""September 24, 1970"": 1, ""February 25, 1972"": 1, ""August 22, 1976"": 1, ""January 15, 2006"": 1}",15.467,16.0,0.4
+Mission result,25,0.04,0.0,16,"{""Success"": 4, ""Failure\nLaunch failure"": 3, ""Failure\nCrash-landed on the Moon"": 2, ""Failure\nFailed to leave Earth orbit"": 2, ""To be determined"": 2}",40.083,35.0,0.0

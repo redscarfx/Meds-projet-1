@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+№,17,0.0,1.0,17,"{""1"": 1, ""10"": 1, ""16"": 1, ""15"": 1, ""14"": 1}",1.471,1.0,0.0
+Title,17,0.0,0.0,17,"{""\\Kloot's Kounty\\\""\"""": 1, ""\\Gold Struck\\\""\"""": 1, ""\\Mesa Trouble\\\""\"""": 1, ""\\Strange on the Range\\\""\"""": 1, ""\\By Hoot or By Crook\\\""\"""": 1}",23.059,24.0,0.0
+Directed by:,17,0.0,0.0,7,"{""Gerry Chiniquy"": 6, ""Bob Balsar"": 3, ""Hawley Pratt"": 2, ""Roy Morita"": 2, ""Sid Marcus"": 2}",12.176,12.0,0.0
+Released:,17,0.0,1.0,2,"{""1974"": 10, ""1973"": 7}",4.0,4.0,0.0

@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,15,0.0,1.0,9,"{""1975"": 3, ""1980"": 3, ""1972"": 2, ""1976"": 2, ""1973"": 1}",4.0,4.0,0.0
+Film Title,15,0.0,0.0,15,"{""Kwadrat (Square)"": 1, ""Take Five"": 1, ""Plamuz (Music Art)"": 1, ""Zupa (Soup)"": 1, ""Nowa Książka (New Book)"": 1}",24.533,23.0,0.0
+Duration,15,0.0,0.0,11,"{""9:38"": 4, ""2:26"": 2, ""4:40"": 1, ""3:36"": 1, ""8:22"": 1}",4.133,4.0,0.0
+Film Type,15,0.0,0.0,2,"{""35 mm short film"": 14, ""35 mm documentary film"": 1}",16.4,16.0,0.0
+Shoot Location,15,0.0,0.0,5,"{""SMFF Se-Ma-For Łódź, Poland"": 10, ""PWSFTviT Łódź, Poland"": 2, ""Vienna"": 1, ""in collaboration with B. Dziworski, WFO Łódź, Poland and Signal Film, Vienna"": 1, ""in collaboration with B. Dziworski, SMFF Se-Ma-For Łódź, for TVP, Poland"": 1}",31.067,27.0,0.0

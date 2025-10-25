@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Player,15,0.0,0.0,15,"{""Clyde E. Bastian"": 1, ""James Bland Catlett"": 1, ""William D. Cochran"": 1, ""Maurice F. Dunne"": 1, ""John Maulbetsch"": 1}",15.6,15.0,0.0
+Position,15,0.0,0.0,11,"{""Guard"": 3, ""Halfback"": 2, ""End"": 2, ""Halfback\nFullback"": 1, ""Center\nEnd"": 1}",9.067,8.0,0.0
+"Games
+started",15,0.0,0.666667,10,"{""3"": 3, ""8"": 2, ""7"": 2, ""5"": 2, ""0\n1"": 1}",1.933,1.0,0.0
+Hometown,15,0.0,0.0,14,"{""Ann Arbor, MI"": 2, ""Williamsport, PA"": 1, ""Brookings, SD"": 1, ""Houghton, MI"": 1, ""Springfield, IL"": 1}",13.0,13.0,0.0
+Height,15,0.133333,0.0,7,"{""6-0"": 4, ""5-8"": 3, ""5-10"": 2, ""5-7"": 1, ""5-11"": 1}",3.308,3.0,0.0
+Weight,15,0.133333,0.866667,9,"{""168.0"": 4, ""190.0"": 2, ""235.0"": 1, ""164.0"": 1, ""212.0"": 1}",5.0,5.0,0.0
+Age,15,0.6,0.4,3,"{""22.0"": 3, ""21.0"": 2, ""20.0"": 1}",4.0,4.0,0.0

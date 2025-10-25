@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Outcome,7,0.0,0.0,2,"{""Winner"": 4, ""Runner-up"": 3}",7.286,6.0,0.0
+No.,7,0.0,1.0,4,"{""1.0"": 2, ""2.0"": 2, ""3.0"": 2, ""4.0"": 1}",3.0,3.0,0.0
+Date,7,0.0,0.0,7,"{""1 August 2011"": 1, ""24 October 2011"": 1, ""2 April 2012"": 1, ""25 March 2013"": 1, ""15 April 2013"": 1}",12.714,13.0,0.0
+Tournament,7,0.0,0.0,6,"{""Ribeirão Preto, Brazil"": 2, ""São Paulo, Brazil"": 1, ""Goiânia, Brazil"": 1, ""Antalya 15, Turkey"": 1, ""Caserta, Italy"": 1}",18.857,18.0,0.0
+Surface,7,0.0,0.0,2,"{""Clay"": 5, ""Hard"": 2}",4.0,4.0,0.0
+Opponent,7,0.0,0.0,7,"{""Maria Fernanda Alves"": 1, ""Bárbara Luz"": 1, ""Natasha Fourouclas"": 1, ""Andrea Benítez"": 1, ""Tereza Martincová"": 1}",15.714,15.0,0.0
+Score,7,0.0,0.0,7,"{""6–4, 5–7, 3–6"": 1, ""6–2, 6–0"": 1, ""6–0, 6–1"": 1, ""7–6(7–2), 6–2"": 1, ""6–4, 6–3"": 1}",9.429,8.0,0.0

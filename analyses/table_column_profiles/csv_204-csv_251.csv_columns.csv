@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Community,7,0.0,0.0,7,"{""Beaver Lake 17"": 1, ""Cole Harbour 30"": 1, ""Millbrook 27"": 1, ""Sheet Harbour 36"": 1, ""Truro 27A"": 1}",12.0,12.0,0.0
+Area,7,0.0,0.0,7,"{""49.4 hectares (122 acres)"": 1, ""18.6 hectares (46 acres)"": 1, ""302.0 hectares (746 acres)"": 1, ""32.7 hectares (81 acres)"": 1, ""16.7 hectares (41 acres)"": 1}",24.286,24.0,0.0
+Location,7,0.0,0.0,7,"{""78.4 km. southeast of Halifax"": 1, ""9.6 km. east of Halifax"": 1, ""8 km. south of Truro"": 1, ""91.2 km. northeast of Halifax"": 1, ""Joined south of Truro town limit"": 1}",25.857,24.0,0.0
+Population,7,0.0,1.0,5,"{""0"": 3, ""23"": 1, ""194"": 1, ""847"": 1, ""15"": 1}",1.857,2.0,0.0
+Date established,7,0.0,0.0,7,"{""March 3, 1867"": 1, ""March 3, 1880"": 1, ""March 3, 1886"": 1, ""March 3, 1915"": 1, ""March 3, 1904"": 1}",13.0,13.0,0.0

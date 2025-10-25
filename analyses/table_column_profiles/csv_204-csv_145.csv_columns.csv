@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Representative,37,0.0,0.0,37,"{""William R. Poage"": 1, ""Dominick V. Daniels"": 1, ""John W. Wydler"": 1, ""Thomas D'Alesandro Jr."": 1, ""Francis E. Dorn"": 1}",15.973,16.0,0.0
+State,37,0.0,0.0,22,"{""New York"": 7, ""Missouri"": 4, ""Connecticut"": 3, ""Pennsylvania"": 3, ""Texas"": 2}",8.324,8.0,0.0
+District(s),37,0.0,0.756757,21,"{""5"": 6, ""6"": 4, ""4"": 4, ""12"": 3, ""11"": 2}",2.514,2.0,0.0
+Served,37,0.0,0.0,34,"{""1939–1947"": 2, ""1947–1949"": 2, ""1970–1979"": 2, ""1937–1978"": 1, ""1969–1975"": 1}",9.595,9.0,0.0
+Party,37,0.0,0.0,2,"{""Democratic"": 20, ""Republican"": 17}",10.0,10.0,0.0
+Date of birth,37,0.0,0.0,37,"{""December 29, 1899"": 1, ""October 18, 1908"": 1, ""June 9, 1924"": 1, ""August 1, 1903"": 1, ""April 8, 1911"": 1}",14.865,14.0,0.0
+Date of death,37,0.0,0.0,35,"{""December 16, 1987"": 2, ""April 15, 1987"": 2, ""July 17, 1987"": 1, ""August 4, 1987"": 1, ""August 23, 1987"": 1}",14.919,15.0,0.0
+Age,37,0.0,0.0,37,"{""87 years, 5 days"": 1, ""78 years, 272 days"": 1, ""63 years, 56 days"": 1, ""84 years, 22 days"": 1, ""76 years, 162 days"": 1}",17.676,18.0,0.0

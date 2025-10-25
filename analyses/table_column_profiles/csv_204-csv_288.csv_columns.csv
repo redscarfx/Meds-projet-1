@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Region,29,0.0,0.0,4,"{""East"": 8, ""Mideast"": 7, ""Midwest"": 7, ""West"": 7}",5.448,4.0,0.0
+Seed,29,1.0,0.0,0,{},0.0,0.0,0.0
+Team,29,0.137931,0.0,25,"{""Furman"": 1, ""Houston"": 1, ""UCLA"": 1, ""San Francisco"": 1, ""Oklahoma City"": 1}",11.04,11.0,0.0
+Coach,29,0.137931,0.0,25,"{""Joe Williams"": 1, ""Guy Lewis"": 1, ""John Wooden"": 1, ""Bob Gaillard"": 1, ""Abe Lemons"": 1}",11.56,12.0,0.0
+Finished,29,0.137931,0.0,8,"{""First round"": 9, ""Regional Runner-up"": 4, ""Regional Fourth Place"": 4, ""Regional Third Place"": 4, ""Fourth Place"": 1}",15.0,12.0,0.0
+Final Opponent,29,0.137931,0.0,12,"{""Providence"": 3, ""Syracuse"": 2, ""Indiana"": 2, ""Penn"": 2, ""Marquette"": 2}",10.88,10.0,0.0
+Score,29,0.137931,0.0,25,"{""L 83-82"": 1, ""L 102-89"": 1, ""W 87-66"": 1, ""L 54-39"": 1, ""L 103-78"": 1}",7.12,7.0,0.0

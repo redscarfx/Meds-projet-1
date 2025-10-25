@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,12,0.25,0.75,9,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.0,1.0,0.25
+"Name
+(Birth–Death)",12,0.0,0.0,11,"{""Lucas Cornelius Steyn\n(1903–1976)\n(Officer Administering the Government)"": 2, ""The Viscount Gladstone\n(1854–1930)"": 1, ""The Viscount Buxton\n(1853–1934)"": 1, ""HRH Prince Arthur of Connaught\n(1883–1938)"": 1, ""The Earl of Athlone\n(1874–1957)"": 1}",43.083,33.5,0.0
+Took office,12,0.0,0.0,12,"{""31 May 1910"": 1, ""8 September 1914"": 1, ""17 November 1920"": 1, ""21 January 1924"": 1, ""26 January 1931"": 1}",14.167,14.5,0.0
+Left office,12,0.0,0.0,12,"{""8 September 1914"": 1, ""17 November 1920"": 1, ""21 January 1924"": 1, ""26 January 1931"": 1, ""5 April 1937"": 1}",14.167,14.5,0.0
+Monarch,12,0.0,0.0,3,"{""George V"": 5, ""George VI"": 4, ""Elizabeth II"": 3}",9.333,9.0,0.0
+Prime Minister,12,0.0,0.0,5,"{""Smuts"": 4, ""Verwoerd"": 3, ""Botha"": 2, ""Hertzog"": 2, ""Malan"": 1}",6.083,5.0,0.0

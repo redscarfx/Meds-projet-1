@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Model,12,0.0,0.0,11,"{""KM-45 Series"": 2, ""LARC-V"": 1, ""GKN Aquatrack"": 1, ""AM General HMMWV"": 1, ""Maxi-Ambulance"": 1}",12.833,12.0,0.0
+Origin,12,0.0,0.0,4,"{""United States"": 6, ""Republic of Korea"": 3, ""Philippines"": 2, ""United Kingdom"": 1}",13.75,13.0,0.0
+Type,12,0.0,0.0,10,"{""Amphibious Support Vehicle"": 2, ""Light Utility Vehicle"": 2, ""Heavy Utility Vehicle"": 1, ""2 1/2-ton Utility Vehicle"": 1, ""1/4-ton Light Utility Vehicle and Weapons Carrier"": 1}",26.667,25.0,0.0
+Version,12,0.0,0.0,11,"{""Standard"": 2, ""LARC-V"": 1, ""Aquatrack"": 1, ""M998A1\n\nM1038A1\n\nM1025A1"": 1, ""M997A2"": 1}",7.583,6.0,0.0
+In Service,12,0.5,0.416667,5,"{""12"": 2, ""5"": 1, ""2"": 1, ""4"": 1, "">50"": 1}",1.667,1.5,0.5
+Notes,12,0.0,0.0,12,"{""Most refurbished in 2006."": 1, ""Introduced in mid 1990s. Originally owned by the Office of Civil Defense but under PMC stewardship."": 1, ""Divided into several variants and series"": 1, ""150 delivered to AFP on November 2011, PMC received 50 units."": 1, ""Several delivered to AFP in 2013, several units for the Marines."": 1}",71.833,62.5,0.0

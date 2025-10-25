@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,29,0.0,0.0,29,"{""24 November 2012"": 1, ""11 June 1988"": 1, ""29 November 1924"": 1, ""21 December 1935"": 1, ""19 December 1953"": 1}",14.448,15.0,0.0
+Venue,29,0.0,0.0,12,"{""Millennium Stadium, Cardiff"": 8, ""National Stadium, Cardiff"": 8, ""Waikato Stadium, Hamilton"": 2, ""Eden Park, Auckland"": 2, ""Lancaster Park, Christchurch"": 2}",24.655,25.0,0.0
+Score,29,0.0,0.0,29,"{""10 – 33"": 1, ""54 – 9"": 1, ""0 – 19"": 1, ""13 – 12"": 1, ""13 – 8"": 1}",6.345,6.0,0.0
+Victor,29,0.0,0.0,2,"{""New Zealand"": 26, ""Wales"": 3}",10.379,11.0,0.0
+Comments,29,0.034483,0.0,25,"{""1988 Wales Tour"": 2, ""2010 mid-year rugby test series"": 2, ""1969 Wales Tour"": 2, ""2012 Autumn International"": 1, ""The Invincibles Tour"": 1}",23.036,20.0,0.0
+Match reports,29,0.724138,0.0,2,"{""BBC"": 7, ""Stuff"": 1}",3.25,3.0,0.0

@@ -1,0 +1,19 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Team,20,0.0,0.0,7,"{""CLE"": 9, ""BAL"": 4, ""SEA"": 3, ""CLE Total"": 1, ""BAL Total"": 1}",4.0,3.0,0.0
+Year,20,0.0,0.8,20,"{""1991"": 1, ""1992"": 1, ""SEA Total"": 1, ""BAL Total"": 1, ""CLE Total"": 1}",4.8,4.0,0.0
+"Regular Season
+Won",20,0.0,1.0,19,"{""76"": 2, ""32"": 1, ""67"": 1, ""192"": 1, ""275"": 1}",2.3,2.0,0.0
+"Regular Season
+Lost",20,0.0,1.0,19,"{""86"": 2, ""53"": 1, ""95"": 1, ""210"": 1, ""372"": 1}",2.25,2.0,0.0
+"Regular Season
+Win %",20,0.0,1.0,19,"{""0.469"": 2, ""0.376"": 1, ""0.414"": 1, ""0.478"": 1, ""0.425"": 1}",4.95,5.0,0.0
+"Regular Season
+Finish",20,0.2,0.0,8,"{""1st in AL Central"": 5, ""4th in AL East"": 4, ""4th in AL West"": 2, ""7th in AL East"": 1, ""5th in AL East"": 1}",15.188,14.0,0.15
+"Postseason
+Won",20,0.55,0.45,7,"{""27"": 2, ""0"": 2, ""9"": 1, ""1"": 1, ""10"": 1}",1.333,1.0,0.15
+"Postseason
+Lost",20,0.55,0.45,6,"{""3"": 2, ""25"": 2, ""0"": 2, ""6"": 1, ""8"": 1}",1.222,1.0,0.15
+"Postseason
+Win %",20,0.55,0.45,7,"{"".519"": 2, "".000"": 2, "".600"": 1, "".250"": 1, "".556"": 1}",4.0,4.0,0.15
+"Postseason
+Result",20,0.7,0.0,6,"{""no MLB postseason"": 1, ""Lost WS to ATL"": 1, ""Lost LDS to BAL"": 1, ""Lost WS to FLA"": 1, ""Lost LCS to NYY"": 1}",15.0,15.0,0.3

@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Pennant,8,0.0,0.0,8,"{""F169"": 1, ""F170"": 1, ""F172"": 1, ""F173"": 1, ""F171"": 1}",4.0,4.0,0.0
+Name,8,0.0,0.0,8,"{""Amazon"": 1, ""Antelope"": 1, ""Ambuscade"": 1, ""Arrow"": 1, ""Active"": 1}",6.875,6.5,0.0
+Hull builder,8,0.0,0.0,4,"{""YSL"": 4, ""Vosper Thornycroft"": 2, ""Vosper Thornycroft, Woolston"": 1, ""Yarrow Shipbuilders, Scotstoun"": 1}",13.25,10.5,0.0
+Ordered,8,0.0,0.0,3,"{""11 November 1971"": 5, ""11 May 1970"": 2, ""26 March 1969"": 1}",14.375,16.0,0.0
+Laid down,8,0.0,0.0,8,"{""6 November 1969"": 1, ""23 March 1971"": 1, ""1 September 1971"": 1, ""28 September 1972"": 1, ""21 July 1971"": 1}",14.5,15.0,0.0
+Launched,8,0.0,0.0,8,"{""26 April 1971"": 1, ""16 March 1972"": 1, ""18 January 1973"": 1, ""5 February 1974"": 1, ""23 November 1972"": 1}",14.375,15.0,0.0
+Accepted into service,8,0.0,0.0,8,"{""19 July 1974"": 1, ""30 June 1975"": 1, ""23 August 1975"": 1, ""16 May 1975"": 1, ""2 June 1977"": 1}",12.75,12.0,0.0
+Commissioned,8,0.0,0.0,8,"{""11 May 1974"": 1, ""16 July 1975"": 1, ""5 September 1975"": 1, ""29 July 1976"": 1, ""17 June 1977"": 1}",12.75,12.0,0.0
+Est. building cost,8,0.0,0.0,8,"{""£16.8M"": 1, ""£14.4M"": 1, ""£16.5M"": 1, ""£20.2M"": 1, ""£24.1M"": 1}",6.0,6.0,0.0
+Fate,8,0.0,0.0,8,"{""To Pakistan as Babur"": 1, ""Bombed by Argentine A-4 Skyhawks on 23 May 1982 and sank following day in San Carlos Water"": 1, ""To Pakistan as Tariq"": 1, ""To Pakistan as Khaibar"": 1, ""To Pakistan as Shah Jahan"": 1}",41.375,23.5,0.0

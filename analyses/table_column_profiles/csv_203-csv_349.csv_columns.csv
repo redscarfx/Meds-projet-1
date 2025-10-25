@@ -1,0 +1,13 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"No. in
+series",12,0.0,1.0,12,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.25,1.0,0.0
+"No. in
+season",12,0.0,1.0,12,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.25,1.0,0.0
+Title,12,0.0,0.0,12,"{""\\Pilot\\\""\"""": 1, ""\\Identity\\\""\"""": 1, ""\\Fight or Flight\\\""\"""": 1, ""\\Old Friends\\\""\"""": 1, ""\\Family Business\\\""\"""": 1}",14.75,14.5,0.0
+Directed by,12,0.0,0.0,12,"{""Jace Alexander"": 1, ""Rod Hardy"": 1, ""Colin Bucksey"": 1, ""David Solomon"": 1, ""Sandy Bookstaver"": 1}",13.0,13.0,0.0
+Written by,12,0.0,0.0,7,"{""Matt Nix"": 3, ""Craig O'Neill & Jason Tracey"": 3, ""Alfredo Barrios, Jr."": 2, ""Nick Thiel"": 1, ""Mere Smith"": 1}",18.417,20.0,0.0
+Original air date,12,0.0,0.0,11,"{""September 20, 2007"": 2, ""June 28, 2007"": 1, ""July 5, 2007"": 1, ""July 12, 2007"": 1, ""July 19, 2007"": 1}",14.667,14.0,0.0
+"Production
+code",12,0.0,0.0,12,"{""BN100"": 1, ""BN101"": 1, ""BN103"": 1, ""BN102"": 1, ""BN104"": 1}",5.0,5.0,0.0
+"U.S. viewers
+(millions)",12,0.416667,0.583333,4,"{""4.0"": 3, ""4.8"": 2, ""4.41"": 1, ""4.08"": 1}",3.286,3.0,0.0

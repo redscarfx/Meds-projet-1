@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+School,8,0.0,0.0,8,"{""Benton High School"": 1, ""Bishop LeBlond High School"": 1, ""Cameron High School"": 1, ""Chillicothe High School (Missouri)"": 1, ""Lafayette High School"": 1}",22.625,21.0,0.0
+Team Name,8,0.0,0.0,8,"{""(Lady) Cardinals"": 1, ""(Lady) Golden Eagles"": 1, ""(Lady) Dragons"": 1, ""(Lady) Hornets"": 1, ""Fighting Irish"": 1}",15.625,14.5,0.0
+Town,8,0.0,0.0,6,"{""St. Joseph"": 3, ""Cameron"": 1, ""Chillicothe"": 1, ""Maryville"": 1, ""Savannah"": 1}",9.375,10.0,0.0
+County,8,0.0,0.0,6,"{""Buchanan"": 3, ""Clinton"": 1, ""Livingston"": 1, ""Nodaway"": 1, ""Andrew"": 1}",7.25,7.5,0.0
+Enrollment (2010-11 & 2011–12),8,0.0,1.0,8,"{""846"": 1, ""314"": 1, ""503"": 1, ""638"": 1, ""801"": 1}",3.0,3.0,0.0
+Primary MSHSAA class*,8,0.0,1.0,2,"{""4"": 5, ""3"": 3}",1.0,1.0,0.0
+Football class,8,0.0,1.0,3,"{""4"": 4, ""2"": 2, ""3"": 2}",1.0,1.0,0.0

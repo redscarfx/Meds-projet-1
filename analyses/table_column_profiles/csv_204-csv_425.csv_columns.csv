@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,154,0.0,0.0,154,"{""Jacques d'Adelswärd-Fersen"": 1, ""Amanda Donohoe"": 1, ""Owen Dodson"": 1, ""Terry Dolan"": 1, ""Domenico Dolce"": 1}",14.175,13.5,0.0
+Lifetime,154,0.0,0.0,100,"{""b. ?"": 13, ""b. 1970"": 5, ""b. 1955"": 5, ""b. 1963"": 3, ""b. 1966"": 3}",7.325,7.0,0.0
+Nationality,154,0.0,0.0,23,"{""American"": 77, ""English"": 19, ""Canadian"": 15, ""French"": 7, ""German"": 5}",7.812,8.0,0.0
+Notable as,154,0.006494,0.0,106,"{""Actor"": 13, ""Writer"": 9, ""Politician"": 8, ""Musician"": 5, ""Activist"": 4}",15.536,13.0,0.0
+Notes,154,0.0,0.0,3,"{""G"": 87, ""L"": 42, ""B"": 25}",1.0,1.0,0.0

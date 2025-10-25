@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,14,0.0,1.0,14,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.357,1.0,0.0
+Title,14,0.0,0.0,14,"{""\\Creative Control\\\""\"""": 1, ""\\Word...Life\\\""\"""": 1, ""\\O-Zone\\\""\"""": 1, ""\\Born 2 Live\\\""\"""": 1, ""\\Time's Up\\\""\"""": 1}",15.286,15.0,0.0
+Songwriters,14,0.0,0.0,5,"{""O. Credle, A. Best"": 8, ""O. Credle, L. Baskerville, T. Jamerson"": 2, ""O. Credle, G. Scott"": 2, ""O. Credle, D. Vanderpool, A. Best"": 1, ""O. Credle, R. Hall"": 1}",22.071,18.0,0.0
+Producer(s),14,0.0,0.0,5,"{""Buckwild"": 7, ""Organized Konfusion"": 3, ""DJ Ogee/O.Gee"": 2, ""Buckwild, Prestige"": 1, ""Lord Finesse"": 1}",12.071,10.0,0.0
+Performer (s),14,0.0,0.0,3,"{""O.C."": 12, ""O.C., Prince Po"": 1, ""O.C., Pharoahe Monch"": 1}",5.929,4.0,0.0

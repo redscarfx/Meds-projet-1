@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Category,7,0.0,0.0,7,"{""Rocket-powered aircraft"": 1, ""Manned air-breathing craft"": 1, ""Propeller-driven aircraft"": 1, ""Piston-engined propeller-driven aircraft"": 1, ""Helicopter"": 1}",23.429,23.0,0.0
+"Speed
+(km/h)",7,0.0,0.714286,7,"{""7,258"": 1, ""3,530"": 1, ""870"": 1, ""850.1"": 1, ""401.0"": 1}",4.286,5.0,0.0
+"Speed
+(mph)",7,0.0,0.714286,7,"{""4,510"": 1, ""2,194"": 1, ""541"": 1, ""528.33"": 1, ""249.1"": 1}",4.714,5.0,0.0
+Vehicle,7,0.0,0.0,7,"{""North American X-15"": 1, ""Lockheed SR-71 Blackbird"": 1, ""Tupolev Tu-114"": 1, ""Grumman F8F Bearcat Rare Bear (N777L)"": 1, ""Westland Lynx 800 G-LYNX"": 1}",22.143,24.0,0.0
+Pilot,7,0.0,0.0,7,"{""William J. Knight"": 1, ""Eldon W. Joersz"": 1, ""Ivan Soukhomline"": 1, ""Lyle Shelton"": 1, ""John Egginton"": 1}",18.286,15.0,0.0
+Date,7,0.0,0.142857,7,"{""3 Oct 1967"": 1, ""28 Jul 1976"": 1, ""1960"": 1, ""21 Aug 1989"": 1, ""11 Aug 1986"": 1}",9.714,11.0,0.0

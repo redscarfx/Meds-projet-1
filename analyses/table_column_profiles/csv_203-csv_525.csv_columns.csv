@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Car,9,0.0,0.0,9,"{""'89 U12 Bluebird Ltd"": 1, ""'91-'95 U13 Bluebird Ltd"": 1, ""'95-'97 W10 Avenir Salut"": 1, ""'97-'01 W11 Avenir GT4"": 1, ""'90-'94 N14 Pulsar GTi-R"": 1}",22.0,24.0,0.0
+Engine,9,0.0,0.0,3,"{""Redtop"": 4, ""Blacktop"": 3, ""Silvertop"": 2}",7.333,8.0,0.0
+Compression,9,0.0,0.0,2,"{""8.5:1"": 8, ""8.3:1"": 1}",5.0,5.0,0.0
+Power,9,0.0,0.0,7,"{""154 kW (206 hp) @ 6000 rpm"": 2, ""151 kW (202 hp) @ 6000 rpm"": 2, ""150 kW (201 hp) @ 6000 rpm"": 1, ""169 kW (227 hp) @ 6000 rpm"": 1, ""169 kW (227 hp) @ 6400 rpm (Euro: 164 kW (220 hp) @ 6400 rpm)"": 1}",29.889,26.0,0.0
+Torque,9,0.0,0.0,6,"{""202 lb·ft (274 N·m) @ 4000 rpm"": 3, ""203 lb·ft (275 N·m) @ 4000 rpm"": 2, ""203 lb·ft (275 N·m) @ 3600 rpm"": 1, ""210 lb·ft (280 N·m) @ 4800 rpm (Euro: 196 lb·ft (266 N·m) @ 4800 rpm"": 1, ""203 lb·ft (275 N·m) @ 4800 rpm"": 1}",34.222,30.0,0.0
+Turbo,9,0.0,0.0,5,"{""T-25G"": 4, ""T-28"": 2, ""T-25g"": 1, ""T-25BB"": 1, ""T-28BB"": 1}",5.0,5.0,0.0
+Stock boost,9,0.0,0.0,2,"{""7psi"": 8, ""9psi"": 1}",4.0,4.0,0.0
+Turbine,9,0.444444,0.0,4,"{""62 trim 53.8 mm (2.1 in), .80 A/R housing"": 2, ""79 Trim 53 mm (2.1 in) (Inconel), .86 A/R housing"": 1, ""62 trim 53.8 mm (2.1 in), .64 A/R housing, BB if JDM"": 1, ""62 trim 53.8 mm (2.1 in) (Inconel), .64 A/R housing, cast divider wall between turbine discharge and wastegate, ball bearing center section"": 1}",64.4,49.0,0.0
+Compressor,9,0.444444,0.0,3,"{""60 trim 56mm BCI-1"": 2, ""60 trim 60 mm BCI-1 in T-04B housing"": 2, ""60 trim 60 mm BCI-1 in standard T-3 housing"": 1}",30.2,36.0,0.0

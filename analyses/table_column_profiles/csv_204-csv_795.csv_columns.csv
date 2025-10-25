@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,22,0.0,0.0,22,"{""December 3, 1948"": 1, ""December 8, 1948"": 1, ""February 28, 1949"": 1, ""February 26, 1949"": 1, ""February 21, 1949"": 1}",16.273,16.5,0.0
+Opponent,22,0.0,0.0,16,"{""DePaul"": 2, ""Colgate"": 2, ""Wisconsin"": 2, ""Indiana"": 2, ""Ohio State"": 2}",8.773,8.0,0.0
+Score,22,0.0,0.0,22,"{""67–62"": 1, ""59–58"": 1, ""91–28"": 1, ""81–64"": 1, ""80–49"": 1}",5.0,5.0,0.0
+Result,22,0.0,0.0,4,"{""Win"": 17, ""Loss"": 3, ""Win (OT)"": 1, ""Win (2ot)"": 1}",3.636,3.0,0.0
+Location,22,0.0,0.0,8,"{""Champaign, IL"": 14, ""Chicago, IL"": 2, ""Notre Dame, IN"": 1, ""Bloomington, IN"": 1, ""Columbus, OH"": 1}",13.045,13.0,0.0
+Attendance,22,0.318182,0.0,12,"{""10,000"": 2, ""6,958"": 2, ""6,905"": 2, ""17,189"": 1, ""6,902"": 1}",5.4,5.0,0.318182

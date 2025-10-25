@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Dance,10,0.0,0.0,10,"{""Cha Cha"": 1, ""Waltz (International Standard)"": 1, ""Rumba"": 1, ""Quickstep"": 1, ""Jive"": 1}",9.1,7.0,0.0
+Best dancer(s),10,0.0,0.0,6,"{""Argo Ader"": 3, ""Maarja-Liis Ilus"": 3, ""Argo Ader\nMaarja-Liis Ilus"": 1, ""Lauri Pedaja"": 1, ""Argo Ader\nEvelyn Sepp"": 1}",16.0,16.0,0.0
+Best score,10,0.0,1.0,5,"{""40"": 3, ""34"": 2, ""36"": 2, ""37"": 2, ""32"": 1}",2.0,2.0,0.0
+Worst dancer(s),10,0.1,0.0,5,"{""Henrik Normann"": 3, ""Henrik Normann\nPiret Järvis"": 2, ""Arne Niit"": 2, ""Erika Salumäe"": 1, ""Evelyn Sepp"": 1}",15.333,14.0,0.1
+Worst score,10,0.1,0.9,7,"{""14"": 2, ""26"": 2, ""15"": 1, ""16"": 1, ""24"": 1}",2.0,2.0,0.1

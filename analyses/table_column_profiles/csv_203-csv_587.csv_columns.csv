@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Country,120,0.0,0.0,21,"{""Soviet Union"": 39, ""France"": 25, ""China"": 12, ""Brazil"": 6, ""Czechoslovakia"": 5}",8.925,7.0,0.0
+Weapon designation,120,0.0,0.0,113,"{""T-55"": 5, ""Roland"": 2, ""M-46 130mm"": 2, ""D-30 122mm"": 2, ""Su-22/Fitter-H/J/K"": 1}",11.3,11.0,0.0
+Weapon description,120,0.0,0.0,50,"{""Tank"": 8, ""APC"": 7, ""Helicopter"": 7, ""Air surv radar"": 7, ""Light Helicopter"": 6}",12.108,12.0,0.0
+Year(s) delivered,120,0.0,0.266667,52,"{""1981"": 9, ""1983"": 6, ""1982-1985"": 6, ""1986-1989"": 5, ""1986-1987"": 5}",7.667,9.0,0.0
+Quantity delivered,120,0.0,1.0,71,"{""200"": 6, ""5"": 6, ""10"": 5, ""100"": 5, ""50"": 4}",2.4,2.0,0.0

@@ -1,0 +1,5 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year 1958,35,0.0,0.942857,19,"{""1969"": 3, ""1976"": 3, ""1962"": 3, ""1966"": 3, ""1967"": 3}",4.4,4.0,0.0
+Title {the rebel,35,0.0,0.0,34,"{""Perry Mason"": 2, ""Sea Hunt"": 1, ""Alice"": 1, ""O'Hara, U.S. Treasury"": 1, ""Mannix"": 1}",14.286,13.0,0.0
+Role,35,0.0,0.0,35,"{""Seminard"": 1, ""Judge Bernard Gluck"": 1, ""Hannibal Day"": 1, ""Al Connors"": 1, ""Hamilton Starr"": 1}",14.086,13.0,0.0
+Notes,35,0.0,0.0,6,"{""1 episode"": 29, ""2 episodes"": 2, ""3 episodes"": 1, ""8 episodes"": 1, ""9 episodes"": 1}",9.171,9.0,0.0

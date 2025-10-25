@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,95,0.0,1.0,41,"{""1956"": 10, ""1949"": 9, ""1957"": 7, ""1963"": 5, ""1992"": 4}",4.0,4.0,0.0
+Film,95,0.0,0.0,87,"{""Chandirani"": 3, ""Rani"": 2, ""Dharmapatni"": 2, ""Sarangadhara"": 2, ""Mangala"": 2}",12.916,12.0,0.0
+Language,95,0.021053,0.0,3,"{""Telugu"": 48, ""Tamil"": 41, ""Hindi"": 4}",5.516,6.0,0.0
+Character,95,0.294737,0.0,57,"{""Champa & Chandi"": 3, ""Laila"": 2, ""Mangala"": 2, ""Devadevi"": 2, ""Kanchana"": 2}",9.284,8.0,0.0
+Co-Star,95,0.336842,0.0,27,"{""A. Nageswara Rao"": 11, ""M. G. Ramachandran"": 9, ""Sivaji Ganesan"": 8, ""N. T. Rama Rao"": 7, ""M. K. Radha"": 3}",16.698,16.0,0.0
+Music,95,0.357895,0.0,24,"{""G. Ramanathan"": 11, ""C. R. Subburaman"": 9, ""S. Rajeswara Rao"": 7, ""K. V. Mahadevan"": 5, ""C. R. Subburaman, Assistants: M. S. Viswanathan & T. K. Ramamoorthy"": 3}",19.574,16.0,0.0
+Banner,95,0.326316,0.0,36,"{""Bharani Pictures"": 14, ""Gemini Studios"": 5, ""East India Film Company"": 2, ""Minerva Pictures"": 2, ""Vikram Productions"": 2}",15.891,16.0,0.0

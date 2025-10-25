@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Country,21,0.0,0.0,21,"{""Argentina (links to Habbo Spain)"": 1, ""Finland"": 1, ""Romania (links to Habbo English)"": 1, ""English-language UK & IE, US, CA, AU, NZ, SG, RU, MY, JP and PH merged into one"": 1, ""Peru (links to Habbo Spain)"": 1}",26.333,28.0,0.0
+URL,21,0.0,0.0,19,"{""habbo.es"": 2, ""habbo.com"": 2, ""habbo.fi"": 1, ""habbo.com.pe"": 1, ""habbo.nl"": 1}",9.524,8.0,0.0
+Opening date,21,0.142857,0.0,14,"{""July 2006"": 3, ""November 2004"": 2, ""May 2006"": 2, ""February 2006\nApril 2012"": 1, ""June 2004"": 1}",11.722,11.0,0.142857
+Closing date,21,0.761905,0.0,5,"{""June 2, 2010"": 1, ""May 5, 2010"": 1, ""August 24, 2007"": 1, ""April 16, 2009"": 1, ""January 2012"": 1}",12.8,12.0,0.761905
+Country.1,21,0.047619,0.0,20,"{""Bolivia (links to Habbo Spain)"": 1, ""Malaysia (links to Habbo English)"": 1, ""Poland (links to Habbo English)"": 1, ""India (links to Habbo English)"": 1, ""UK & Ireland (links to Habbo English due to the merge)"": 1}",31.0,31.5,0.0
+URL.1,21,0.047619,0.0,15,"{""habbo.es"": 4, ""habbo.com"": 3, ""habbo.com.my"": 1, ""habbo.com.mx"": 1, ""habbo.nl"": 1}",9.9,8.5,0.0
+Opening date.1,21,0.190476,0.0,14,"{""July 2006"": 3, ""February 2011"": 2, ""February 2004"": 1, ""August 2006"": 1, ""June 2004"": 1}",11.882,13.0,0.142857
+Closing date.1,21,0.714286,0.0,5,"{""June 10, 2010"": 2, ""February 6, 2009"": 1, ""June 4, 2010"": 1, ""October 4, 2010"": 1, ""January 2012"": 1}",13.5,13.0,0.619048

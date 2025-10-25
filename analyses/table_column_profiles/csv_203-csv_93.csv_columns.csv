@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Incumbent,12,0.0,0.0,12,"{""L. B. Lindsay"": 1, ""John Hailey"": 1, ""Sol Hasbrouck"": 1, ""Harry Fritchman"": 1, ""J. W. Robinson"": 1}",14.917,14.0,0.0
+Reason for Vacancy,12,0.0,0.0,12,"{""Disqualified, never took office"": 1, ""Never took office"": 1, ""Resigned November 5, 1885"": 1, ""Resigned May 25, 1912"": 1, ""Recalled June 1, 1916"": 1}",24.833,23.0,0.0
+Appointed Successor,12,0.0,0.0,12,"{""Henry E. Prickett"": 1, ""Charles Himrod"": 1, ""James W. Huston"": 1, ""Arthur Hodges"": 1, ""S. H. Hays"": 1}",15.583,14.0,0.0
+Date of Appointment,12,0.0,0.0,12,"{""November 19, 1867"": 1, ""July 10, 1871"": 1, ""December 28, 1885"": 1, ""May 25, 1912"": 1, ""June 6, 1916"": 1}",16.167,16.0,0.0
+Elected Successor,12,0.0,0.0,12,"{""Thomas B. Hart"": 1, ""George H. Twitchell"": 1, ""Peter J. Pefley"": 1, ""Arthur Hodges"": 1, ""S. H. Hays"": 1}",13.917,14.0,0.0
+Date of Election,12,0.0,0.0,12,"{""January 1868"": 1, ""July 8, 1872"": 1, ""July 1887"": 1, ""April 1, 1913"": 1, ""April 1917"": 1}",11.0,10.0,0.0

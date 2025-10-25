@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,21,0.0,0.857143,21,"{""Gold"": 1, ""12"": 1, ""20"": 1, ""19"": 1, ""18"": 1}",2.19,2.0,0.0
+Team,21,0.0,0.0,21,"{""Switzerland (SUI) Switzerland I"": 1, ""Great Britain (GBR) Great Britain I"": 1, ""Romania (ROU) Romania II"": 1, ""United States (USA) USA II"": 1, ""France (FRA) France I"": 1}",24.381,23.0,0.0
+Athletes,21,0.0,0.0,21,"{""Franz Kapus, Gottfried Diener, Robert Alt, & Heinrich Angst"": 1, ""Keith Schellenberg, Rollo Brandt, Ralph Raffles, & John Rainforth"": 1, ""Constantin Dragomir, Vasile Panait, Ion Staicu, & Gheorghe Moldoveanu"": 1, ""James Bickford, Donald Jacques, Lawrence McKillip, & Hubert Miller"": 1, ""André Robin, Pierre Bouvier, Jacques Panciroli, & Lucien Grosso"": 1}",64.762,64.0,0.0
+Run 1,21,0.047619,0.0,20,"{""1:18.00"": 1, ""1:17.69"": 1, ""1:20.97"": 1, ""1:20.00"": 1, ""1:20.72"": 1}",7.0,7.0,0.0
+Run 2,21,0.047619,0.0,20,"{""1:17.19"": 1, ""1:17.97"": 1, ""1:22.47"": 1, ""1:21.25"": 1, ""1:19.92"": 1}",7.0,7.0,0.0
+Run 3,21,0.047619,0.0,20,"{""1:17.09"": 1, ""1:18.13"": 1, ""1:21.22"": 1, ""1:20.95"": 1, ""1:22.51"": 1}",7.0,7.0,0.0
+Run 4,21,0.047619,0.0,20,"{""1:18.16"": 1, ""1:18.31"": 1, ""1:20.50"": 1, ""1:21.63"": 1, ""1:20.58"": 1}",7.0,7.0,0.0
+Final,21,0.0,0.0,21,"{""5:10.44"": 1, ""5:22.12"": 1, ""5:27.83"": 1, ""5:25.16"": 1, ""5:23.83"": 1}",7.0,7.0,0.0

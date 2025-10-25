@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,10,0.0,0.0,10,"{""Fiesch- -alp 1+2"": 1, ""Fiesch- -alp 3+4"": 1, ""Fiescheralp-Eggishorn"": 1, ""Heimat"": 1, ""Talegga"": 1}",11.0,9.5,0.0
+type,10,0.0,0.0,3,"{""surface lift"": 4, ""cable car"": 3, ""chairlift"": 3}",10.2,9.0,0.0
+"elevation
+(ground station)",10,0.0,1.0,8,"{""2208"": 2, ""2206"": 2, ""1074"": 1, ""1071"": 1, ""2225"": 1}",4.0,4.0,0.0
+"elevation
+(mountain station)",10,0.0,1.0,9,"{""2264"": 2, ""2227"": 1, ""2221"": 1, ""2879"": 1, ""2301"": 1}",4.0,4.0,0.0
+slope length,10,0.0,1.0,9,"{""218"": 2, ""2940"": 1, ""2937"": 1, ""1836"": 1, ""1144"": 1}",3.6,4.0,0.0
+"capacity
+(persons/hour)",10,0.0,1.0,9,"{""1200"": 2, ""800"": 1, ""270"": 1, ""495"": 1, ""1400"": 1}",3.7,4.0,0.0
+construction year,10,0.0,1.0,8,"{""1987"": 2, ""1981"": 2, ""1973"": 1, ""1966"": 1, ""1968"": 1}",4.0,4.0,0.0

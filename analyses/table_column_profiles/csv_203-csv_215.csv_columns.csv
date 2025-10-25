@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,6,0.0,1.0,5,"{""1981"": 2, ""1975"": 1, ""1979"": 1, ""1982"": 1, ""1983"": 1}",4.0,4.0,0.0
+Competition,6,0.0,0.0,3,"{""Asian Championships"": 3, ""Fukuoka Marathon"": 2, ""World Championships"": 1}",18.0,19.0,0.0
+Venue,6,0.0,0.0,4,"{""Tokyo, Japan"": 2, ""Fukuoka, Japan"": 2, ""Seoul, South Korea"": 1, ""Helsinki, Finland"": 1}",14.5,14.0,0.0
+Position,6,0.0,0.0,4,"{""1st"": 2, ""2nd"": 2, ""4th"": 1, ""28th"": 1}",3.167,3.0,0.0
+Event,6,0.0,0.0,3,"{""10,000m"": 3, ""Marathon"": 2, ""5,000m"": 1}",7.167,7.0,0.0
+Notes,6,0.0,0.0,6,"{""14:00.8"": 1, ""29:00.2"": 1, ""28:53.29"": 1, ""2:09:37"": 1, ""2:11:45"": 1}",7.333,7.0,0.0

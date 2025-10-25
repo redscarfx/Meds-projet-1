@@ -1,0 +1,15 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,7,0.0,1.0,4,"{""1976"": 2, ""1977"": 2, ""1979"": 2, ""1982"": 1}",4.0,4.0,0.0
+Title,7,0.0,0.0,7,"{""\\Right Back Where We Started From\\\""\"""": 1, ""\\Gotta Be the One\\\""\"""": 1, ""\\Love Hit Me\\\""\"""": 1, ""\\Will You Be My Lover\\\""\"""": 1, ""\\Lead Me On\\\""\"""": 1}",25.143,24.0,0.0
+UK,7,0.714286,0.0,2,"{""('75) #8"": 1, ""#11"": 1}",5.5,5.5,0.714286
+"US:
+Billboard
+Hot 100",7,0.428571,0.0,4,"{""#2"": 1, ""#53"": 1, ""#5"": 1, ""#73"": 1}",2.5,2.5,0.428571
+"US:
+Billboard
+R&B",7,0.571429,0.0,3,"{""#46"": 1, ""#37"": 1, ""#17"": 1}",3.0,3.0,0.571429
+"US:
+Billboard
+A/C",7,0.571429,0.0,3,"{""#5"": 1, ""#22"": 1, ""#1"": 1}",2.333,2.0,0.571429
+Australia,7,0.428571,0.0,4,"{""#4"": 1, ""#12"": 1, ""#22"": 1, ""#58"": 1}",2.75,3.0,0.428571
+Various,7,0.428571,0.0,4,"{""#3 (Netherlands), #2 (Belgium)\n#12 (Canada), #10 (France), #38 (Germany)\n#14 (Ireland), #6 (New Zealand)\n('78) #9 (Sweden)"": 1, ""#19 (New Zealand)"": 1, ""#44 (France)"": 1, ""#2 (Canada), #8 (New Zealand)"": 1}",45.0,23.0,0.428571

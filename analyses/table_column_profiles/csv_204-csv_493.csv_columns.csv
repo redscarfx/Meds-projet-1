@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Term (French),7,0.0,0.0,7,"{""Extra-rare or Blue (bleu)"": 1, ""Rare (saignant)"": 1, ""Medium rare (à point)"": 1, ""Medium (demi-anglais)"": 1, ""Medium well (cuit)"": 1}",22.571,21.0,0.0
+Description,7,0.0,0.0,7,"{""very red and cold"": 1, ""cold red center; soft"": 1, ""warm red center; firmer"": 1, ""pink and firm"": 1, ""small amount of pink in the center"": 1}",22.714,23.0,0.0
+Temperature range,7,0.0,0.0,7,"{""46–49 °C"": 1, ""52–55 °C"": 1, ""55–60 °C"": 1, ""60–65 °C"": 1, ""65–69 °C"": 1}",8.143,8.0,0.0
+Temperature range.1,7,0.0,0.0,7,"{""115–120 °F"": 1, ""125–130 °F"": 1, ""130–140 °F"": 1, ""140–150 °F"": 1, ""150–155 °F"": 1}",9.714,10.0,0.0
+USDA recommended,7,0.428571,0.0,4,"{""145 °F"": 1, ""160 °F"": 1, ""170 °F"": 1, ""300 °F"": 1}",6.0,6.0,0.0

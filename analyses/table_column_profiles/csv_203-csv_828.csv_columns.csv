@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,10,0.0,0.0,10,"{""1959-09-26"": 1, ""1959-10-03"": 1, ""1959-10-09"": 1, ""1959-10-17"": 1, ""1959-10-24"": 1}",10.0,10.0,0.0
+Opponent#,10,0.0,0.0,10,"{""at #16 Georgia Tech*"": 1, ""#15 Navy*"": 1, ""Missouri*"": 1, ""at Rice"": 1, ""Texas Tech"": 1}",11.7,9.5,0.0
+Rank#,10,0.7,0.0,3,"{""#6"": 1, ""#15"": 1, ""#16"": 1}",2.667,3.0,0.0
+Site,10,0.0,0.0,6,"{""Cotton Bowl • Dallas, TX"": 5, ""Grant Field • Atlanta, GA"": 1, ""Rice Stadium • Houston, TX"": 1, ""Kyle Field • College Station, TX"": 1, ""Floyd Casey Stadium • Waco, TX"": 1}",27.2,24.5,0.0
+Result,10,0.0,0.0,10,"{""L 12-16"": 1, ""W 20-7"": 1, ""W 23-2"": 1, ""T 13-13"": 1, ""W 21-13"": 1}",6.6,7.0,0.0
+Attendance,10,0.0,0.0,9,"{""65,000"": 2, ""43,000"": 1, ""46,000"": 1, ""33,000"": 1, ""30,000"": 1}",6.0,6.0,0.0

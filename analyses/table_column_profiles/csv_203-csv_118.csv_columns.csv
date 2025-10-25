@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Game,16,0.0,1.0,16,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.438,1.0,0.0
+Date,16,0.0,0.0,16,"{""January 8, 2005"": 1, ""January 22, 2005"": 1, ""January 28, 2005"": 1, ""January 29, 2005"": 1, ""February 4, 2005"": 1}",14.75,14.0,0.0
+Opponent,16,0.0,0.0,14,"{""@ Arizona Sting"": 2, ""@ Colorado Mammoth"": 2, ""Philadelphia Wings"": 1, ""Rochester Knighthawks"": 1, ""@ Minnesota Swarm"": 1}",16.688,17.0,0.0
+Location,16,0.0,0.0,7,"{""Arrowhead Pond"": 8, ""Jobing.com Arena"": 2, ""Pepsi Center"": 2, ""Xcel Energy Center"": 1, ""HSBC Arena"": 1}",14.938,14.0,0.0
+Score,16,0.0,0.0,15,"{""L 12–13"": 2, ""W 13–10"": 1, ""L 11–15"": 1, ""W 8–7"": 1, ""L 10–17"": 1}",6.625,7.0,0.0
+OT,16,0.875,0.0,1,"{""OT"": 2}",2.0,2.0,0.0
+Attendance,16,0.0,0.0,16,"{""5,732"": 1, ""4,053"": 1, ""12,514"": 1, ""4,159"": 1, ""6,313"": 1}",5.188,5.0,0.0
+Record,16,0.0,0.0,16,"{""1–0"": 1, ""1–1"": 1, ""2–1"": 1, ""2–2"": 1, ""2–3"": 1}",3.188,3.0,0.0

@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Number,479,0.0,0.0,347,"{""SR-67"": 4, ""SR-161"": 3, ""SR-240"": 3, ""SR-205"": 3, ""SR-58"": 3}",5.622,6.0,0.0
+South or west terminus,479,0.286013,0.0,306,"{""Idaho state line near Snowville"": 4, ""I-15"": 4, ""Arizona state line near St. George"": 3, ""SR-114 in Orem"": 3, ""US-50 at Crescent Junction"": 3}",21.959,20.0,0.0
+North or east terminus,479,0.292276,0.0,297,"{""US-89"": 6, ""Wyoming state line near Evanston, Wyoming"": 5, ""I-15"": 4, ""Colorado state line near Fruita, Colorado"": 4, ""US-91 in Logan"": 3}",22.097,20.0,0.0
+Length (mi),479,0.446764,0.553236,253,"{""196.68"": 5, ""400.592"": 2, ""119.773"": 2, ""27.272"": 2, ""57.075"": 2}",5.396,5.0,0.0
+Length (km),479,0.446764,0.553236,253,"{""316.526"": 5, ""644.69"": 2, ""192.756"": 2, ""43.89"": 2, ""91.853"": 2}",5.528,5.0,0.0
+Formed,479,0.0,0.56785,55,"{""1930s"": 188, ""1969"": 39, ""1941"": 28, ""1977"": 25, ""1920s"": 17}",4.432,4.0,0.0
+Deleted,479,0.0,0.482255,43,"{""current"": 243, ""1969"": 93, ""1977"": 30, ""1953"": 27, ""1962"": 8}",5.549,7.0,0.0
+Notes,479,0.780793,0.0,93,"{""Formerly part of US-91"": 4, ""No longer part of the state highway network"": 3, ""Now part of SR-30"": 3, ""Legislative designation for roads on the campus, now SR-291"": 3, ""No longer part of the state route system"": 2}",36.943,32.0,0.0

@@ -1,0 +1,16 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Season,16,0.0,0.0,16,"{""2014-2015"": 1, ""2013-2014"": 1, ""2012-2013"": 1, ""2011-2012"": 1, ""2010-2011"": 1}",9.0,9.0,0.0
+"A
+Technical",16,0.0,0.0,16,"{""Creature Feature"": 1, ""Dig In"": 1, ""In the Zone"": 1, ""Assembly Required"": 1, ""Unidentified Moving Object"": 1}",17.375,16.5,0.0
+"B
+Scientific",16,0.0,0.0,16,"{""Making Waves"": 1, ""Going to Extremes"": 1, ""Windvisible"": 1, ""The Solar Stage"": 1, ""Spinning a Tale"": 1}",15.5,15.0,0.0
+"C
+Fine Arts",16,0.0,0.0,16,"{""Feary Tales"": 1, ""Laugh Art Loud"": 1, ""In Disguise"": 1, ""Coming Attractions"": 1, ""Triple Take Road Show"": 1}",16.688,18.0,0.0
+"D
+Improvisational",16,0.0,0.0,16,"{""The Improv Games"": 1, ""Pandemonium!"": 1, ""Change in RealiTEE"": 1, ""News To Me"": 1, ""Mythology Mission"": 1}",14.25,14.5,0.0
+"E
+Structural",16,0.0,0.0,16,"{""Lose to Win"": 1, ""The Tension Builds"": 1, ""twist-o-rama"": 1, ""Hold It!"": 1, ""Verses! Foiled Again!"": 1}",13.688,12.5,0.0
+Rising Stars!®,16,0.1875,0.0,13,"{""Animal Mish Mash"": 1, ""Circus!"": 1, ""ROY G BIV"": 1, ""Built to Last"": 1, ""Big Bug's Bad Day"": 1}",14.231,14.0,0.0
+"pO
+projectOUTREACH®",16,0.5625,0.0,7,"{""Brand Aid"": 1, ""Pitch and Play"": 1, ""Real to Reel"": 1, ""The World Canvas"": 1, ""Dynamic Networks"": 1}",13.0,13.0,0.0
+University Level,16,0.9375,0.0,1,"{""It's a Stretch"": 1}",14.0,14.0,0.0

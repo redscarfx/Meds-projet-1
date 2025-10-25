@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,11,0.0,1.0,11,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.182,1.0,0.0
+Date,11,0.0,0.0,9,"{""10 October 1999"": 2, ""13 February 2000"": 2, ""10 January 1996"": 1, ""30 August 1996"": 1, ""12 October 1997"": 1}",15.182,15.0,0.0
+Venue,11,0.0,0.0,5,"{""Los Angeles Memorial Coliseum, Los Angeles, United States"": 4, ""Qualcomm Stadium, San Diego, United States"": 3, ""Commonwealth Stadium, Edmonton, Canada"": 2, ""Edison International Field, Anaheim, United States"": 1, ""Bridgetown, Barbados"": 1}",45.455,42.0,0.0
+Opponent,11,0.0,0.0,8,"{""Mexico"": 2, ""Haiti"": 2, ""Costa Rica"": 2, ""Honduras"": 1, ""Panama"": 1}",7.545,8.0,0.0
+Score,11,0.0,0.0,6,"{""1-0"": 4, ""2-0"": 2, ""1-1"": 2, ""3-1"": 1, ""2-1"": 1}",3.0,3.0,0.0
+Result,11,0.0,0.0,5,"{""2-2"": 4, ""2-1"": 3, ""3-1"": 2, ""2-0"": 1, ""1-0"": 1}",3.0,3.0,0.0
+Competition,11,0.0,0.0,5,"{""2000 CONCACAF Gold Cup"": 4, ""2000 CONCACAF Gold Cup qualification play off"": 3, ""1998 FIFA World Cup qualification"": 2, ""1996 CONCACAF Gold Cup"": 1, ""Friendly match"": 1}",29.545,22.0,0.0

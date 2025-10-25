@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Week,17,0.0,1.0,17,"{""1"": 1, ""10"": 1, ""16"": 1, ""15"": 1, ""14"": 1}",1.471,1.0,0.0
+Date,17,0.0,0.0,17,"{""September 7, 1998"": 1, ""November 8, 1998"": 1, ""December 21, 1998"": 1, ""December 13, 1998"": 1, ""December 6, 1998"": 1}",15.941,17.0,0.0
+TV Time,17,0.0,0.0,7,"{""CBS 2:00 pm MT"": 6, ""ABC 7:00 pm MT"": 3, ""CBS 11:00 am MT"": 3, ""FOX 2:00 pm MT"": 2, ""Bye"": 1}",13.588,14.0,0.0
+Opponent,17,0.0,0.0,17,"{""New England Patriots"": 1, ""San Diego Chargers"": 1, ""at Miami Dolphins"": 1, ""at New York Giants"": 1, ""Kansas City Chiefs"": 1}",17.647,18.0,0.0
+Result,17,0.0,0.0,17,"{""W 27–21"": 1, ""W 27–10"": 1, ""L 21–31"": 1, ""L 16–20"": 1, ""W 35–31"": 1}",6.706,7.0,0.0
+Game site,17,0.0,0.0,12,"{""Mile High Stadium (CBS)"": 5, ""Mile High Stadium (FOX)"": 2, ""Mile High Stadium (ABC)"": 1, ""Oakland-Alameda County Coliseum (CBS)"": 1, ""FedEx Field (CBS)"": 1}",21.412,23.0,0.0
+Record,17,0.0,0.0,17,"{""1–0"": 1, ""9–0"": 1, ""13–2"": 1, ""13–1"": 1, ""13–0"": 1}",3.412,3.0,0.0
+Attendance,17,0.0,0.0,17,"{""74,745"": 1, ""74,925"": 1, ""74,363"": 1, ""72,336"": 1, ""74,962"": 1}",5.824,6.0,0.0

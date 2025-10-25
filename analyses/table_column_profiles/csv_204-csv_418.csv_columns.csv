@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Date,19,0.0,0.0,14,"{""April 7"": 2, ""April 13"": 2, ""April 14"": 2, ""April 21"": 2, ""April 28"": 2}",7.737,8.0,0.0
+Opponent,19,0.0,0.0,12,"{""vs. Chapman"": 3, ""San Diego"": 2, ""at San Diego"": 2, ""vs. UC Irvine"": 2, ""Pepperdine"": 2}",12.526,12.0,0.0
+Score,19,0.0,0.0,19,"{""5–1"": 1, ""12–6"": 1, ""7–1"": 1, ""6–9"": 1, ""7–2"": 1}",3.474,3.0,0.0
+Overall Record,19,0.0,0.0,19,"{""28–6"": 1, ""35–8–1"": 1, ""39–11–1"": 1, ""38–11–1"": 1, ""38–10–1"": 1}",6.263,6.0,0.0
+SCBA Record,19,0.315789,0.0,13,"{""4–0"": 1, ""4–0–1"": 1, ""5–0–1"": 1, ""6–0–1"": 1, ""7–0–1"": 1}",5.154,5.0,0.315789

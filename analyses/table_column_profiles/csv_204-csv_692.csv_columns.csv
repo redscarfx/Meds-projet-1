@@ -1,0 +1,4 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Publication,9,0.0,0.0,9,"{""1up.com"": 1, ""Weekly Famitsu"": 1, ""GamePro.com"": 1, ""GameSpot"": 1, ""Hardcore Gamer Magazine"": 1}",11.889,11.0,0.0
+Score,9,0.0,0.0,9,"{""B"": 1, ""36 of 40"": 1, ""6.5 of 10"": 1, ""7.5 of 10"": 1, ""9.5 of 10"": 1}",7.556,9.0,0.0
+Review,9,0.555556,0.0,1,"{""print"": 4}",5.0,5.0,0.555556

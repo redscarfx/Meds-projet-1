@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+#,57,0.0,1.0,57,"{""1"": 1, ""30"": 1, ""32"": 1, ""33"": 1, ""34"": 1}",1.842,2.0,0.0
+Stadium,57,0.0,0.0,57,"{""Wembley Stadium"": 1, ""Tropicana Field"": 1, ""Miller Park"": 1, ""Minute Maid Park"": 1, ""Nagoya Dome"": 1}",15.298,13.0,0.0
+Capacity,57,0.0,0.0,54,"{""10,000"": 2, ""65,000"": 2, ""30,000"": 2, ""90,000"": 1, ""32,500"": 1}",5.947,6.0,0.0
+City,57,0.0,0.0,56,"{""Houston, Texas"": 2, ""London, England"": 1, ""Dunedin"": 1, ""Milwaukee, Wisconsin"": 1, ""Nagoya"": 1}",13.456,14.0,0.0
+Country,57,0.0,0.0,17,"{""United States"": 27, ""Japan"": 8, ""Canada"": 3, ""Germany"": 3, ""Sweden"": 2}",9.737,11.0,0.0
+Domed or Retractable roof,57,0.0,0.0,5,"{""RR"": 29, ""D"": 23, ""RR; retractable playing surface"": 3, ""RR *only covers seats, playing surface uncovered at all times"": 1, ""D; retractable playing surface"": 1}",4.649,2.0,0.0

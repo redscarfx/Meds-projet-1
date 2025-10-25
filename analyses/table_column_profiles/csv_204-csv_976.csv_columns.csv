@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Pos,23,0.0,0.608696,16,"{""Ret"": 8, ""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1}",1.957,2.0,0.0
+Driver,23,0.0,0.0,23,"{""Jim Clark"": 1, ""Innes Ireland"": 1, ""Bob Anderson"": 1, ""Tony Settember"": 1, ""Jo Bonnier"": 1}",12.478,13.0,0.0
+Entrant,23,0.0,0.0,16,"{""Team Lotus"": 3, ""Owen Racing Organisation"": 2, ""Brabham Racing Organisation"": 2, ""Reg Parnell (Racing)"": 2, ""Scirocco-Powell (Racing Cars)"": 2}",19.217,20.0,0.0
+Constructor,23,0.0,0.0,9,"{""Lotus-Climax"": 5, ""Lotus-BRM"": 5, ""Cooper-Climax"": 3, ""BRM"": 2, ""Brabham-Climax"": 2}",10.435,12.0,0.0
+Time/Retired,23,0.0,0.0,21,"{""72 laps"": 2, ""69 laps"": 2, ""2.02:58.6"": 1, ""Ignition"": 1, ""Gearbox"": 1}",10.391,8.0,0.0
+Grid,23,0.043478,0.956522,22,"{""1"": 1, ""3"": 1, ""22"": 1, ""8"": 1, ""4"": 1}",1.591,2.0,0.043478

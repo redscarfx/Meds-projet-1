@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Component,18,0.0,0.0,18,"{""CPU"": 1, ""RAM"": 1, ""Keyboard"": 1, ""Dongle"": 1, ""Ethernet"": 1}",7.0,6.0,0.0
+Model 01,18,0.111111,0.111111,15,"{""1.1"": 2, ""Transmeta Crusoe 1 GHz"": 1, ""256MB DDR"": 1, ""20GB HDD"": 1, ""5\\ Transflective 800x480 LCD\"""": 1}",11.188,7.5,0.0
+Model 01+,18,0.111111,0.111111,16,"{""Transmeta Crusoe 1 GHz"": 1, ""512MB DDR"": 1, ""30GB HDD"": 1, ""5\\ Transflective 800x480 LCD\"""": 1, ""2.0"": 1}",12.5,8.5,0.0
+Model 02,18,0.0,0.111111,17,"{""2.0"": 2, ""Via C7M ULV 1.6 GHz"": 1, ""4,500 mAh or 9,000 mAh"": 1, ""58 key"": 1, ""RJ45 & VGA"": 1}",13.5,10.5,0.0
+Model e2,18,0.0,0.111111,17,"{""2.0"": 2, ""Via C7M ULV 1.6 GHz"": 1, ""4,500 mAh or 9,000 mAh"": 1, ""58 key"": 1, ""RJ45 & VGA"": 1}",12.278,9.5,0.0
+Model 2+ (Pre-production),18,0.0,0.111111,17,"{""2.0"": 2, ""Intel Atom Z540 1.86 GHz"": 1, ""4,500 mAh or 9,000 mAh"": 1, ""58 key"": 1, ""unknown"": 1}",13.889,11.5,0.0
+model 03 (China Copy),18,0.0,0.111111,16,"{""unknown"": 3, ""Intel atom Z550 1.2 GHz dual core"": 1, ""2GB DDR2"": 1, ""120GB HDD or 64GB SSD"": 1, ""4.8\\ active matrix 1024X600 OLED\"""": 1}",13.889,8.0,0.0

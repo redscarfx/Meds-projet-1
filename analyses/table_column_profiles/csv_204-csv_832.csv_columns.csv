@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Name,23,0.0,0.0,20,"{""Eric Wynalda"": 2, ""Colin Clarke"": 2, ""Marc Dos Santos"": 2, ""José Manuel Abundis"": 1, ""Juergen Sommer"": 1}",14.478,14.0,0.0
+Nationality,23,0.0,0.0,10,"{""United States"": 6, ""Canada"": 5, ""England"": 4, ""Netherlands"": 2, ""Mexico"": 1}",9.348,8.0,0.0
+Club,23,0.0,0.0,12,"{""Atlanta Silverbacks"": 5, ""FC Edmonton"": 3, ""Carolina RailHawks"": 2, ""Fort Lauderdale Strikers"": 2, ""Montreal Impact"": 2}",17.478,19.0,0.0
+From,23,0.0,1.0,7,"{""2011"": 6, ""2012"": 5, ""2010"": 4, ""2013"": 4, ""2009"": 2}",4.0,4.0,0.0
+Until,23,0.0,0.565217,5,"{""Present"": 10, ""2011"": 5, ""2012"": 4, ""2013"": 3, ""2010"": 1}",5.304,4.0,0.0

@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,6,0.0,1.0,5,"{""1998"": 2, ""1994"": 1, ""1995"": 1, ""1997"": 1, ""1999"": 1}",4.0,4.0,0.0
+Competition,6,0.0,0.0,4,"{""Commonwealth Games"": 2, ""World Championships"": 2, ""African Championships"": 1, ""All-Africa Games"": 1}",18.5,18.5,0.0
+Venue,6,0.0,0.0,6,"{""Victoria, Canada"": 1, ""Gothenburg, Sweden"": 1, ""Athens, Greece"": 1, ""Kuala Lumpur, Malaysia"": 1, ""Dakar, Senegal"": 1}",18.333,17.0,0.0
+Position,6,0.0,0.0,4,"{""6th"": 2, ""2nd"": 2, ""7th"": 1, ""3rd"": 1}",3.0,3.0,0.0
+Notes,6,0.0,0.0,2,"{""400 m h"": 5, ""4x400 m relay"": 1}",8.0,7.0,0.0

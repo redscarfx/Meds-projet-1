@@ -1,0 +1,3 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+"No. in
+series,""No. in",27,0.0,0.0,27,"{""season\"",\""Title\"",\""Directed by\"",\""Written by\"",\""Original air date\"",\""Production"": 1, ""137,\""13\"",\""\\\""I, Clownius\\\""\"",\""Shelley Jensen\"",\""Story: David Wyatt"": 1, ""147,\""23\"",\""\\\""I, Done\\\"" (Part 1)\"",\""Shelley Jensen\"",\""Jeff Pollack\"",\""May 20, 1996\"",\""60122\"""": 1, ""146,\""22\"",\""\\\""Eye, Tooth\\\""\"",\""Shelley Jensen\"",\""Adam Markowitz\"",\""May 13, 1996\"",\""60118\"""": 1, ""145,\""21\"",\""\\\""I, Stank Hole in One\\\""\"",\""Werner Walian\"",\""Matt Tarses & Michael Soccio\"",\""May 6, 1996\"",\""60121\"""": 1}",90.148,91.0,0.0

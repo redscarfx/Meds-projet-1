@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Outcome,14,0.0,0.0,2,"{""Winner"": 10, ""Runner–up"": 4}",6.857,6.0,0.0
+No.,14,0.0,1.0,10,"{""1.0"": 2, ""2.0"": 2, ""3.0"": 2, ""4.0"": 2, ""5.0"": 1}",3.071,3.0,0.0
+Date,14,0.0,0.0,13,"{""11 April 2009"": 2, ""2 September 2001"": 1, ""27 January 2002"": 1, ""17 February 2002"": 1, ""31 March 2002"": 1}",14.214,14.5,0.0
+Tournament,14,0.0,0.0,14,"{""Mostar"": 1, ""Courmayeur"": 1, ""Bergamo"": 1, ""Rome – Parioli"": 1, ""Gorizia"": 1}",8.286,8.0,0.0
+Surface,14,0.0,0.0,2,"{""Hard"": 9, ""Clay"": 5}",4.0,4.0,0.0
+Opponent in the final,14,0.0,0.0,14,"{""Adriana Basaric"": 1, ""Stefanie Weis"": 1, ""Rita Degli-Esposti"": 1, ""Dinara Safina"": 1, ""Ainhoa Goni-Blanco"": 1}",16.357,17.0,0.0
+Score,14,0.0,0.0,13,"{""6–1, 6–2"": 2, ""4–6, 3–6"": 1, ""4–6, 7–6(7–3), 6–4"": 1, ""7–6(7–3), 2–6, 3–6"": 1, ""6–7(4–7), 1–6"": 1}",10.571,8.0,0.0

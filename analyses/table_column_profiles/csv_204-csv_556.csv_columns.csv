@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,37,0.081081,0.918919,33,"{""14.0"": 2, ""4.0"": 1, ""29.0"": 1, ""24.0"": 1, ""25.0"": 1}",3.824,4.0,0.0
+Athlete,37,0.0,0.0,37,"{""Nataliya Petrusyova"": 1, ""Irina Kuleshova-Kovrova"": 1, ""Makiko Nagaya"": 1, ""Sigrid Smuda"": 1, ""Kathy Vogt"": 1}",14.595,14.0,0.0
+Country,37,0.0,0.0,16,"{""Soviet Union"": 3, ""United States"": 3, ""East Germany"": 3, ""Netherlands"": 3, ""Canada"": 3}",9.189,11.0,0.0
+Time,37,0.0,0.0,36,"{""1:28.80"": 2, ""1:24.10"": 1, ""1:30.13"": 1, ""1:30.29"": 1, ""1:30.33"": 1}",7.0,7.0,0.0
+Notes,37,0.972973,0.0,1,"{""OR"": 1}",2.0,2.0,0.0

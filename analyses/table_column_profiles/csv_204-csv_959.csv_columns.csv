@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Club,10,0.0,0.0,10,"{""Bundoora Football Club"": 1, ""Eltham Football Club"": 1, ""Greensborough Football Club"": 1, ""Heidelberg Football Club"": 1, ""Lalor Football Club"": 1}",25.1,24.5,0.0
+Founded,10,0.0,1.0,10,"{""1974"": 1, ""1909"": 1, ""1905"": 1, ""1876"": 1, ""1955"": 1}",4.0,4.0,0.0
+Nickname,10,0.0,0.0,10,"{""Bulls"": 1, ""Panthers"": 1, ""Boro"": 1, ""Tigers"": 1, ""Bloods"": 1}",6.8,7.0,0.0
+Location,10,0.0,0.0,10,"{""Bundoora"": 1, ""Eltham"": 1, ""Greensborough"": 1, ""Heidelberg"": 1, ""Lalor"": 1}",9.6,9.0,0.0
+Home Ground,10,0.0,0.0,10,"{""Yulong Reserve"": 1, ""Central Park"": 1, ""War Memorial Park"": 1, ""Warringal Park"": 1, ""Lalor Reserve"": 1}",16.3,14.0,0.0
+Entered Competition,10,0.0,1.0,9,"{""1922"": 2, ""1981"": 1, ""1923"": 1, ""1968"": 1, ""1947"": 1}",4.0,4.0,0.0
+Most recent Promotion,10,0.2,0.8,8,"{""1982.0"": 1, ""2003.0"": 1, ""2007.0"": 1, ""1983.0"": 1, ""2011.0"": 1}",6.0,6.0,0.0

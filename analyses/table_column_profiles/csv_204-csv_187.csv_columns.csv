@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Type,10,0.0,0.0,10,"{""Flyback"": 1, ""Ringing choke converter (RCC)"": 1, ""Half-forward"": 1, ""Forward"": 1, ""Resonant forward"": 1}",14.5,11.5,0.0
+"Power
+[W]",10,0.1,0.0,8,"{""0–250"": 2, ""0–150"": 1, ""100-200"": 1, ""0–60"": 1, ""100–1,000"": 1}",6.333,6.0,0.0
+Relative cost,10,0.2,0.6,5,"{""1.0"": 3, "">2.0"": 2, ""1.2"": 1, ""1.75"": 1, ""1.9"": 1}",3.375,3.0,0.0
+"Input range
+[V]",10,0.2,0.0,5,"{""50–1,000"": 3, ""5–600"": 2, ""5–500"": 1, ""60–200"": 1, ""60–400"": 1}",6.375,6.0,0.0
+Energy storage,10,0.0,0.0,5,"{""Inductor"": 5, ""Inductor and capacitor"": 2, ""Mutual Inductors"": 1, ""Transformer"": 1, ""Two capacitors and two inductors"": 1}",14.3,9.5,0.0
+Features,10,0.5,0.0,5,"{""Isolated form of the buck-boost converter."": 1, ""Low-cost self-oscillating flyback variant."": 1, ""Isolated form of buck converter"": 1, ""Single rail input, unregulated output, high efficiency, low EMI."": 1, ""Very efficient use of transformer, used for highest powers."": 1}",47.6,42.0,0.0

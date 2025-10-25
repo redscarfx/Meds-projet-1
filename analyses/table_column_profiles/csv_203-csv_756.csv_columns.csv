@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,16,0.0,1.0,9,"{""2003"": 4, ""2004"": 3, ""2001"": 2, ""2007"": 2, ""2000"": 1}",4.0,4.0,0.0
+Title,16,0.0,0.0,16,"{""Youth Y2K\n青春@Y2K"": 1, ""The Monkey King: Quest for the Sutra\n齊天大聖孫悟空"": 1, ""藍寶石的夜空"": 1, ""一Twins零一夜"": 1, ""Triumph in the Skies\n衝上雲霄"": 1}",17.938,18.5,0.0
+Role,16,0.125,0.0,11,"{""Ah Sa"": 4, ""Cheng Shasha"": 1, ""Purple Orchid"": 1, ""Shek Po-yi"": 1, ""Charlene"": 1}",12.714,11.0,0.0
+Network,16,0.375,0.0,3,"{""TVB"": 7, ""now.com.hk"": 2, ""CTS"": 1}",4.4,3.0,0.0
+Notes,16,0.5,0.0,6,"{""Guest star"": 3, ""Eason Chan's music video"": 1, ""Music video"": 1, ""Cameo"": 1, ""Appearance in episode 2"": 1}",19.25,10.5,0.0

@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Ship,16,0.0,0.0,16,"{""Queen Mary"": 1, ""Mauretania"": 1, ""Queen Elizabeth"": 1, ""Media"": 1, ""Parthia"": 1}",11.125,9.5,0.0
+Built,16,0.0,1.0,14,"{""1947"": 2, ""1969"": 2, ""1936"": 1, ""1939"": 1, ""1940"": 1}",4.0,4.0,0.0
+In service for Cunard,16,0.0,0.0,15,"{""1947–1961"": 2, ""1936–1967"": 1, ""1939–1965"": 1, ""1946–1968"": 1, ""1949–1968"": 1}",10.25,9.0,0.0
+Type,16,0.0,0.0,6,"{""express"": 4, ""intermediate"": 4, ""cargo liner"": 3, ""intermediate\ncruise"": 2, ""container ship"": 2}",11.312,11.5,0.0
+Tonnage,16,0.0,0.0,13,"{""21,800 GRT"": 3, ""13,350 GRT"": 2, ""80,750 GRT"": 1, ""37,750 GRT"": 1, ""83,650 GRT"": 1}",10.625,10.0,0.0
+Notes,16,0.0,0.0,16,"{""Blue Riband, sold 1967, now a stationary hotel ship"": 1, ""scrapped 1965"": 1, ""WWII troopship 1940–1945, sold 1968, destroyed by fire 1972"": 1, ""sold to Cogedar Line 1961, scrapped 1989"": 1, ""sold to P&O 1961, renamed Remuera, scrapped 1969"": 1}",39.375,39.5,0.0

@@ -1,0 +1,11 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Res.,28,0.0,0.0,2,"{""Win"": 21, ""Loss"": 7}",3.25,3.0,0.0
+Record,28,0.0,0.0,28,"{""21-7"": 1, ""21-6"": 1, ""2–0"": 1, ""3–0"": 1, ""4–0"": 1}",3.643,4.0,0.0
+Opponent,28,0.0,0.0,25,"{""Hayate Usui"": 2, ""Antonio Carvalho"": 2, ""Akitoshi Tamura"": 2, ""Kenji Osawa"": 1, ""Marc Duncan"": 1}",13.571,13.0,0.0
+Method,28,0.0,0.0,9,"{""Decision (unanimous)"": 11, ""TKO (punches)"": 6, ""Submission (rear-naked choke)"": 3, ""KO (punch)"": 2, ""Decision (majority)"": 2}",17.893,19.5,0.0
+Event,28,0.0,0.0,28,"{""Vale Tudo Japan 2012"": 1, ""Fight For Japan: Genki Desu Ka Omisoka 2011"": 1, ""Shooto: Who is Young Leader!"": 1, ""Shooto: 3/22 in Korakuen Hall"": 1, ""Shooto: 7/16 in Korakuen Hall"": 1}",26.75,26.0,0.0
+Date,28,0.0,0.0,28,"{""December 24, 2012"": 1, ""December 31, 2011"": 1, ""October 31, 2003"": 1, ""March 22, 2004"": 1, ""July 16, 2004"": 1}",14.75,15.5,0.0
+Round,28,0.0,1.0,5,"{""3"": 9, ""2"": 9, ""1"": 8, ""5"": 1, ""4"": 1}",1.0,1.0,0.0
+Time,28,0.0,0.0,14,"{""5:00"": 14, ""4:17"": 2, ""6:51"": 1, ""4:27"": 1, ""4:11"": 1}",4.0,4.0,0.0
+Location,28,0.0,0.0,5,"{""Tokyo, Japan"": 21, ""Yokohama, Japan"": 3, ""Saitama, Japan"": 2, ""Tokyo, Japan, Japan"": 1, ""Nagoya, Japan"": 1}",12.75,12.0,0.0
+Notes,28,0.785714,0.0,4,"{""Lost Shooto Lightweight (143 lbs.) Championship"": 2, ""Won Shooto Lightweight (143 lbs.) Championship"": 2, ""For DREAM Featherweight Championship"": 1, ""Defended Shooto Lightweight (143 lbs.) Championship"": 1}",45.5,46.5,0.0

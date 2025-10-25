@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+State,35,0.0,0.0,35,"{""Alabama"": 1, ""Pennsylvania"": 1, ""New York"": 1, ""North Carolina"": 1, ""North Dakota"": 1}",10.086,8.0,0.0
+Incumbent,35,0.0,0.0,35,"{""Lister Hill"": 1, ""James H. Duff"": 1, ""Herbert H. Lehman"": 1, ""Sam J. Ervin, Jr."": 1, ""Milton R. Young"": 1}",15.914,16.0,0.0
+Party,35,0.0,0.0,2,"{""Democratic"": 18, ""Republican"": 17}",10.0,10.0,0.0
+Result,35,0.0,0.0,9,"{""Re-elected"": 25, ""Lost re-election\nDemocratic gain"": 3, ""Retired\nDemocratic gain"": 1, ""Retired\nDemocratic hold"": 1, ""Lost re-election\nRepublican gain"": 1}",20.143,10.0,0.0
+Candidates,35,0.0,0.0,35,"{""Lister Hill (Democratic) Unopposed"": 1, ""Joseph S. Clark (Democratic) 50.1%\nJames H. Duff (Republican) 49.7%"": 1, ""Jacob K. Javits (Republican) 53.3%\nRobert F. Wagner, Jr. (Democratic) 46.7%"": 1, ""Sam J. Ervin, Jr. (Democratic) 66.6%\nJoel A. Johnson (Republican) 33.4%"": 1, ""Milton R. Young (Republican) 63.6%\nQuentin N. Burdick (Democratic) 36.0%"": 1}",65.371,71.0,0.0

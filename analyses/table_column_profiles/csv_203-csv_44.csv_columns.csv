@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Stage,25,0.0,0.76,25,"{""1"": 1, ""12"": 1, ""22A"": 1, ""21"": 1, ""20"": 1}",1.84,2.0,0.0
+Date,25,0.0,0.0,22,"{""14 July"": 2, ""24 June"": 2, ""1 July"": 2, ""4 July"": 1, ""13 July"": 1}",6.64,7.0,0.0
+Route,25,0.0,0.0,25,"{""Rennes – Lisieux"": 1, ""Montpellier – Perpignan"": 1, ""Orléans – Versailles"": 1, ""Clermont-Ferrand – Orléans"": 1, ""Brive – Puy de Dôme"": 1}",18.28,18.0,0.0
+Terrain,25,0.0,0.0,4,"{""Plain stage"": 14, ""Stage with mountain(s)"": 7, ""Individual time trial"": 3, ""Team time trial"": 1}",15.44,11.0,0.0
+Length,25,0.0,0.0,21,"{""215 km (134 mi)"": 2, ""21 km (13 mi)"": 2, ""187 km (116 mi)"": 2, ""197 km (122 mi)"": 2, ""292 km (181 mi)"": 1}",14.64,15.0,0.0
+Winner,25,0.0,0.0,15,"{""Edward Sels (BEL)"": 4, ""Jacques Anquetil (FRA)"": 4, ""André Darrigade (FRA)"": 2, ""Jan Janssen (NED)"": 2, ""Federico Bahamontes (ESP)"": 2}",19.48,19.0,0.0

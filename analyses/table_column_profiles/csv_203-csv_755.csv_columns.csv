@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Singing position,11,0.0,1.0,11,"{""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1, ""5"": 1}",1.182,1.0,0.0
+Song title,11,0.0,0.0,11,"{""Das tut unheimlich weh"": 1, ""Lover boy"": 1, ""Ein bißchen Sonne, ein bißchen Regen"": 1, ""Ich habe meine Tage"": 1, ""Reise nach Jerusalem - Kudüs'e Seyahat"": 1}",19.727,19.0,0.0
+Informal translation,11,0.545455,0.0,5,"{""It hurts so much"": 1, ""A little sun, a little rain"": 1, ""I've got my period"": 1, ""Journey to Jerusalem"": 1, ""Just listen to the children"": 1}",21.6,20.0,0.545455
+Act,11,0.0,0.0,11,"{""Jeanette Biedermann"": 1, ""Carol Bee"": 1, ""Patrick Lindner"": 1, ""Megasüß"": 1, ""Sürpriz"": 1}",10.0,7.0,0.0
+Percentage of votes,11,0.0,0.0,5,"{""Unknown"": 7, ""12.2%"": 1, ""16.2%"": 1, ""32.6%"": 1, ""15.9%"": 1}",6.273,7.0,0.0
+Final position,11,0.0,0.909091,11,"{""4"": 1, ""7"": 1, ""6"": 1, ""8"": 1, ""2"": 1}",1.636,1.0,0.0

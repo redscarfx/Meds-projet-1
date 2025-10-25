@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,15,0.0,0.933333,9,"{""8"": 7, ""1"": 1, ""2"": 1, ""3"": 1, ""4"": 1}",1.267,1.0,0.0
+Country,15,0.0,0.0,15,"{""Spain"": 1, ""Germany\n East Germany"": 1, ""Soviet Union\n Russia"": 1, ""Hungary"": 1, ""Belarus"": 1}",9.933,7.0,0.0
+Winners,15,0.0,0.866667,7,"{""0"": 8, ""2"": 2, ""17"": 1, ""11\n1\n12"": 1, ""2\n1\n3"": 1}",1.8,1.0,0.0
+Runners-up,15,0.0,0.866667,8,"{""1"": 7, ""3"": 2, ""8"": 1, ""10\n3\n13"": 1, ""1\n0\n1"": 1}",1.733,1.0,0.0
+Finals Total,15,0.0,0.866667,8,"{""1"": 7, ""2"": 2, ""25"": 1, ""21\n4\n25"": 1, ""3\n1\n4"": 1}",1.8,1.0,0.0

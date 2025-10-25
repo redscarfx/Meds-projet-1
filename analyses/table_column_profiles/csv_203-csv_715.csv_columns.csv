@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,12,0.0,1.0,10,"{""2008"": 2, ""2011"": 2, ""2002"": 1, ""2003"": 1, ""2004"": 1}",4.0,4.0,0.0
+Competition,12,0.0,0.0,6,"{""European Championships"": 3, ""World Championships"": 3, ""Olympic Games"": 3, ""World Indoor Championships"": 1, ""European Team Championships"": 1}",20.333,20.5,0.0
+Venue,12,0.0,0.0,11,"{""Gothenburg, Sweden"": 2, ""Munich, Germany"": 1, ""Paris, France"": 1, ""Athens, Greece"": 1, ""Valencia, Spain"": 1}",15.667,15.0,0.0
+Position,12,0.0,0.0,9,"{""6th"": 2, ""9th"": 2, ""3rd"": 2, ""5th"": 1, ""2nd"": 1}",3.25,3.0,0.0
+Notes,12,0.0,0.0,11,"{""8.06 m"": 2, ""7.78 m"": 1, ""7.93 m"": 1, ""8.25 m"": 1, ""7.74 m"": 1}",6.0,6.0,0.0

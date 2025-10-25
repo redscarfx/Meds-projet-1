@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Race,24,0.0,1.0,24,"{""1"": 1, ""2"": 1, ""23"": 1, ""22"": 1, ""21"": 1}",1.625,2.0,0.0
+Race Name,24,0.0,0.0,12,"{""Race of Brazil"": 2, ""Race of Belgium"": 2, ""Race of Italy"": 2, ""Race of Hungary"": 2, ""Race of the Czech Republic"": 2}",15.083,14.5,0.0
+Pole Position,24,0.5,0.0,3,"{""Robert Huff"": 4, ""Alain Menu"": 4, ""Yvan Muller"": 4}",10.667,11.0,0.0
+Fastest lap,24,0.0,0.0,7,"{""Robert Huff"": 9, ""Yvan Muller"": 8, ""Norbert Michelisz"": 2, ""Alain Menu"": 2, ""Javier Villa"": 1}",11.625,11.0,0.0
+Winning driver,24,0.0,0.0,6,"{""Robert Huff"": 8, ""Yvan Muller"": 8, ""Alain Menu"": 5, ""Gabriele Tarquini"": 1, ""Franz Engstler"": 1}",11.167,11.0,0.0
+Winning team,24,0.0,0.0,4,"{""Chevrolet"": 21, ""Lukoil – SUNRED"": 1, ""Liqui Moly Team Engstler"": 1, ""ROAL Motorsport"": 1}",10.125,9.0,0.0
+Yokohama winner,24,0.0,0.0,8,"{""Kristian Poulsen"": 6, ""Michel Nykjær"": 5, ""Norbert Michelisz"": 4, ""Franz Engstler"": 4, ""Colin Turkington"": 2}",14.875,15.0,0.0
+Jay-Ten Winner,24,0.0,0.0,9,"{""Aleksei Dudukalo"": 5, ""Fabio Fabiani"": 4, ""Michel Nykjær"": 3, ""no finishers"": 3, ""Pepe Oriola"": 2}",12.75,13.0,0.0
+Report,24,0.0,0.0,1,"{""Report"": 24}",6.0,6.0,0.0

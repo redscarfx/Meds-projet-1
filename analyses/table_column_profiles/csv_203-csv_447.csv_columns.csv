@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Constituency,38,0.0,1.0,19,"{""1"": 2, ""11"": 2, ""18"": 2, ""17"": 2, ""16"": 2}",1.526,2.0,0.0
+Region,38,0.0,0.0,14,"{""Valparaíso"": 4, ""Santiago"": 4, ""Maule"": 4, ""Biobío"": 4, ""Araucanía"": 4}",11.105,9.0,0.0
+Name,38,0.0,0.0,38,"{""Fulvio Rossi"": 1, ""Eugenio Tuma"": 1, ""Hernán Larraín Fernández"": 1, ""Alejandro Navarro Brain\n(Vice-President, March 20, 2012–March 20, 2013)"": 1, ""Hosain Sabag Castillo"": 1}",32.237,20.0,0.0
+Party,38,0.0,0.0,8,"{""PDC"": 9, ""UDI"": 8, ""RN"": 8, ""PS"": 5, ""PPD"": 4}",2.737,3.0,0.0
+Last elected,38,0.0,1.0,3,"{""2005"": 20, ""2009"": 17, ""2001"": 1}",4.0,4.0,0.0

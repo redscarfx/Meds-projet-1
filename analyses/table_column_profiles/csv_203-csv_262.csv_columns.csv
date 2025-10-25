@@ -1,0 +1,10 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,8,0.0,1.0,8,"{""2001"": 1, ""2003"": 1, ""2004"": 1, ""2006"": 1, ""2007"": 1}",4.0,4.0,0.0
+Team,8,0.0,0.0,7,"{""Team Essex"": 2, ""Team Den Blå Avis\n Team Goh"": 1, ""RN Motorsport"": 1, ""Lister Racing"": 1, ""Zytek Engineering\n Team Essex Invest"": 1}",18.25,13.0,0.0
+Co-Drivers,8,0.0,0.0,8,"{""John Nielsen\n Hiroki Katoh"": 1, ""John Nielsen\n Hayanari Shimoda"": 1, ""John Nielsen\n Jens Møller"": 1, ""John Nielsen\n Philip Andersen"": 1, ""Christophe Bouchut\n Fabrizio Gollin"": 1}",29.125,28.5,0.0
+Car,8,0.0,0.0,7,"{""Porsche RS Spyder Evo"": 2, ""Dome S101-Judd"": 1, ""DBA4 03S-Zytek"": 1, ""Lister Storm LMP-Chevrolet"": 1, ""Zytek 06S"": 1}",17.875,19.0,0.0
+Class,8,0.0,0.0,5,"{""LMP1"": 3, ""LMP2"": 2, ""LMP900"": 1, ""LMP675"": 1, ""GT1"": 1}",4.375,4.0,0.0
+Laps,8,0.0,1.0,8,"{""66"": 1, ""288"": 1, ""279"": 1, ""269"": 1, ""341"": 1}",2.875,3.0,0.0
+Pos.,8,0.0,0.0,7,"{""DNF"": 2, ""22nd"": 1, ""24th"": 1, ""NC"": 1, ""7th"": 1}",3.375,3.5,0.0
+"Class
+Pos.",8,0.0,0.0,6,"{""DNF"": 2, ""2nd"": 2, ""9th"": 1, ""NC"": 1, ""3rd"": 1}",2.875,3.0,0.0

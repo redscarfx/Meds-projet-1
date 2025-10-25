@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rnd.,263,0.0,0.851711,19,"{""1"": 32, ""4"": 32, ""7"": 32, ""6"": 32, ""2"": 32}",1.148,1.0,0.0
+Pick #,263,0.007605,0.992395,261,"{""1"": 1, ""165"": 1, ""167"": 1, ""168"": 1, ""169"": 1}",2.586,3.0,0.007605
+NFL team,263,0.0,0.0,32,"{""Houston Texans"": 12, ""San Francisco 49ers"": 11, ""Washington Redskins"": 10, ""Tennessee Titans"": 10, ""Seattle Seahawks"": 10}",16.369,16.0,0.0
+Player,263,0.0,0.0,262,"{""forfeited due to a salary cap violation"": 2, ""David Carr"": 1, ""Bryan Knight"": 1, ""Courtland Bullard"": 1, ""Pete Hunter"": 1}",12.916,13.0,0.0
+Pos.,263,0.0,0.0,20,"{""WR"": 34, ""LB"": 27, ""DE"": 24, ""TE"": 23, ""CB"": 22}",2.133,2.0,0.0
+College,263,0.0,0.0,104,"{""Miami (FL)"": 11, ""Tennessee"": 10, ""Georgia"": 8, ""Florida"": 8, ""Virginia Tech"": 8}",9.688,9.0,0.0
+Conf.,263,0.0,0.0,28,"{""SEC"": 47, ""Big Ten"": 36, ""Pac-10"": 32, ""Big East"": 27, ""Big 12"": 25}",5.468,6.0,0.0
+Notes,263,0.726236,0.0,42,"{""from Dallas"": 5, ""from Green Bay"": 4, ""from Miami"": 4, ""from Chicago"": 3, ""from Washington"": 3}",16.75,14.0,0.0

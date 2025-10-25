@@ -1,0 +1,14 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Site name,100,0.0,0.0,100,"{""Abney & Bretton Cloughs"": 1, ""Lower Peaslows Farm Meadow"": 1, ""Moss Valley Woods"": 1, ""Moss Valley Meadows"": 1, ""Moss Valley"": 1}",17.28,15.0,0.0
+"Reason for designation
+Biological interest",100,1.0,0.0,0,{},0.0,0.0,0.0
+"Reason for designation
+Geological interest",100,1.0,0.0,0,{},0.0,0.0,0.0
+"Area
+Hectares",100,0.0,0.96,91,"{""0.7"": 3, ""3.5"": 2, ""0.1"": 2, ""0.9"": 2, ""1.0"": 2}",3.84,4.0,0.0
+"Area
+Acres",100,0.0,0.93,93,"{""12.7"": 2, ""8.7"": 2, ""0.3"": 2, ""44.2"": 2, ""37.0"": 2}",4.22,4.0,0.0
+Coordinates & Grid ref,100,0.0,0.0,100,"{""53°18′29″N 1°41′20″W﻿ / ﻿53.308°N 1.689°W\n    SK208790"": 1, ""53°19′23″N 1°52′59″W﻿ / ﻿53.323°N 1.883°W\n    SK079807"": 1, ""53°19′01″N 1°26′42″W﻿ / ﻿53.317°N 1.445°W\n    SK371801"": 1, ""53°20′02″N 1°25′23″W﻿ / ﻿53.334°N 1.423°W\n    SK385820"": 1, ""53°18′58″N 1°22′26″W﻿ / ﻿53.316°N 1.374°W\n    SK418801"": 1}",53.78,54.0,0.0
+Year in which notified,100,0.0,1.0,25,"{""1963"": 12, ""1954"": 9, ""1990"": 9, ""1981"": 8, ""2011"": 7}",4.0,4.0,0.0
+Other designations,100,0.32,0.0,29,"{""GCR"": 25, ""NP"": 4, ""SM, NP"": 3, ""SAC"": 3, ""NT"": 2}",7.206,3.0,0.0
+Map & Citation,100,0.0,0.0,1,"{""Map"": 100}",3.0,3.0,0.0

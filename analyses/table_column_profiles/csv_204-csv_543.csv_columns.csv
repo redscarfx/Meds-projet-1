@@ -1,0 +1,9 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+National Team,8,0.0,0.0,8,"{""Brazil"": 1, ""Italy"": 1, ""Germany"": 1, ""Uruguay"": 1, ""Argentina"": 1}",6.5,6.5,0.0
+"Title(s)
+represented",8,0.0,0.0,2,"{""World Cup"": 7, ""World Cup and Olympics"": 1}",10.625,9.0,0.0
+"First
+worn",8,0.0,1.0,7,"{""2003"": 2, ""1971"": 1, ""1982"": 1, ""1996"": 1, ""1930"": 1}",4.0,4.0,0.0
+"Number
+of stars",8,0.0,1.0,5,"{""1"": 3, ""4"": 2, ""5"": 1, ""3"": 1, ""2"": 1}",1.0,1.0,0.0
+Notes,8,0.0,0.0,8,"{""Third win was in 1970; fourth and fifth stars added after 1994 and 2002 wins. Briefly wore 2 stars on a tour of Europe in 1968."": 1, ""Added after third win; fourth star added after the 2006 win. Incorporated into the badge since 2006."": 1, ""1954, 1974, Third win was in 1990."": 1, ""Represent 2 World Cups (1930 & 1950) and 2 Olympic football titles (1924 & 1928) recognized as FIFA World Championships."": 1, ""1978, Second win was in 1986."": 1}",103.625,110.5,0.0

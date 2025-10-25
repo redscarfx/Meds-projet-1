@@ -1,0 +1,8 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Team,32,0.0,0.0,26,"{""Ware Racing Enterprises"": 3, ""Bobby Hamilton Racing"": 3, ""Ultra Motorsports"": 2, ""Green Light Racing"": 2, ""Addington Racing"": 1}",17.5,17.5,0.0
+Truck(s),32,0.0,0.0,3,"{""Chevrolet Silverado"": 14, ""Dodge Ram"": 13, ""Ford F-150"": 5}",13.531,10.0,0.0
+#,32,0.0,1.0,31,"{""8"": 2, ""60"": 1, ""68"": 1, ""81"": 1, ""51"": 1}",1.781,2.0,0.0
+Driver(s),32,0.0,0.0,32,"{""Travis Kvapil"": 1, ""Brian Rose"": 1, ""Angie Wilson (R)"": 1, ""Michael Dokken"": 1, ""Lance Hooper"": 1}",13.188,13.0,0.0
+Primary Sponsor(s),32,0.125,0.0,28,"{""CAT Rental Stores"": 1, ""Perry Connection"": 1, ""TotalRaceBabe.com"": 1, ""OOIDA"": 1, ""Diamond Cut Jeans/Blair5.com"": 1}",17.179,16.5,0.0
+Listed Owner(s),32,0.0,0.0,28,"{""Rick Ware"": 3, ""Bobby Hamilton"": 2, ""Gene Christensen"": 2, ""Mike Addington"": 1, ""Wendy Sawyers"": 1}",12.625,13.0,0.0
+Crew Chief,32,0.0,0.0,32,"{""Rick Ren"": 1, ""Danny Rollins"": 1, ""Calvin Humphries"": 1, ""Ken Glen"": 1, ""Cal Northrop"": 1}",11.719,11.0,0.0

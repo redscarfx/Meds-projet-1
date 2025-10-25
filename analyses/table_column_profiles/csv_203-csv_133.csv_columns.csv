@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Year,22,0.0,1.0,13,"{""2005"": 3, ""2008"": 3, ""2009"": 3, ""2002"": 2, ""2007"": 2}",4.0,4.0,0.0
+Japanese title,22,0.0,0.0,21,"{""Hanazakari no Kimitachi e"": 2, ""あぐり"": 1, ""Osozaki no Himawari ~Boku no Jinsei, Renewal~ (遅咲きのヒマワリ ~ボクの人生、リニューアル~)"": 1, ""Kyuukei no Kouya"": 1, ""Unobore Deka (うぬぼれ刑事)"": 1}",23.318,22.0,0.0
+English title,22,0.090909,0.0,19,"{""Ikemen Paradise"": 2, ""Agri"": 1, ""Spherical Wilderness"": 1, ""Conceited Detective"": 1, ""The Law of Recycling Suicides"": 1}",16.45,15.0,0.090909
+Role,22,0.090909,0.0,19,"{""Shuichi Nakatsu"": 2, ""Yūta Takemoto"": 1, ""Jotaro Kodaira"": 1, ""Shoichi Soeda"": 1, ""Sadame Honjo"": 1}",12.05,13.0,0.090909
+Network,22,0.090909,0.0,5,"{""Fuji TV"": 11, ""TBS"": 5, ""NHK"": 2, ""NTV"": 1, ""TV Asahi"": 1}",5.45,7.0,0.0

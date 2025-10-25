@@ -1,0 +1,6 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Unnamed: 0,8,0.0,0.0,8,"{""1st sg"": 1, ""2nd sg"": 1, ""3rd sg"": 1, ""1st dual"": 1, ""2nd dual"": 1}",6.5,6.0,0.0
+'be',8,0.0,0.0,8,"{""esmì"": 1, ""esì"": 1, ""ẽst(i)"": 1, ""esvà"": 1, ""està"": 1}",4.125,4.0,0.0
+'remain',8,0.0,0.0,7,"{""liẽkt(i)"": 2, ""liekmì"": 1, ""lieksì"": 1, ""liekvà"": 1, ""liektà"": 1}",6.5,6.0,0.0
+'give',8,0.0,0.0,7,"{""dúost(i)"": 2, ""dúomi"": 1, ""dúosi"": 1, ""dúova"": 1, ""dúosta"": 1}",6.0,5.5,0.0
+'save',8,0.0,0.0,7,"{""gélbt(i)"": 2, ""gélbmi"": 1, ""gélbsi"": 1, ""gélbva"": 1, ""gélbta"": 1}",6.5,6.0,0.0

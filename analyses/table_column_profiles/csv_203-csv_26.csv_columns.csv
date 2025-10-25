@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Edition,31,0.032258,0.0,30,"{""30th"": 1, ""29th"": 1, ""2nd"": 1, ""3rd"": 1, ""4th"": 1}",3.7,4.0,0.032258
+Year,31,0.0,0.0,31,"{""October 13, 2013"": 1, ""October 12, 1997"": 1, ""July 23, 1960"": 1, ""1961–1981"": 1, ""October 24, 1982"": 1}",15.419,16.0,0.0
+Men's winner,31,0.0,0.0,26,"{""Willy Cheruiyot (KEN)"": 4, ""Geoffrey Mutai (KEN)"": 2, ""Philip Singoei (KEN)"": 2, ""Yemane Tsegay (ETH)"": 1, ""Mohamed Kamel Selmi (ALG)"": 1}",20.806,20.0,0.0
+Time,31,0.032258,0.0,29,"{""2:12:47"": 2, ""2:09:11"": 1, ""2:10:51"": 1, ""2:26:07 NR"": 1, ""2:16:27"": 1}",7.1,7.0,0.032258
+Women's winner,31,0.096774,0.0,23,"{""Mieke Hombergen (NED)"": 3, ""Heather MacDuff (ENG)"": 2, ""Lydia Kurgat (KEN)"": 2, ""Simona Staicu (ROU)"": 2, ""Ruth Wanjiru (KEN)"": 1}",21.0,21.0,0.096774
+Time.1,31,0.096774,0.0,28,"{""2:34:48"": 1, ""2:27:20"": 1, ""3:12:13"": 1, ""2:55:39"": 1, ""2:34:26"": 1}",7.0,7.0,0.096774

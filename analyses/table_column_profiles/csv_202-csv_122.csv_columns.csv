@@ -1,0 +1,7 @@
+column,n_cells,missing_ratio,numeric_ratio,unique_count,top_values,avg_len_non_empty,median_len_non_empty,special_only_ratio
+Rank,20,0.0,1.0,20,"{""1.0"": 1, ""2.0"": 1, ""19.0"": 1, ""18.0"": 1, ""17.0"": 1}",3.55,4.0,0.0
+Title,20,0.0,0.0,20,"{""Three Men and a Baby"": 1, ""Fatal Attraction"": 1, ""The Living Daylights"": 1, ""Broadcast News"": 1, ""La Bamba"": 1}",15.4,16.0,0.0
+Studio,20,0.0,0.0,10,"{""Touchstone"": 4, ""Paramount"": 4, ""Universal"": 2, ""Warner Bros."": 2, ""Fox"": 2}",8.3,9.0,0.0
+Actor/Actress,20,0.0,0.0,20,"{""Tom Selleck, Ted Danson, and Steve Guttenberg"": 1, ""Michael Douglas, Glenn Close, and Anne Archer"": 1, ""Timothy Dalton and Maryam d'Abo"": 1, ""William Hurt, Holly Hunter, and Albert Brooks"": 1, ""Lou Diamond Phillips, Esai Morales, Rosana DeSoto, Elizabeth Peña, and Danielle von Zerneck"": 1}",58.55,60.5,0.0
+Director,20,0.0,0.0,20,"{""Leonard Nimoy"": 1, ""Adrian Lyne"": 1, ""John Glen"": 1, ""James L. Brooks"": 1, ""Luis Valdez"": 1}",12.85,13.5,0.0
+Gross,20,0.0,0.0,20,"{""$167,780,960"": 1, ""$156,645,693"": 1, ""$51,185,000"": 1, ""$51,300,000"": 1, ""$52,678,820"": 1}",11.2,11.0,0.0
